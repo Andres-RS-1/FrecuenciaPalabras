@@ -1,0 +1,3 @@
+"0","text_2001 %>%"
+"0","  filter(grepl(pattern = '[0-9]', x = word)) %>% "
+"0","  count(word, sort = TRUE)"

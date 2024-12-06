@@ -1,0 +1,95 @@
+"0","# ----------  ----------"
+"0","set.seed(123)"
+"0","text_2008 %>%"
+"0","  inner_join(sentiment_words) %>%"
+"0","  count(word, sentiment, sort = TRUE) %>%"
+"0","  acast(word ~ sentiment, value.var = ""n"", fill = 0) %>%"
+"0","  comparison.cloud(colors = brewer.pal(8,'Dark2')[c(2,5)], "
+"0","                   max.words = 50, title.size = 1.5)"
+"1","[38;5;232mJoining with `by = join_by(word)`[39m
+"
+"2","Warning in comparison.cloud(., colors = brewer.pal(8, ""Dark2"")[c(2, 5)],  :"
+"2","
+ "
+"2"," gracias could not be fit on page. It will not be plotted.
+"
+"2","Warning in comparison.cloud(., colors = brewer.pal(8, ""Dark2"")[c(2, 5)],  :"
+"2","
+ "
+"2"," plano could not be fit on page. It will not be plotted.
+"
+"2","Warning in comparison.cloud(., colors = brewer.pal(8, ""Dark2"")[c(2, 5)],  :"
+"2","
+ "
+"2"," estudiante could not be fit on page. It will not be plotted.
+"
+"2","Warning in comparison.cloud(., colors = brewer.pal(8, ""Dark2"")[c(2, 5)],  :"
+"2","
+ "
+"2"," problemas could not be fit on page. It will not be plotted.
+"
+"2","Warning in comparison.cloud(., colors = brewer.pal(8, ""Dark2"")[c(2, 5)],  :"
+"2","
+ "
+"2"," actualizado could not be fit on page. It will not be plotted.
+"
+"2","Warning in comparison.cloud(., colors = brewer.pal(8, ""Dark2"")[c(2, 5)],  :"
+"2","
+ "
+"2"," capacidad could not be fit on page. It will not be plotted.
+"
+"2","Warning in comparison.cloud(., colors = brewer.pal(8, ""Dark2"")[c(2, 5)],  :"
+"2","
+ "
+"2"," completamente could not be fit on page. It will not be plotted.
+"
+"2","Warning in comparison.cloud(., colors = brewer.pal(8, ""Dark2"")[c(2, 5)],  :"
+"2","
+ "
+"2"," mejores could not be fit on page. It will not be plotted.
+"
+"2","Warning in comparison.cloud(., colors = brewer.pal(8, ""Dark2"")[c(2, 5)],  :"
+"2","
+ "
+"2"," equivocado could not be fit on page. It will not be plotted.
+"
+"2","Warning in comparison.cloud(., colors = brewer.pal(8, ""Dark2"")[c(2, 5)],  :"
+"2","
+ "
+"2"," pequeño could not be fit on page. It will not be plotted.
+"
+"2","Warning in comparison.cloud(., colors = brewer.pal(8, ""Dark2"")[c(2, 5)],  :"
+"2","
+ "
+"2"," persistente could not be fit on page. It will not be plotted.
+"
+"2","Warning in comparison.cloud(., colors = brewer.pal(8, ""Dark2"")[c(2, 5)],  :"
+"2","
+ "
+"2"," problema could not be fit on page. It will not be plotted.
+"
+"2","Warning in comparison.cloud(., colors = brewer.pal(8, ""Dark2"")[c(2, 5)],  :"
+"2","
+ "
+"2"," usado could not be fit on page. It will not be plotted.
+"
+"2","Warning in comparison.cloud(., colors = brewer.pal(8, ""Dark2"")[c(2, 5)],  :"
+"2","
+ "
+"2"," excelente could not be fit on page. It will not be plotted.
+"
+"2","Warning in comparison.cloud(., colors = brewer.pal(8, ""Dark2"")[c(2, 5)],  :"
+"2","
+ "
+"2"," fenomenal could not be fit on page. It will not be plotted.
+"
+"2","Warning in comparison.cloud(., colors = brewer.pal(8, ""Dark2"")[c(2, 5)],  :"
+"2","
+ "
+"2"," inmediatamente could not be fit on page. It will not be plotted.
+"
+"2","Warning in comparison.cloud(., colors = brewer.pal(8, ""Dark2"")[c(2, 5)],  :"
+"2","
+ "
+"2"," interesante could not be fit on page. It will not be plotted.
+"

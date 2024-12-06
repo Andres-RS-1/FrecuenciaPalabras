@@ -1,0 +1,3 @@
+"0","text_2005 %>% "
+"0","  count(word, sort = TRUE)  %>%"
+"0","  head(n = 10)"

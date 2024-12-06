@@ -1,0 +1,4 @@
+"0","# texto no normalizado"
+"0","# no tiene ""estructura"" para analizar"
+"0",""
+"0","text_2001 <- tibble(line = 1:length(text_2001), text = text_2001)"

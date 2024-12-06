@@ -1,0 +1,1918 @@
+---
+title: "Apple Worldwide Developers Conference 1997 - 2010"
+author: "Andrés Rincón - Santiago Quiroga"
+date: "2024-12-03"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+# Configuración de los chunks de código
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### Importacion de textos.
+
+```{r}
+##### importar datos
+# Carga de librerías necesarias
+suppressMessages(suppressWarnings(library(readr)))  # Lectura de archivos CSV
+suppressMessages(suppressWarnings(library(tidyverse)))  # Conjunto de paquetes para manipulación de datos
+# warnings debido a caracteres no UTF-8 o vacios ("")
+# UTF-8 (8-bit Unicode Transformation Format) es un formato de codificación de caracteres 
+# capaz de codificar todos los code points validos en Unicode
+# Importar los textos de las conferencias
+text_1997 <- read_csv("AppleWWDC1997_es.txt", col_names = FALSE, show_col_types = FALSE)
+text_2001 <- read_csv("AppleWWDC2001_es.txt", col_names = FALSE, show_col_types = FALSE)
+text_2005 <- read_csv("AppleWWDC2005_es.txt", col_names = FALSE, show_col_types = FALSE)
+text_2008 <- read_csv("AppleWWDC2008_es.txt", col_names = FALSE, show_col_types = FALSE)
+text_2010 <- read_csv("AppleWWDC2010_es.txt", col_names = FALSE, show_col_types = FALSE)
+
+```
+
+```{r}
+class(text_1997)
+```
+
+```{r}
+text_1997 <- c(text_1997)
+class(text_1997)
+```
+
+```{r}
+text_1997 <- unlist(text_1997)
+class(text_1997)
+```
+
+```{r}
+names(text_1997) <- NULL  # importante!
+head(text_1997, n = 3)
+```
+
+```{r}
+text_2001 <- unlist(c(read_csv("AppleWWDC2001_es.txt", col_names = FALSE, show_col_types = FALSE)))
+```
+
+```{r}
+text_2005 <- unlist(c(read_csv("AppleWWDC2005_es.txt", col_names = FALSE, show_col_types = FALSE)))
+```
+
+```{r}
+text_2008 <- unlist(c(read_csv("AppleWWDC2008_es.txt", col_names = FALSE, show_col_types = FALSE)))
+```
+
+```{r}
+text_2010 <- unlist(c(read_csv("AppleWWDC2010_es.txt", col_names = FALSE, show_col_types = FALSE)))
+```
+
+```{r}
+names(text_2001) <- NULL
+```
+
+```{r}
+names(text_2005) <- NULL
+```
+
+```{r}
+names(text_2008) <- NULL
+```
+
+```{r}
+names(text_2010) <- NULL
+```
+
+```{r}
+##### data frame formato tidy
+
+text_1997 <- tibble(line = 1:length(text_1997), text = text_1997)  # tibble en lugar de data_frame
+class(text_1997)
+```
+
+```{r}
+dim(text_1997)
+```
+
+```{r}
+head(text_1997, n = 3)
+```
+
+```{r}
+# texto no normalizado
+# no tiene "estructura" para analizar
+
+text_2001 <- tibble(line = 1:length(text_2001), text = text_2001)
+```
+
+```{r}
+text_2005 <- tibble(line = 1:length(text_2005), text = text_2005)
+```
+
+```{r}
+text_2008 <- tibble(line = 1:length(text_2008), text = text_2008)
+```
+
+```{r}
+text_2010 <- tibble(line = 1:length(text_2010), text = text_2010)
+```
+
+#Tokenizacion
+
+```{r}
+suppressMessages(suppressWarnings(library(tidytext)))
+suppressMessages(suppressWarnings(library(magrittr)))
+##### tokenizacion formato tidy
+
+text_1997 %<>%
+  unnest_tokens(input = text, output = word) %>%
+  filter(!is.na(word))  # importante!
+class(text_1997)
+```
+
+```{r}
+dim(text_1997)
+```
+
+```{r}
+head(text_1997, n = 10)
+```
+
+```{r}
+text_2001 %<>%
+  unnest_tokens(input = text, output = word) %>%
+  filter(!is.na(word))
+dim(text_2001)
+```
+
+```{r}
+text_2005 %<>%
+  unnest_tokens(input = text, output = word) %>%
+  filter(!is.na(word))
+dim(text_2005)
+```
+
+```{r}
+text_2008 %<>%
+  unnest_tokens(input = text, output = word) %>%
+  filter(!is.na(word))
+dim(text_2008)
+```
+
+```{r}
+text_2010 %<>%
+  unnest_tokens(input = text, output = word) %>%
+  filter(!is.na(word))
+dim(text_2010)
+```
+
+```{r}
+head(text_2001, n = 10)
+```
+
+```{r}
+head(text_2005, n = 10)
+```
+
+```{r}
+head(text_2008, n = 10)
+```
+
+```{r}
+head(text_2010, n = 10)
+```
+
+#Nomrmalizacion de texto
+
+```{r}
+##### texto con numeros?
+
+text_1997 %>%
+  filter(grepl(pattern = '[0-9]', x = word)) %>% 
+  count(word, sort = TRUE)
+```
+
+```{r}
+text_2001 %>%
+  filter(grepl(pattern = '[0-9]', x = word)) %>% 
+  count(word, sort = TRUE)
+```
+
+```{r}
+text_2005 %>%
+  filter(grepl(pattern = '[0-9]', x = word)) %>% 
+  count(word, sort = TRUE)
+```
+
+```{r}
+text_2008 %>%
+  filter(grepl(pattern = '[0-9]', x = word)) %>% 
+  count(word, sort = TRUE)
+```
+
+```{r}
+text_2010 %>%
+  filter(grepl(pattern = '[0-9]', x = word)) %>% 
+  count(word, sort = TRUE)
+```
+
+```{r}
+##### remover texto con numeros
+
+text_1997 %<>%
+  filter(!grepl(pattern = '[0-9]', x = word))
+dim(text_1997)
+```
+
+```{r}
+text_2001 %<>%
+  filter(!grepl(pattern = '[0-9]', x = word))
+dim(text_2001)
+```
+
+```{r}
+text_2005 %<>%
+  filter(!grepl(pattern = '[0-9]', x = word))
+dim(text_2005)
+```
+
+```{r}
+text_2008 %<>%
+  filter(!grepl(pattern = '[0-9]', x = word))
+dim(text_2008)
+```
+
+```{r}
+text_2010 %<>%
+  filter(!grepl(pattern = '[0-9]', x = word))
+dim(text_2010)
+```
+
+```{r}
+dim(stop_words)
+```
+
+```{r}
+head(stop_words, n = 10)
+```
+
+```{r}
+table(stop_words$lexicon)
+```
+
+```{r}
+###### stop words 
+# no hay diccionarios en español disponibles en tidytext
+# diccionario COUNTWORDSFREE en español (con acentos)
+# http://countwordsfree.com/stopwords/spanish
+# otras alternativas:
+#   https://github.com/stopwords-iso/stopwords-es
+#   de tm::stopwords("spanish")
+# se conserva el mismo formato de los diccionarios en tidytext
+stop_words_es <- tibble(word = unlist(c(read.table("stop_words_spanish.txt", quote="\"", comment.char=""))), lexicon = "custom")
+dim(stop_words_es)
+```
+
+```{r}
+head(stop_words_es, n = 10)
+```
+
+```{r}
+##### remover stop words
+
+text_1997 %<>% 
+  anti_join(x = ., y = stop_words_es)
+```
+
+```{r}
+dim(text_1997)
+```
+
+```{r}
+head(text_1997, n = 10)
+```
+
+```{r}
+text_2001 %<>% 
+  anti_join(x = ., y = stop_words_es)
+```
+
+```{r}
+dim(text_2001)
+```
+
+```{r}
+head(text_2001, n = 10)
+```
+
+```{r}
+text_2005 %<>% 
+  anti_join(x = ., y = stop_words_es)
+```
+
+```{r}
+dim(text_2005)
+```
+
+```{r}
+head(text_2005, n = 10)
+```
+
+```{r}
+text_2008 %<>% 
+  anti_join(x = ., y = stop_words_es)
+```
+
+```{r}
+dim(text_2008)
+```
+
+```{r}
+head(text_2008, n = 10)
+```
+
+```{r}
+text_2010 %<>% 
+  anti_join(x = ., y = stop_words_es)
+```
+
+```{r}
+dim(text_2010)
+```
+
+```{r}
+head(text_2010, n = 10)
+```
+
+```{r}
+##### remover acentos
+replacement_list <- list('á' = 'a', 'é' = 'e', 'í' = 'i', 'ó' = 'o', 'ú' = 'u')
+
+text_1997 %<>% 
+  mutate(word = chartr(old = names(replacement_list) %>% str_c(collapse = ''), 
+                       new = replacement_list %>% str_c(collapse = ''),
+                       x = word))
+dim(text_1997)
+```
+
+```{r}
+head(text_1997, n = 10)
+```
+
+```{r}
+text_2001 %<>% 
+  mutate(word = chartr(old = names(replacement_list) %>% str_c(collapse = ''), 
+                       new = replacement_list %>% str_c(collapse = ''),
+                       x = word))
+dim(text_2001)
+```
+
+```{r}
+head(text_2001, n = 10)
+```
+
+```{r}
+text_2005 %<>% 
+  mutate(word = chartr(old = names(replacement_list) %>% str_c(collapse = ''), 
+                       new = replacement_list %>% str_c(collapse = ''),
+                       x = word))
+dim(text_2005)
+```
+
+```{r}
+head(text_2005, n = 10)
+```
+
+```{r}
+text_2008 %<>% 
+  mutate(word = chartr(old = names(replacement_list) %>% str_c(collapse = ''), 
+                       new = replacement_list %>% str_c(collapse = ''),
+                       x = word))
+dim(text_2008)
+```
+
+```{r}
+head(text_2008, n = 10)
+```
+
+```{r}
+text_2010 %<>% 
+  mutate(word = chartr(old = names(replacement_list) %>% str_c(collapse = ''), 
+                       new = replacement_list %>% str_c(collapse = ''),
+                       x = word))
+dim(text_2010)
+```
+
+```{r}
+head(text_2010, n = 10)
+```
+
+#Tokens mas frecuentes
+
+```{r}
+##### top 10 de tokens mas frecuentes
+
+text_1997 %>% 
+  count(word, sort = TRUE) %>%
+  head(n = 10)
+```
+
+```{r}
+text_2001 %>% 
+  count(word, sort = TRUE)  %>%
+  head(n = 10)
+```
+
+```{r}
+text_2005 %>% 
+  count(word, sort = TRUE)  %>%
+  head(n = 10)
+```
+
+```{r}
+text_2008 %>% 
+  count(word, sort = TRUE)  %>%
+  head(n = 10)
+```
+
+```{r}
+text_2010 %>% 
+  count(word, sort = TRUE)  %>%
+  head(n = 10)
+```
+
+```{r}
+##### viz
+suppressMessages(suppressWarnings(library(gridExtra)))
+
+
+p1 <- text_1997 %>%
+  count(word, sort = TRUE) %>%
+  slice_max(order_by = n, n = 20) %>%  # Mostrar solo las 10 palabras más frecuentes
+  mutate(word = reorder(word, n)) %>%
+  ggplot(aes(x = word, y = n)) +
+    theme_light() + 
+    geom_col(fill = 'darkolivegreen4', alpha = 0.8) +
+    xlab(NULL) +
+    ylab("Frecuencia") +
+    coord_flip() +
+    ggtitle(label = '1997: Conteo de palabras')
+
+
+p2 <- text_2001 %>%
+  count(word, sort = TRUE) %>%
+  slice_max(order_by = n, n = 20) %>%  # Mostrar solo las 10 palabras más frecuentes
+  mutate(word = reorder(word, n)) %>%
+  ggplot(aes(x = word, y = n)) +
+    theme_light() + 
+    geom_col(fill = 'blue4', alpha = 0.8) +
+    xlab(NULL) +
+    ylab("Frecuencia") +
+    coord_flip() +
+    ggtitle(label = '2001: Conteo de palabras')
+
+# Desplegar gráfico
+grid.arrange(p1, p2, ncol = 2)
+
+```
+
+```{r}
+##### viz
+suppressMessages(suppressWarnings(library(gridExtra)))
+
+
+p1 <- text_1997 %>%
+  count(word, sort = TRUE) %>%
+  slice_max(order_by = n, n = 20) %>%  # Mostrar solo las 10 palabras más frecuentes
+  mutate(word = reorder(word, n)) %>%
+  ggplot(aes(x = word, y = n)) +
+    theme_light() + 
+    geom_col(fill = 'darkolivegreen4', alpha = 0.8) +
+    xlab(NULL) +
+    ylab("Frecuencia") +
+    coord_flip() +
+    ggtitle(label = '1997: Conteo de palabras')
+
+
+p2 <- text_2005 %>%
+  count(word, sort = TRUE) %>%
+  slice_max(order_by = n, n = 20) %>%  # Mostrar solo las 10 palabras más frecuentes
+  mutate(word = reorder(word, n)) %>%
+  ggplot(aes(x = word, y = n)) +
+    theme_light() + 
+    geom_col(fill = 'blue4', alpha = 0.8) +
+    xlab(NULL) +
+    ylab("Frecuencia") +
+    coord_flip() +
+    ggtitle(label = '2005: Conteo de palabras')
+
+# Desplegar gráficos
+grid.arrange(p1, p2, ncol = 2)
+
+```
+
+```{r}
+##### viz
+suppressMessages(suppressWarnings(library(gridExtra)))
+
+
+p1 <- text_1997 %>%
+  count(word, sort = TRUE) %>%
+  slice_max(order_by = n, n = 20) %>%  # Mostrar solo las 20 palabras más frecuentes
+  mutate(word = reorder(word, n)) %>%
+  ggplot(aes(x = word, y = n)) +
+    theme_light() + 
+    geom_col(fill = 'darkolivegreen4', alpha = 0.8) +
+    xlab(NULL) +
+    ylab("Frecuencia") +
+    coord_flip() +
+    ggtitle(label = '1997: Conteo de palabras')
+
+
+p2 <- text_2008 %>%
+  count(word, sort = TRUE) %>%
+  slice_max(order_by = n, n = 20) %>%  # Mostrar solo las 20 palabras más frecuentes
+  mutate(word = reorder(word, n)) %>%
+  ggplot(aes(x = word, y = n)) +
+    theme_light() + 
+    geom_col(fill = 'blue4', alpha = 0.8) +
+    xlab(NULL) +
+    ylab("Frecuencia") +
+    coord_flip() +
+    ggtitle(label = '2008: Conteo de palabras')
+
+# Desplegar gráficos
+grid.arrange(p1, p2, ncol = 2)
+```
+
+```{r}
+##### viz
+suppressMessages(suppressWarnings(library(gridExtra)))
+
+
+p1 <- text_1997 %>%
+  count(word, sort = TRUE) %>%
+  slice_max(order_by = n, n = 20) %>%  # Mostrar solo las 20 palabras más frecuentes
+  mutate(word = reorder(word, n)) %>%
+  ggplot(aes(x = word, y = n)) +
+    theme_light() + 
+    geom_col(fill = 'darkolivegreen4', alpha = 0.8) +
+    xlab(NULL) +
+    ylab("Frecuencia") +
+    coord_flip() +
+    ggtitle(label = '1997: Conteo de palabras')
+
+
+p2 <- text_2010 %>%
+  count(word, sort = TRUE) %>%
+  slice_max(order_by = n, n = 20) %>%  # Mostrar solo las 20 palabras más frecuentes
+  mutate(word = reorder(word, n)) %>%
+  ggplot(aes(x = word, y = n)) +
+    theme_light() + 
+    geom_col(fill = 'blue4', alpha = 0.8) +
+    xlab(NULL) +
+    ylab("Frecuencia") +
+    coord_flip() +
+    ggtitle(label = '2010: Conteo de palabras')
+
+# Desplegar gráficos
+grid.arrange(p1, p2, ncol = 2)
+```
+
+```{r}
+suppressMessages(suppressWarnings(library(wordcloud)))
+###### viz
+par(mfrow = c(1,2), mar = c(1,1,2,1), mgp = c(1,1,1))
+
+set.seed(123)
+text_1997 %>%
+  count(word, sort = TRUE) %>%
+  with(wordcloud(words = word, freq = n, max.words = 20, colors = 'darkolivegreen4'))
+title(main = "1997")
+
+set.seed(123)
+text_2001 %>%
+  count(word, sort = TRUE) %>%
+  with(wordcloud(words = word, freq = n, max.words = 20, colors = 'blue4'))
+title(main = "2001")
+```
+
+```{r}
+suppressMessages(suppressWarnings(library(wordcloud)))
+###### viz
+par(mfrow = c(1,2), mar = c(1,1,2,1), mgp = c(1,1,1))
+
+set.seed(124)
+text_1997 %>%
+  count(word, sort = TRUE) %>%
+  with(wordcloud(words = word, freq = n, max.words = 20, colors = 'darkolivegreen4'))
+title(main = "1997")
+
+set.seed(124)
+text_2005 %>%
+  count(word, sort = TRUE) %>%
+  with(wordcloud(words = word, freq = n, max.words = 20, colors = 'blue4'))
+title(main = "2005")
+```
+
+```{r}
+suppressMessages(suppressWarnings(library(wordcloud)))
+###### viz
+par(mfrow = c(1,2), mar = c(1,1,2,1), mgp = c(1,1,1))
+
+set.seed(123)
+text_1997 %>%
+  count(word, sort = TRUE) %>%
+  with(wordcloud(words = word, freq = n, max.words = 20, colors = 'darkolivegreen4'))
+title(main = "1997")
+
+set.seed(123)
+text_2008 %>%
+  count(word, sort = TRUE) %>%
+  with(wordcloud(words = word, freq = n, max.words = 20, colors = 'blue4'))
+title(main = "2008")
+```
+
+```{r}
+suppressMessages(suppressWarnings(library(wordcloud)))
+###### viz
+par(mfrow = c(1,2), mar = c(1,1,2,1), mgp = c(1,1,1))
+
+set.seed(123)
+text_1997 %>%
+  count(word, sort = TRUE) %>%
+  with(wordcloud(words = word, freq = n, max.words = 20, colors = 'darkolivegreen4'))
+title(main = "1997")
+
+set.seed(123)
+text_2010 %>%
+  count(word, sort = TRUE) %>%
+  with(wordcloud(words = word, freq = n, max.words = 20, colors = 'blue4'))
+title(main = "2010")
+```
+
+```{r}
+##### frecuencias relativas de la palabras
+bind_rows(mutate(.data = text_1997, author = "1997"),
+                       mutate(.data = text_2001, author = "2001")) %>%
+  count(author, word) %>%
+  group_by(author) %>%
+  mutate(proportion = n/sum(n)) %>%
+  select(-n) %>%
+  spread(author, proportion, fill = 0) -> frec  # importante!
+frec %<>% 
+  select(word, "1997", "2001")
+dim(frec)
+```
+
+```{r}
+head(frec, n = 10)
+```
+
+```{r}
+##### top 10 palabras en comun
+# orden anidado respecto a petro y duque
+frec %>%
+  filter(1997 !=0, 2001 != 0) %>%
+  arrange(desc(1997), desc(2001)) -> frec_comun
+dim(frec_comun)
+head(frec_comun, n = 10)
+```
+
+```{r}
+###### proporcion palabras en comun
+dim(frec_comun)[1]/dim(frec)[1]
+```
+
+```{r}
+##### frecuencias relativas de la palabras
+bind_rows(mutate(.data = text_1997, author = "1997"),
+                       mutate(.data = text_2005, author = "2005")) %>%
+  count(author, word) %>%
+  group_by(author) %>%
+  mutate(proportion = n/sum(n)) %>%
+  select(-n) %>%
+  spread(author, proportion, fill = 0) -> frec  # importante!
+frec %<>% 
+  select(word, "1997", "2005")
+dim(frec)
+```
+
+```{r}
+head(frec, n = 10)
+```
+
+```{r}
+##### top 10 palabras en comun
+# orden anidado respecto a petro y duque
+frec %>%
+  filter(1997 !=0, 2005 != 0) %>%
+  arrange(desc(1997), desc(2005)) -> frec_comun1
+dim(frec_comun1)
+head(frec_comun1, n = 10)
+```
+
+```{r}
+###### proporcion palabras en comun
+dim(frec_comun1)[1]/dim(frec)[1]
+```
+
+```{r}
+##### frecuencias relativas de la palabras
+bind_rows(mutate(.data = text_1997, author = "1997"),
+                       mutate(.data = text_2008, author = "2008")) %>%
+  count(author, word) %>%
+  group_by(author) %>%
+  mutate(proportion = n/sum(n)) %>%
+  select(-n) %>%
+  spread(author, proportion, fill = 0) -> frec2  # importante!
+frec2 %<>% 
+  select(word, "1997", "2008")
+dim(frec2)
+```
+
+```{r}
+head(frec2, n = 10)
+```
+
+```{r}
+##### top 10 palabras en comun
+
+frec2 %>%
+  filter(1997 !=0, 2008 != 0) %>%
+  arrange(desc(1997), desc(2008)) -> frec_comun2
+dim(frec_comun2)
+head(frec_comun2, n = 10)
+```
+
+```{r}
+###### proporcion palabras en comun
+dim(frec_comun2)[1]/dim(frec2)[1]
+```
+
+```{r}
+##### frecuencias relativas de la palabras
+bind_rows(mutate(.data = text_1997, author = "1997"),
+                       mutate(.data = text_2010, author = "2010")) %>%
+  count(author, word) %>%
+  group_by(author) %>%
+  mutate(proportion = n/sum(n)) %>%
+  select(-n) %>%
+  spread(author, proportion, fill = 0) -> frec3  # importante!
+frec3 %<>% 
+  select(word, "1997", "2010")
+dim(frec3)
+```
+
+```{r}
+head(frec3, n = 10)
+```
+
+```{r}
+##### top 10 palabras en comun
+
+frec3 %>%
+  filter(1997 !=0, 2010 != 0) %>%
+  arrange(desc(1997), desc(2010)) -> frec_comun3
+dim(frec_comun3)
+head(frec_comun3, n = 10)
+```
+
+```{r}
+###### proporcion palabras en comun
+dim(frec_comun3)[1]/dim(frec3)[1]
+```
+
+```{r}
+##### Asignar frecuencias relativas a las variables correspondientes
+frec <- bind_rows(
+  mutate(text_1997, author = "freq_1997"),
+  mutate(text_2001, author = "freq_2001"),
+  mutate(text_2005, author = "freq_2005"),
+  mutate(text_2008, author = "freq_2008"),
+  mutate(text_2010, author = "freq_2010")
+) %>%
+  # Calcular frecuencias relativas
+  count(author, word) %>%
+  group_by(author) %>%
+  mutate(proportion = n / sum(n)) %>%
+  select(-n) %>%
+  spread(author, proportion, fill = 0)  # Crear columnas separadas por autor
+
+# Mostrar las dimensiones para verificar
+dim(frec)
+
+# Verificar las primeras filas
+head(frec)
+
+```
+
+```{r}
+cor.test(x = frec$freq_1997, y = frec$freq_2001)
+cor.test(x = frec$freq_1997, y = frec$freq_2005)
+cor.test(x = frec$freq_1997, y = frec$freq_2008)
+cor.test(x = frec$freq_1997, y = frec$freq_2010)
+
+```
+
+```{r}
+# Verifica los nombres de las columnas
+names(frec_comun)
+
+# Si las columnas son diferentes, renómbralas
+colnames(frec_comun) <- c("word", "freq_1997", "freq_2001", "freq_2005", "freq_2008", "freq_2010")
+
+# Filtra las filas con valores no NA
+frec_comun <- frec_comun %>%
+  filter(!is.na(freq_1997) & !is.na(freq_2001))
+
+# Realiza el análisis de correlación
+cor.test(x = frec_comun$freq_1997, y = frec_comun$freq_2001)
+
+```
+
+#7 Analisis de sentimiento
+
+```{r}
+# diccionarios
+# no hay diccionarios en español disponibles en tidytext
+# https://www.kaggle.com/datasets/rtatman/sentiment-lexicons-for-81-languages
+positive_words <- read_csv("positive_words_es.txt", col_names = "word", show_col_types = FALSE) %>%
+  mutate(sentiment = "Positivo")
+negative_words <- read_csv("negative_words_es.txt", col_names = "word", show_col_types = FALSE) %>%
+  mutate(sentiment = "Negativo")
+sentiment_words <- bind_rows(positive_words, negative_words)
+# comparacion de diccionarios
+get_sentiments("bing") %>%
+  count(sentiment)
+```
+
+```{r}
+sentiment_words %>%
+  count(sentiment)
+```
+
+```{r}
+###### viz
+suppressMessages(suppressWarnings(library(RColorBrewer)))
+
+# ---------- petro ----------
+p1 <- text_1997 %>%
+  inner_join(sentiment_words) %>%
+  count(word, sentiment, sort = TRUE) %>%
+  slice_max(order_by = abs(n), n = 20) %>%  # Mostrar las 50 palabras más frecuentes
+  mutate(n = ifelse(sentiment == "Negativo", -n, n)) %>%
+  mutate(word = reorder(word, n)) %>%
+  ggplot(aes(word, n, fill = sentiment)) +
+    geom_col() +
+    scale_fill_manual(values = brewer.pal(8, 'Dark2')[c(2, 5)]) +
+    coord_flip(ylim = c(-7, 7)) +  # Ajusta los límites si es necesario
+    labs(y = "Frecuencia",
+         x = NULL,
+         title = "1997: Conteo por sentimiento") +
+    theme_minimal()
+```
+
+```{r}
+##### viz
+library(RColorBrewer) # Asegúrate de cargar RColorBrewer si no está cargado
+
+p2 <- text_2001 %>%
+  inner_join(sentiment_words) %>%
+  count(word, sentiment, sort = TRUE) %>%
+  slice_max(order_by = abs(n), n = 20) %>%  # Seleccionar las 50 palabras más frecuentes
+  mutate(n = ifelse(sentiment == "Negativo", -n, n)) %>%
+  mutate(word = reorder(word, n)) %>%
+  ggplot(aes(word, n, fill = sentiment)) +
+    geom_col() +
+    scale_fill_manual(values = brewer.pal(8,'Dark2')[c(2,5)]) +
+    coord_flip(ylim = c(-7,7)) +  # Ajustar los límites si es necesario
+    labs(y = "Frecuencia",
+         x = NULL,
+         title = "2001: Conteo por sentimiento") +
+    theme_minimal()
+```
+
+```{r}
+grid.arrange(p1, p2, ncol = 2)
+```
+
+```{r}
+text_2005 %>%
+  inner_join(sentiment_words) %>%
+  count(word, sentiment, sort = TRUE) %>%
+  slice_max(order_by = abs(n), n = 20) %>%  # Mostrar las 50 palabras más frecuentes
+  mutate(n = ifelse(sentiment == "Negativo", -n, n)) %>%
+  mutate(word = reorder(word, n)) %>%
+  ggplot(aes(word, n, fill = sentiment)) +
+    geom_col() +
+    scale_fill_manual(values = brewer.pal(8, 'Dark2')[c(2, 5)]) +
+    coord_flip(ylim = c(-7, 7)) +  # Ajusta los límites si es necesario
+    labs(y = "Frecuencia",
+         x = NULL,
+         title = "2005: Conteo por sentimiento") +
+    theme_minimal() -> p2
+
+```
+
+```{r}
+grid.arrange(p1, p2, ncol = 2)
+```
+
+```{r}
+text_2008 %>%
+  inner_join(sentiment_words) %>%
+  count(word, sentiment, sort = TRUE) %>%
+  slice_max(order_by = abs(n), n = 20) %>%  # Mostrar las 50 palabras más frecuentes
+  mutate(n = ifelse(sentiment == "Negativo", -n, n)) %>%
+  mutate(word = reorder(word, n)) %>%
+  ggplot(aes(word, n, fill = sentiment)) +
+    geom_col() +
+    scale_fill_manual(values = brewer.pal(8, 'Dark2')[c(2, 5)]) +
+    coord_flip(ylim = c(-7, 7)) +  # Ajusta los límites si es necesario
+    labs(y = "Frecuencia",
+         x = NULL,
+         title = "2008: Conteo por sentimiento") +
+    theme_minimal() -> p2
+```
+
+```{r}
+grid.arrange(p1, p2, ncol = 2)
+```
+
+```{r}
+text_2010 %>%
+  inner_join(sentiment_words) %>%
+  count(word, sentiment, sort = TRUE) %>%
+  slice_max(order_by = abs(n), n = 20) %>%  # Mostrar las 50 palabras más frecuentes
+  mutate(n = ifelse(sentiment == "Negativo", -n, n)) %>%
+  mutate(word = reorder(word, n)) %>%
+  ggplot(aes(word, n, fill = sentiment)) +
+    geom_col() +
+    scale_fill_manual(values = brewer.pal(8, 'Dark2')[c(2, 5)]) +
+    coord_flip(ylim = c(-7, 7)) +  # Ajusta los límites si es necesario
+    labs(y = "Frecuencia",
+         x = NULL,
+         title = "2010: Conteo por sentimiento") +
+    theme_minimal() -> p2
+```
+
+```{r}
+grid.arrange(p1, p2, ncol = 2)
+```
+
+```{r}
+suppressMessages(suppressWarnings(library(reshape2)))  # acast
+##### viz
+par(mfrow = c(1,2), mar = c(1,1,2,1), mgp = c(1,1,1))
+
+set.seed(123)
+text_1997 %>%
+  inner_join(sentiment_words) %>%
+  count(word, sentiment, sort = TRUE) %>%
+  acast(word ~ sentiment, value.var = "n", fill = 0) %>%
+  comparison.cloud(colors = brewer.pal(8,'Dark2')[c(2,5)], 
+                   max.words = 50, title.size = 1.5)
+
+title(main = "1997")
+
+set.seed(123)
+text_2001 %>%
+  inner_join(sentiment_words) %>%
+  count(word, sentiment, sort = TRUE) %>%
+  acast(word ~ sentiment, value.var = "n", fill = 0) %>%
+  comparison.cloud(colors = brewer.pal(8,'Dark2')[c(2,5)], 
+                   max.words = 50, title.size = 1.5)
+
+title(main = "2001")
+```
+
+```{r}
+
+suppressMessages(suppressWarnings(library(reshape2)))  # acast
+##### viz
+par(mfrow = c(1,2), mar = c(1,1,2,1), mgp = c(1,1,1))
+
+set.seed(123)
+text_1997 %>%
+  inner_join(sentiment_words) %>%
+  count(word, sentiment, sort = TRUE) %>%
+  acast(word ~ sentiment, value.var = "n", fill = 0) %>%
+  comparison.cloud(colors = brewer.pal(8,'Dark2')[c(2,5)], 
+                   max.words = 50, title.size = 1.5)
+
+title(main = "1997")
+# ----------  ----------
+set.seed(123)
+text_2005 %>%
+  inner_join(sentiment_words) %>%
+  count(word, sentiment, sort = TRUE) %>%
+  acast(word ~ sentiment, value.var = "n", fill = 0) %>%
+  comparison.cloud(colors = brewer.pal(8,'Dark2')[c(2,5)], 
+                   max.words = 50, title.size = 1.5)
+
+title(main = "2005")
+```
+
+```{r}
+suppressMessages(suppressWarnings(library(reshape2)))  # acast
+##### viz
+par(mfrow = c(1,2), mar = c(1,1,2,1), mgp = c(1,1,1))
+# ----------  ----------
+set.seed(123)
+text_1997 %>%
+  inner_join(sentiment_words) %>%
+  count(word, sentiment, sort = TRUE) %>%
+  acast(word ~ sentiment, value.var = "n", fill = 0) %>%
+  comparison.cloud(colors = brewer.pal(8,'Dark2')[c(2,5)], 
+                   max.words = 50, title.size = 1.5)
+
+title(main = "1997")
+# ----------  ----------
+set.seed(123)
+text_2008 %>%
+  inner_join(sentiment_words) %>%
+  count(word, sentiment, sort = TRUE) %>%
+  acast(word ~ sentiment, value.var = "n", fill = 0) %>%
+  comparison.cloud(colors = brewer.pal(8,'Dark2')[c(2,5)], 
+                   max.words = 50, title.size = 1.5)
+
+title(main = "2008")
+```
+
+```{r}
+suppressMessages(suppressWarnings(library(reshape2)))  # acast
+##### viz
+par(mfrow = c(1,2), mar = c(1,1,2,1), mgp = c(1,1,1))
+# ----------  ----------
+set.seed(123)
+text_1997 %>%
+  inner_join(sentiment_words) %>%
+  count(word, sentiment, sort = TRUE) %>%
+  acast(word ~ sentiment, value.var = "n", fill = 0) %>%
+  comparison.cloud(colors = brewer.pal(8,'Dark2')[c(2,5)], 
+                   max.words = 50, title.size = 1.5)
+
+title(main = "1997")
+# ----------  ----------
+set.seed(123)
+text_2010 %>%
+  inner_join(sentiment_words) %>%
+  count(word, sentiment, sort = TRUE) %>%
+  acast(word ~ sentiment, value.var = "n", fill = 0) %>%
+  comparison.cloud(colors = brewer.pal(8,'Dark2')[c(2,5)], 
+                   max.words = 50, title.size = 1.5)
+
+title(main = "2010")
+```
+
+#### 8
+
+```{r}
+text_1997 <- unlist(c(read_csv("AppleWWDC1997_es.txt", col_names = FALSE, show_col_types = FALSE)))
+text_2001 <- unlist(c(read_csv("AppleWWDC2001_es.txt", col_names = FALSE, show_col_types = FALSE)))
+text_2005 <- unlist(c(read_csv("AppleWWDC2005_es.txt", col_names = FALSE, show_col_types = FALSE)))
+text_2008 <- unlist(c(read_csv("AppleWWDC2008_es.txt", col_names = FALSE, show_col_types = FALSE)))
+text_2010 <- unlist(c(read_csv("AppleWWDC2010_es.txt", col_names = FALSE, show_col_types = FALSE)))
+```
+
+```{r}
+names(text_1997) <- NULL
+text_1997 <- tibble(line = 1:length(text_1997), text = text_1997)
+```
+
+```{r}
+text_1997 %>%
+  unnest_tokens(tbl = ., input = text, output = bigram, token = "ngrams", n = 2) %>%
+  filter(!is.na(bigram)) -> text_1997_bi  # importante!
+dim(text_1997_bi)
+```
+
+```{r}
+names(text_2001) <- NULL
+text_2001 <- tibble(line = 1:length(text_2001), text = text_2001)
+```
+
+```{r}
+text_2001 %>%
+  unnest_tokens(tbl = ., input = text, output = bigram, token = "ngrams", n = 2) %>%
+  filter(!is.na(bigram)) -> text_2001_bi  # importante!
+dim(text_2001_bi)
+```
+
+```{r}
+names(text_2005) <- NULL
+text_2005 <- tibble(line = 1:length(text_2005), text = text_2005)
+```
+
+```{r}
+text_2005 %>%
+  unnest_tokens(tbl = ., input = text, output = bigram, token = "ngrams", n = 2) %>%
+  filter(!is.na(bigram)) -> text_2005_bi  # importante!
+dim(text_2005_bi)
+```
+
+```{r}
+names(text_2008) <- NULL
+text_2008 <- tibble(line = 1:length(text_2008), text = text_2008)
+```
+
+```{r}
+text_2008 %>%
+  unnest_tokens(tbl = ., input = text, output = bigram, token = "ngrams", n = 2) %>%
+  filter(!is.na(bigram)) -> text_2008_bi  # importante!
+dim(text_2008_bi)
+```
+
+```{r}
+names(text_2010) <- NULL
+text_2010 <- tibble(line = 1:length(text_2010), text = text_2010)
+```
+
+```{r}
+text_2010 %>%
+  unnest_tokens(tbl = ., input = text, output = bigram, token = "ngrams", n = 2) %>%
+  filter(!is.na(bigram)) -> text_2010_bi  # importante!
+dim(text_2010_bi)
+```
+
+```{r}
+head(text_1997_bi, n = 10)
+```
+
+```{r}
+head(text_2005_bi, n = 10)
+```
+
+```{r}
+head(text_2008_bi, n = 10)
+```
+
+```{r}
+head(text_2010_bi, n = 10)
+```
+
+```{r}
+###### top 10 de bigramas mas frecuentes
+# hay bigramas que no son interesantes (e.g., "de la")
+# esto motiva el uso de stop words nuevamente
+text_1997_bi %>%
+  count(bigram, sort = TRUE) %>%
+  head(n = 10)
+```
+
+```{r}
+###### top 10 de bigramas mas frecuentes
+# hay bigramas que no son interesantes (e.g., "de la")
+# esto motiva el uso de stop words nuevamente
+text_2001_bi %>%
+  count(bigram, sort = TRUE) %>%
+  head(n = 10)
+```
+
+```{r}
+###### top 10 de bigramas mas frecuentes
+# hay bigramas que no son interesantes (e.g., "de la")
+# esto motiva el uso de stop words nuevamente
+text_2005_bi %>%
+  count(bigram, sort = TRUE) %>%
+  head(n = 10)
+```
+
+```{r}
+###### top 10 de bigramas mas frecuentes
+# hay bigramas que no son interesantes (e.g., "de la")
+# esto motiva el uso de stop words nuevamente
+text_2008_bi %>%
+  count(bigram, sort = TRUE) %>%
+  head(n = 10)
+```
+
+```{r}
+###### top 10 de bigramas mas frecuentes
+# hay bigramas que no son interesantes (e.g., "de la")
+# esto motiva el uso de stop words nuevamente
+text_2010_bi %>%
+  count(bigram, sort = TRUE) %>%
+  head(n = 10)
+```
+
+```{r}
+text_1997_bi %>%
+  separate(bigram, c("word1", "word2"), sep = " ") %>%
+  filter(!grepl(pattern = '[0-9]', x = word1)) %>%
+  filter(!grepl(pattern = '[0-9]', x = word2)) %>%
+  filter(!word1 %in% stop_words_es$word) %>%
+  filter(!word2 %in% stop_words_es$word) %>%
+  mutate(word1 = chartr(old = names(replacement_list) %>% str_c(collapse = ''), 
+                       new = replacement_list %>% str_c(collapse = ''),
+                       x = word1)) %>%
+  mutate(word2 = chartr(old = names(replacement_list) %>% str_c(collapse = ''), 
+                       new = replacement_list %>% str_c(collapse = ''),
+                       x = word2)) %>%
+  filter(!is.na(word1)) %>% 
+  filter(!is.na(word2)) %>%
+  count(word1, word2, sort = TRUE) %>%
+  rename(weight = n) -> text_1997_bi_counts  # importante para la conformacion de la red!
+dim(text_1997_bi_counts)
+```
+
+```{r}
+text_2001_bi %>%
+  separate(bigram, c("word1", "word2"), sep = " ") %>%
+  filter(!grepl(pattern = '[0-9]', x = word1)) %>%
+  filter(!grepl(pattern = '[0-9]', x = word2)) %>%
+  filter(!word1 %in% stop_words_es$word) %>%
+  filter(!word2 %in% stop_words_es$word) %>%
+  mutate(word1 = chartr(old = names(replacement_list) %>% str_c(collapse = ''), 
+                       new = replacement_list %>% str_c(collapse = ''),
+                       x = word1)) %>%
+  mutate(word2 = chartr(old = names(replacement_list) %>% str_c(collapse = ''), 
+                       new = replacement_list %>% str_c(collapse = ''),
+                       x = word2)) %>%
+  filter(!is.na(word1)) %>% 
+  filter(!is.na(word2)) %>%
+  count(word1, word2, sort = TRUE) %>%
+  rename(weight = n) -> text_2001_bi_counts  # importante para la conformacion de la red!
+dim(text_2001_bi_counts)
+```
+
+```{r}
+text_2005_bi %>%
+  separate(bigram, c("word1", "word2"), sep = " ") %>%
+  filter(!grepl(pattern = '[0-9]', x = word1)) %>%
+  filter(!grepl(pattern = '[0-9]', x = word2)) %>%
+  filter(!word1 %in% stop_words_es$word) %>%
+  filter(!word2 %in% stop_words_es$word) %>%
+  mutate(word1 = chartr(old = names(replacement_list) %>% str_c(collapse = ''), 
+                       new = replacement_list %>% str_c(collapse = ''),
+                       x = word1)) %>%
+  mutate(word2 = chartr(old = names(replacement_list) %>% str_c(collapse = ''), 
+                       new = replacement_list %>% str_c(collapse = ''),
+                       x = word2)) %>%
+  filter(!is.na(word1)) %>% 
+  filter(!is.na(word2)) %>%
+  count(word1, word2, sort = TRUE) %>%
+  rename(weight = n) -> text_2005_bi_counts  # importante para la conformacion de la red!
+dim(text_2005_bi_counts)
+```
+
+```{r}
+text_2008_bi %>%
+  separate(bigram, c("word1", "word2"), sep = " ") %>%
+  filter(!grepl(pattern = '[0-9]', x = word1)) %>%
+  filter(!grepl(pattern = '[0-9]', x = word2)) %>%
+  filter(!word1 %in% stop_words_es$word) %>%
+  filter(!word2 %in% stop_words_es$word) %>%
+  mutate(word1 = chartr(old = names(replacement_list) %>% str_c(collapse = ''), 
+                       new = replacement_list %>% str_c(collapse = ''),
+                       x = word1)) %>%
+  mutate(word2 = chartr(old = names(replacement_list) %>% str_c(collapse = ''), 
+                       new = replacement_list %>% str_c(collapse = ''),
+                       x = word2)) %>%
+  filter(!is.na(word1)) %>% 
+  filter(!is.na(word2)) %>%
+  count(word1, word2, sort = TRUE) %>%
+  rename(weight = n) -> text_2008_bi_counts  # importante para la conformacion de la red!
+dim(text_2008_bi_counts)
+```
+
+```{r}
+text_2010_bi %>%
+  separate(bigram, c("word1", "word2"), sep = " ") %>%
+  filter(!grepl(pattern = '[0-9]', x = word1)) %>%
+  filter(!grepl(pattern = '[0-9]', x = word2)) %>%
+  filter(!word1 %in% stop_words_es$word) %>%
+  filter(!word2 %in% stop_words_es$word) %>%
+  mutate(word1 = chartr(old = names(replacement_list) %>% str_c(collapse = ''), 
+                       new = replacement_list %>% str_c(collapse = ''),
+                       x = word1)) %>%
+  mutate(word2 = chartr(old = names(replacement_list) %>% str_c(collapse = ''), 
+                       new = replacement_list %>% str_c(collapse = ''),
+                       x = word2)) %>%
+  filter(!is.na(word1)) %>% 
+  filter(!is.na(word2)) %>%
+  count(word1, word2, sort = TRUE) %>%
+  rename(weight = n) -> text_2010_bi_counts  # importante para la conformacion de la red!
+dim(text_2010_bi_counts)
+```
+
+```{r}
+head(text_1997_bi_counts, n = 10)
+head(text_2001_bi_counts, n = 10)
+head(text_2005_bi_counts, n = 10)
+head(text_2008_bi_counts, n = 10)
+head(text_2010_bi_counts, n = 10)
+```
+
+```{r}
+##### definir una red a partir de la frecuencia (weight) de los bigramas
+# binaria, no dirigida, ponderada, simple
+# se recomienda variar el umbral del filtro y construir bigramas no consecutivos para obtener redes con mayor informacion
+suppressMessages(suppressWarnings(library(igraph)))
+
+# Crear la red
+g <- text_1997_bi_counts %>%
+  filter(weight > 2) %>%
+  graph_from_data_frame(directed = FALSE)
+
+# Ajuste visual
+set.seed(123)
+plot(g, 
+     layout = layout_with_kk,  # Layout con más dispersión
+     vertex.color = 1, 
+     vertex.frame.color = 1, 
+     vertex.size = 6,  # Tamaño de los vértices mayor para mayor separación
+     vertex.label.color = 'black', 
+     vertex.label.cex = 0.6,  # Reducir un poco el tamaño de la fuente
+     vertex.label.dist = 3,  # Aumenté la distancia entre las etiquetas y los vértices
+     main = "1997 - Umbral = 2")
+```
+
+```{r}
+##### definir una red a partir de la frecuencia (weight) de los bigramas
+# binaria, no dirigida, ponderada, simple
+# se recomienda variar el umbral del filtro y construir bigramas no consecutivos para obtener redes con mayor informacion
+suppressMessages(suppressWarnings(library(igraph)))
+
+# Crear la red
+g <- text_2001_bi_counts %>%
+  filter(weight > 3) %>%
+  graph_from_data_frame(directed = FALSE)
+
+# Ajuste visual
+set.seed(123)
+plot(g, 
+     layout = layout_with_kk,  # Layout con más dispersión
+     vertex.color = 1, 
+     vertex.frame.color = 1, 
+     vertex.size = 6,  # Tamaño de los vértices mayor para mayor separación
+     vertex.label.color = 'black', 
+     vertex.label.cex = 0.6,  # Reducir un poco el tamaño de la fuente
+     vertex.label.dist = 3,  # Aumenté la distancia entre las etiquetas y los vértices
+     main = "2001 - Umbral = 3")
+```
+
+```{r}
+##### definir una red a partir de la frecuencia (weight) de los bigramas
+# binaria, no dirigida, ponderada, simple
+# se recomienda variar el umbral del filtro y construir bigramas no consecutivos para obtener redes con mayor informacion
+suppressMessages(suppressWarnings(library(igraph)))
+
+# Crear la red
+g <- text_2005_bi_counts %>%
+  filter(weight > 4) %>%
+  graph_from_data_frame(directed = FALSE)
+
+# Ajuste visual
+set.seed(123)
+plot(g, 
+     layout = layout_with_kk,  # Layout con más dispersión
+     vertex.color = 1, 
+     vertex.frame.color = 1, 
+     vertex.size = 6,  # Tamaño de los vértices mayor para mayor separación
+     vertex.label.color = 'black', 
+     vertex.label.cex = 0.6,  # Reducir un poco el tamaño de la fuente
+     vertex.label.dist = 3,  # Aumenté la distancia entre las etiquetas y los vértices
+     main = "2005 - Umbral = 4")
+```
+
+```{r}
+##### definir una red a partir de la frecuencia (weight) de los bigramas
+# binaria, no dirigida, ponderada, simple
+# se recomienda variar el umbral del filtro y construir bigramas no consecutivos para obtener redes con mayor informacion
+suppressMessages(suppressWarnings(library(igraph)))
+
+# Crear la red
+g <- text_2008_bi_counts %>%
+  filter(weight > 3) %>%
+  graph_from_data_frame(directed = FALSE)
+
+# Ajuste visual
+set.seed(123)
+plot(g, 
+     layout = layout_with_kk,  # Layout con más dispersión
+     vertex.color = 1, 
+     vertex.frame.color = 1, 
+     vertex.size = 6,  # Tamaño de los vértices mayor para mayor separación
+     vertex.label.color = 'black', 
+     vertex.label.cex = 0.6,  # Reducir un poco el tamaño de la fuente
+     vertex.label.dist = 3,  # Aumenté la distancia entre las etiquetas y los vértices
+     main = "2008 - Umbral = 3")
+```
+
+```{r}
+##### definir una red a partir de la frecuencia (weight) de los bigramas
+# binaria, no dirigida, ponderada, simple
+# se recomienda variar el umbral del filtro y construir bigramas no consecutivos para obtener redes con mayor informacion
+suppressMessages(suppressWarnings(library(igraph)))
+
+# Crear la red
+g <- text_2010_bi_counts %>%
+  filter(weight > 2) %>%
+  graph_from_data_frame(directed = FALSE)
+
+# Ajuste visual
+set.seed(123)
+plot(g, 
+     layout = layout_with_kk,  # Layout con más dispersión
+     vertex.color = 1, 
+     vertex.frame.color = 1, 
+     vertex.size = 6,  # Tamaño de los vértices mayor para mayor separación
+     vertex.label.color = 'black', 
+     vertex.label.cex = 0.6,  # Reducir un poco el tamaño de la fuente
+     vertex.label.dist = 3,  # Aumenté la distancia entre las etiquetas y los vértices
+     main = "2010 - Umbral = 2")
+```
+
+```{r}
+##### red con un umbral diferente
+g <- text_1997_bi_counts %>%
+  filter(weight > 1) %>%
+  graph_from_data_frame(directed = FALSE)
+# viz
+set.seed(123)
+plot(g, layout = layout_with_kk, vertex.color = 1, vertex.frame.color = 1, vertex.size = 3, vertex.label = NA, main = "1997 - Umbral = 1")
+
+##### red con un umbral diferente
+g <- text_2001_bi_counts %>%
+  filter(weight > 1) %>%
+  graph_from_data_frame(directed = FALSE)
+# viz
+set.seed(123)
+plot(g, layout = layout_with_kk, vertex.color = 1, vertex.frame.color = 1, vertex.size = 3, vertex.label = NA, main = "2001 - Umbral = 1")
+
+##### red con un umbral diferente
+g <- text_2005_bi_counts %>%
+  filter(weight > 1) %>%
+  graph_from_data_frame(directed = FALSE)
+# viz
+set.seed(123)
+plot(g, layout = layout_with_kk, vertex.color = 1, vertex.frame.color = 1, vertex.size = 3, vertex.label = NA, main = "2005 - Umbral = 1")
+
+##### red con un umbral diferente
+g <- text_2008_bi_counts %>%
+  filter(weight > 1) %>%
+  graph_from_data_frame(directed = FALSE)
+# viz
+set.seed(123)
+plot(g, layout = layout_with_kk, vertex.color = 1, vertex.frame.color = 1, vertex.size = 3, vertex.label = NA, main = "2008 - Umbral = 1")
+
+##### red con un umbral diferente
+g <- text_2010_bi_counts %>%
+  filter(weight > 1) %>%
+  graph_from_data_frame(directed = FALSE)
+# viz
+set.seed(123)
+plot(g, layout = layout_with_kk, vertex.color = 1, vertex.frame.color = 1, vertex.size = 3, vertex.label = NA, main = "2010 - Umbral = 1")
+```
+
+```{r}
+##### componente conexa mas grande de la red
+g <- text_1997_bi_counts %>%
+  filter(weight > 1) %>%
+  graph_from_data_frame(directed = FALSE)
+# grafo inducido por la componente conexa
+V(g)$cluster <- clusters(graph = g)$membership
+
+```
+
+```{r}
+gcc <- induced_subgraph(graph = g, vids = which(V(g)$cluster == which.max(clusters(graph = g)$csize)))
+par(mfrow = c(1,2), mar = c(1,1,2,1), mgp = c(1,1,1))
+
+set.seed(123)
+plot(gcc, layout = layout_with_kk, vertex.color = adjustcolor('darkolivegreen4', 0.1), vertex.frame.color = 'darkolivegreen4', vertex.size = 2*strength(gcc), vertex.label.color = 'black', vertex.label.cex = 0.9, vertex.label.dist = 1, edge.width = 3*E(g)$weight/max(E(g)$weight))
+title(main = "Componente conexa", outer = T, line = -1)
+```
+
+```{r}
+##### componente conexa mas grande de la red
+g <- text_2001_bi_counts %>%
+  filter(weight > 1) %>%
+  graph_from_data_frame(directed = FALSE)
+# grafo inducido por la componente conexa
+V(g)$cluster <- clusters(graph = g)$membership
+```
+
+```{r}
+gcc <- induced_subgraph(graph = g, vids = which(V(g)$cluster == which.max(clusters(graph = g)$csize)))
+par(mfrow = c(1,2), mar = c(1,1,2,1), mgp = c(1,1,1))
+
+# viz 2
+set.seed(123)
+plot(gcc, layout = layout_with_kk, vertex.color = adjustcolor('darkolivegreen4', 0.1), vertex.frame.color = 'darkolivegreen4', vertex.size = 2*strength(gcc), vertex.label.color = 'black', vertex.label.cex = 0.9, vertex.label.dist = 1, edge.width = 3*E(g)$weight/max(E(g)$weight))
+title(main = "Componente conexa", outer = T, line = -1)
+```
+
+```{r}
+##### componente conexa mas grande de la red
+g <- text_2005_bi_counts %>%
+  filter(weight > 1) %>%
+  graph_from_data_frame(directed = FALSE)
+# grafo inducido por la componente conexa
+V(g)$cluster <- clusters(graph = g)$membership
+```
+
+```{r}
+gcc <- induced_subgraph(graph = g, vids = which(V(g)$cluster == which.max(clusters(graph = g)$csize)))
+par(mfrow = c(1,2), mar = c(1,1,2,1), mgp = c(1,1,1))
+
+# viz 2
+set.seed(123)
+plot(gcc, layout = layout_with_kk, vertex.color = adjustcolor('darkolivegreen4', 0.1), vertex.frame.color = 'darkolivegreen4', vertex.size = 2*strength(gcc), vertex.label.color = 'black', vertex.label.cex = 0.9, vertex.label.dist = 1, edge.width = 3*E(g)$weight/max(E(g)$weight))
+title(main = "Componente conexa", outer = T, line = -1)
+```
+
+```{r}
+##### componente conexa mas grande de la red
+g <- text_2008_bi_counts %>%
+  filter(weight > 2) %>%
+  graph_from_data_frame(directed = FALSE)
+# grafo inducido por la componente conexa
+V(g)$cluster <- clusters(graph = g)$membership
+```
+
+```{r}
+gcc <- induced_subgraph(graph = g, vids = which(V(g)$cluster == which.max(clusters(graph = g)$csize)))
+par(mfrow = c(1,2), mar = c(1,1,2,1), mgp = c(1,1,1))
+
+# viz 2
+set.seed(123)
+plot(gcc, layout = layout_with_kk, vertex.color = adjustcolor('darkolivegreen4', 0.1), vertex.frame.color = 'darkolivegreen4', vertex.size = 2*strength(gcc), vertex.label.color = 'black', vertex.label.cex = 0.9, vertex.label.dist = 1, edge.width = 3*E(g)$weight/max(E(g)$weight))
+title(main = "Componente conexa", outer = T, line = -1)
+```
+
+```{r}
+##### componente conexa mas grande de la red
+g <- text_2010_bi_counts %>%
+  filter(weight > 1) %>%
+  graph_from_data_frame(directed = FALSE)
+# grafo inducido por la componente conexa
+V(g)$cluster <- clusters(graph = g)$membership
+```
+
+```{r}
+gcc <- induced_subgraph(graph = g, vids = which(V(g)$cluster == which.max(clusters(graph = g)$csize)))
+par(mfrow = c(1,2), mar = c(1,1,2,1), mgp = c(1,1,1))
+
+# viz 2
+set.seed(123)
+plot(gcc, layout = layout_with_kk, vertex.color = adjustcolor('darkolivegreen4', 0.1), vertex.frame.color = 'darkolivegreen4', vertex.size = 2*strength(gcc), vertex.label.color = 'black', vertex.label.cex = 0.9, vertex.label.dist = 1, edge.width = 3*E(g)$weight/max(E(g)$weight))
+title(main = "Componente conexa", outer = T, line = -1)
+```
+
+#### 9
+
+```{r}
+##### importar datos
+text_1997 <- unlist(c(read_csv("AppleWWDC1997_es.txt", col_names = FALSE, show_col_types = FALSE)))
+text_2001 <- unlist(c(read_csv("AppleWWDC2001_es.txt", col_names = FALSE, show_col_types = FALSE)))
+text_2005 <- unlist(c(read_csv("AppleWWDC2005_es.txt", col_names = FALSE, show_col_types = FALSE)))
+text_2008 <- unlist(c(read_csv("AppleWWDC2008_es.txt", col_names = FALSE, show_col_types = FALSE)))
+text_2010 <- unlist(c(read_csv("AppleWWDC2010_es.txt", col_names = FALSE, show_col_types = FALSE)))
+```
+
+```{r}
+names(text_1997) <- NULL
+text_1997 <- tibble(line = 1:length(text_1997), text = text_1997)
+```
+
+```{r}
+names(text_2001) <- NULL
+text_2001 <- tibble(line = 1:length(text_2001), text = text_2001)
+```
+
+```{r}
+names(text_2005) <- NULL
+text_2005 <- tibble(line = 1:length(text_2005), text = text_2005)
+```
+
+```{r}
+names(text_2008) <- NULL
+text_2008 <- tibble(line = 1:length(text_2008), text = text_2008)
+```
+
+```{r}
+names(text_2010) <- NULL
+text_2010 <- tibble(line = 1:length(text_2010), text = text_2010)
+```
+
+```{r}
+##### tokenizar en skip-gram
+# en este caso cada token es un unigrama o un bigrama regular o un bigrama con espaciamiento
+text_1997 %>%
+  unnest_tokens(tbl = ., input = text, output = skipgram, token = "skip_ngrams", n = 2) %>%
+  filter(!is.na(skipgram)) -> text_1997_skip
+dim(text_1997_skip)
+
+text_2001 %>%
+  unnest_tokens(tbl = ., input = text, output = skipgram, token = "skip_ngrams", n = 2) %>%
+  filter(!is.na(skipgram)) -> text_2001_skip
+dim(text_2001_skip)
+
+text_2005 %>%
+  unnest_tokens(tbl = ., input = text, output = skipgram, token = "skip_ngrams", n = 2) %>%
+  filter(!is.na(skipgram)) -> text_2005_skip
+dim(text_2005_skip)
+
+text_2008 %>%
+  unnest_tokens(tbl = ., input = text, output = skipgram, token = "skip_ngrams", n = 2) %>%
+  filter(!is.na(skipgram)) -> text_2008_skip
+dim(text_2008_skip)
+
+text_2010 %>%
+  unnest_tokens(tbl = ., input = text, output = skipgram, token = "skip_ngrams", n = 2) %>%
+  filter(!is.na(skipgram)) -> text_2010_skip
+dim(text_2010_skip)
+```
+
+```{r}
+head(text_1997_skip, n = 10)
+head(text_2001_skip, n = 10)
+head(text_2005_skip, n = 10)
+head(text_2008_skip, n = 10)
+head(text_2010_skip, n = 10)
+
+```
+
+```{r}
+suppressMessages(suppressWarnings(library(ngram)))
+# contar palabras en cada skip-gram
+text_1997_skip$num_words <- text_1997_skip$skipgram %>% 
+  map_int(.f = ~ wordcount(.x))
+head(text_1997_skip, n = 10)
+```
+
+```{r}
+# remover unigramas
+text_1997_skip %<>% 
+  filter(num_words == 2) %>% 
+  select(-num_words)
+dim(text_1997_skip)
+```
+
+```{r}
+suppressMessages(suppressWarnings(library(ngram)))
+# contar palabras en cada skip-gram
+text_2001_skip$num_words1 <- text_2001_skip$skipgram %>% 
+  map_int(.f = ~ wordcount(.x))
+head(text_2001_skip, n = 10)
+```
+
+```{r}
+text_2001_skip %<>% 
+  filter(num_words1 == 2) %>% 
+  select(-num_words1)
+dim(text_2001_skip)
+```
+
+```{r}
+suppressMessages(suppressWarnings(library(ngram)))
+# contar palabras en cada skip-gram
+text_2005_skip$num_words2 <- text_2005_skip$skipgram %>% 
+  map_int(.f = ~ wordcount(.x))
+head(text_2005_skip, n = 10)
+```
+
+```{r}
+text_2005_skip %<>% 
+  filter(num_words2 == 2) %>% 
+  select(-num_words2)
+dim(text_2005_skip)
+```
+
+```{r}
+suppressMessages(suppressWarnings(library(ngram)))
+# contar palabras en cada skip-gram
+text_2008_skip$num_words3 <- text_2008_skip$skipgram %>% 
+  map_int(.f = ~ wordcount(.x))
+head(text_2008_skip, n = 10)
+```
+
+```{r}
+text_2008_skip %<>% 
+  filter(num_words3 == 2) %>% 
+  select(-num_words3)
+dim(text_2008_skip)
+```
+
+```{r}
+suppressMessages(suppressWarnings(library(ngram)))
+# contar palabras en cada skip-gram
+text_2010_skip$num_words4 <- text_2010_skip$skipgram %>% 
+  map_int(.f = ~ wordcount(.x))
+head(text_2010_skip, n = 10)
+```
+
+```{r}
+text_2010_skip %<>% 
+  filter(num_words4 == 2) %>% 
+  select(-num_words4)
+dim(text_2010_skip)
+```
+
+```{r}
+head(text_1997_skip, n = 10)
+head(text_2001_skip, n = 10)
+head(text_2005_skip, n = 10)
+head(text_2008_skip, n = 10)
+head(text_2010_skip, n = 10)
+
+```
+
+```{r}
+##### omitir stop words
+text_1997_skip %>%
+  separate(skipgram, c("word1", "word2"), sep = " ") %>%
+  filter(!grepl(pattern = '[0-9]', x = word1)) %>%
+  filter(!grepl(pattern = '[0-9]', x = word2)) %>%
+  filter(!word1 %in% stop_words_es$word) %>%
+  filter(!word2 %in% stop_words_es$word) %>%
+  mutate(word1 = chartr(old = names(replacement_list) %>% str_c(collapse = ''), 
+                       new = replacement_list %>% str_c(collapse = ''),
+                       x = word1)) %>%
+  mutate(word2 = chartr(old = names(replacement_list) %>% str_c(collapse = ''), 
+                       new = replacement_list %>% str_c(collapse = ''),
+                       x = word2)) %>%
+  filter(!is.na(word1)) %>% 
+  filter(!is.na(word2)) %>%
+  count(word1, word2, sort = TRUE) %>%
+  rename(weight = n) -> text_1997_skip_counts
+dim(text_1997_skip_counts)
+
+text_2001_skip %>%
+  separate(skipgram, c("word1", "word2"), sep = " ") %>%
+  filter(!grepl(pattern = '[0-9]', x = word1)) %>%
+  filter(!grepl(pattern = '[0-9]', x = word2)) %>%
+  filter(!word1 %in% stop_words_es$word) %>%
+  filter(!word2 %in% stop_words_es$word) %>%
+  mutate(word1 = chartr(old = names(replacement_list) %>% str_c(collapse = ''), 
+                       new = replacement_list %>% str_c(collapse = ''),
+                       x = word1)) %>%
+  mutate(word2 = chartr(old = names(replacement_list) %>% str_c(collapse = ''), 
+                       new = replacement_list %>% str_c(collapse = ''),
+                       x = word2)) %>%
+  filter(!is.na(word1)) %>% 
+  filter(!is.na(word2)) %>%
+  count(word1, word2, sort = TRUE) %>%
+  rename(weight = n) -> text_2001_skip_counts
+dim(text_2001_skip_counts)
+
+text_2005_skip %>%
+  separate(skipgram, c("word1", "word2"), sep = " ") %>%
+  filter(!grepl(pattern = '[0-9]', x = word1)) %>%
+  filter(!grepl(pattern = '[0-9]', x = word2)) %>%
+  filter(!word1 %in% stop_words_es$word) %>%
+  filter(!word2 %in% stop_words_es$word) %>%
+  mutate(word1 = chartr(old = names(replacement_list) %>% str_c(collapse = ''), 
+                       new = replacement_list %>% str_c(collapse = ''),
+                       x = word1)) %>%
+  mutate(word2 = chartr(old = names(replacement_list) %>% str_c(collapse = ''), 
+                       new = replacement_list %>% str_c(collapse = ''),
+                       x = word2)) %>%
+  filter(!is.na(word1)) %>% 
+  filter(!is.na(word2)) %>%
+  count(word1, word2, sort = TRUE) %>%
+  rename(weight = n) -> text_2005_skip_counts
+dim(text_2005_skip_counts)
+
+text_2008_skip %>%
+  separate(skipgram, c("word1", "word2"), sep = " ") %>%
+  filter(!grepl(pattern = '[0-9]', x = word1)) %>%
+  filter(!grepl(pattern = '[0-9]', x = word2)) %>%
+  filter(!word1 %in% stop_words_es$word) %>%
+  filter(!word2 %in% stop_words_es$word) %>%
+  mutate(word1 = chartr(old = names(replacement_list) %>% str_c(collapse = ''), 
+                       new = replacement_list %>% str_c(collapse = ''),
+                       x = word1)) %>%
+  mutate(word2 = chartr(old = names(replacement_list) %>% str_c(collapse = ''), 
+                       new = replacement_list %>% str_c(collapse = ''),
+                       x = word2)) %>%
+  filter(!is.na(word1)) %>% 
+  filter(!is.na(word2)) %>%
+  count(word1, word2, sort = TRUE) %>%
+  rename(weight = n) -> text_2008_skip_counts
+dim(text_2008_skip_counts)
+
+text_2010_skip %>%
+  separate(skipgram, c("word1", "word2"), sep = " ") %>%
+  filter(!grepl(pattern = '[0-9]', x = word1)) %>%
+  filter(!grepl(pattern = '[0-9]', x = word2)) %>%
+  filter(!word1 %in% stop_words_es$word) %>%
+  filter(!word2 %in% stop_words_es$word) %>%
+  mutate(word1 = chartr(old = names(replacement_list) %>% str_c(collapse = ''), 
+                       new = replacement_list %>% str_c(collapse = ''),
+                       x = word1)) %>%
+  mutate(word2 = chartr(old = names(replacement_list) %>% str_c(collapse = ''), 
+                       new = replacement_list %>% str_c(collapse = ''),
+                       x = word2)) %>%
+  filter(!is.na(word1)) %>% 
+  filter(!is.na(word2)) %>%
+  count(word1, word2, sort = TRUE) %>%
+  rename(weight = n) -> text_2010_skip_counts
+dim(text_2010_skip_counts)
+```
+
+```{r}
+head(text_1997_skip_counts, n = 10)
+head(text_2001_skip_counts, n = 10)
+head(text_2005_skip_counts, n = 10)
+head(text_2008_skip_counts, n = 10)
+head(text_2010_skip_counts, n = 10)
+
+```
+
+```{r}
+##### definir una red a partir de la frecuencia (weight) de los bigramas
+g <- text_1997_skip_counts %>%
+  filter(weight > 1) %>%
+  graph_from_data_frame(directed = FALSE)
+g <- igraph::simplify(g)  # importante!
+# grafo inducido por la componente conexa
+V(g)$cluster <- clusters(graph = g)$membership
+gcc <- induced_subgraph(graph = g, vids = which(V(g)$cluster == which.max(clusters(graph = g)$csize)))
+par(mfrow = c(1,2), mar = c(1,1,2,1), mgp = c(1,1,1))
+# viz 1
+set.seed(123)
+plot(gcc, layout = layout_with_fr, vertex.color = 1, vertex.frame.color = 1, vertex.size = 3, vertex.label = NA)
+# viz 2
+set.seed(123)
+plot(gcc, layout = layout_with_fr, vertex.color = adjustcolor('darkolivegreen4', 0.1), vertex.frame.color = 'darkolivegreen4', vertex.size = 2*strength(gcc), vertex.label = NA)
+title(main = "Componente conexa", outer = T, line = -1)
+```
+
+```{r}
+##### definir una red a partir de la frecuencia (weight) de los bigramas
+g <- text_2001_skip_counts %>%
+  filter(weight > 1) %>%
+  graph_from_data_frame(directed = FALSE)
+g <- igraph::simplify(g)  # importante!
+# grafo inducido por la componente conexa
+V(g)$cluster <- clusters(graph = g)$membership
+gcc <- induced_subgraph(graph = g, vids = which(V(g)$cluster == which.max(clusters(graph = g)$csize)))
+par(mfrow = c(1,2), mar = c(1,1,2,1), mgp = c(1,1,1))
+# viz 1
+set.seed(123)
+plot(gcc, layout = layout_with_fr, vertex.color = 1, vertex.frame.color = 1, vertex.size = 3, vertex.label = NA)
+# viz 2
+set.seed(123)
+plot(gcc, layout = layout_with_fr, vertex.color = adjustcolor('darkolivegreen4', 0.1), vertex.frame.color = 'darkolivegreen4', vertex.size = 2*strength(gcc), vertex.label = NA)
+title(main = "Componente conexa", outer = T, line = -1)
+```
+
+```{r}
+##### definir una red a partir de la frecuencia (weight) de los bigramas
+g <- text_2005_skip_counts %>%
+  filter(weight > 1) %>%
+  graph_from_data_frame(directed = FALSE)
+g <- igraph::simplify(g)  # importante!
+# grafo inducido por la componente conexa
+V(g)$cluster <- clusters(graph = g)$membership
+gcc <- induced_subgraph(graph = g, vids = which(V(g)$cluster == which.max(clusters(graph = g)$csize)))
+par(mfrow = c(1,2), mar = c(1,1,2,1), mgp = c(1,1,1))
+# viz 1
+set.seed(123)
+plot(gcc, layout = layout_with_fr, vertex.color = 1, vertex.frame.color = 1, vertex.size = 3, vertex.label = NA)
+# viz 2
+set.seed(123)
+plot(gcc, layout = layout_with_fr, vertex.color = adjustcolor('darkolivegreen4', 0.1), vertex.frame.color = 'darkolivegreen4', vertex.size = 2*strength(gcc), vertex.label = NA)
+title(main = "Componente conexa", outer = T, line = -1)
+```
+
+```{r}
+##### definir una red a partir de la frecuencia (weight) de los bigramas
+g <- text_2008_skip_counts %>%
+  filter(weight > 1) %>%
+  graph_from_data_frame(directed = FALSE)
+g <- igraph::simplify(g)  # importante!
+# grafo inducido por la componente conexa
+V(g)$cluster <- clusters(graph = g)$membership
+gcc <- induced_subgraph(graph = g, vids = which(V(g)$cluster == which.max(clusters(graph = g)$csize)))
+par(mfrow = c(1,2), mar = c(1,1,2,1), mgp = c(1,1,1))
+# viz 1
+set.seed(123)
+plot(gcc, layout = layout_with_fr, vertex.color = 1, vertex.frame.color = 1, vertex.size = 3, vertex.label = NA)
+# viz 2
+set.seed(123)
+plot(gcc, layout = layout_with_fr, vertex.color = adjustcolor('darkolivegreen4', 0.1), vertex.frame.color = 'darkolivegreen4', vertex.size = 2*strength(gcc), vertex.label = NA)
+title(main = "Componente conexa", outer = T, line = -1)
+```
+
+```{r}
+##### definir una red a partir de la frecuencia (weight) de los bigramas
+g <- text_2010_skip_counts %>%
+  filter(weight > 1) %>%
+  graph_from_data_frame(directed = FALSE)
+g <- igraph::simplify(g)  # importante!
+# grafo inducido por la componente conexa
+V(g)$cluster <- clusters(graph = g)$membership
+gcc <- induced_subgraph(graph = g, vids = which(V(g)$cluster == which.max(clusters(graph = g)$csize)))
+par(mfrow = c(1,2), mar = c(1,1,2,1), mgp = c(1,1,1))
+# viz 1
+set.seed(123)
+plot(gcc, layout = layout_with_fr, vertex.color = 1, vertex.frame.color = 1, vertex.size = 3, vertex.label = NA)
+# viz 2
+set.seed(123)
+plot(gcc, layout = layout_with_fr, vertex.color = adjustcolor('darkolivegreen4', 0.1), vertex.frame.color = 'darkolivegreen4', vertex.size = 2*strength(gcc), vertex.label = NA)
+title(main = "Componente conexa", outer = T, line = -1)
+```

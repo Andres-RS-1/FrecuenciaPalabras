@@ -1,0 +1,6 @@
+"0","text_2005 <- unlist(c(read_csv(""AppleWWDC2005_es.txt"", col_names = FALSE, show_col_types = FALSE)))"
+"2","Warning:"
+"2"," [38;5;232mOne or more parsing issues, call `problems()` on your data frame for details, e.g.:
+  dat <- vroom(...)
+  problems(dat)[39m
+"

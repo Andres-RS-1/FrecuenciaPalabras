@@ -1,0 +1,6 @@
+"0","gcc <- induced_subgraph(graph = g, vids = which(V(g)$cluster == which.max(clusters(graph = g)$csize)))"
+"0","par(mfrow = c(1,2), mar = c(1,1,2,1), mgp = c(1,1,1))"
+"0",""
+"0","# viz 2"
+"0","set.seed(123)"
+"0","plot(gcc, layout = layout_with_kk, vertex.color = adjustcolor('darkolivegreen4', 0.1), vertex.frame.color = 'darkolivegreen4', vertex.size = 2*strength(gcc), vertex.label.color = 'black', vertex.label.cex = 0.9, vertex.label.dist = 1, edge.width = 3*E(g)$weight/max(E(g)$weight))"

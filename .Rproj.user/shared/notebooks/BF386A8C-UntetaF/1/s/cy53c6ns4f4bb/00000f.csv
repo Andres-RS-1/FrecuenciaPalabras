@@ -1,0 +1,2 @@
+"0","names(text_2001) <- NULL"
+"0","text_2001 <- tibble(line = 1:length(text_2001), text = text_2001)"

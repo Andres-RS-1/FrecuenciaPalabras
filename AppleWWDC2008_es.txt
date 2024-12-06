@@ -1,0 +1,900 @@
+Estoy muy contento de estar aquí esta vez.
+Buenos días, hemos estado trabajando muy duro en algunas cosas geniales que estamos ansiosos por compartir con ustedes, así que gracias por venir.
+Para la WWDC 2008, tenemos un récord de 5200.
+Asistentes aquí, desearíamos haber tenido más, pero se agotaron las entradas, así que lo siento por todas esas personas.
+que no tuvo la oportunidad de estar aquí, pero no podemos encontrar un lugar más grande que este y vamos a tener una gran semana.
+Esta semana 147 sesiones uh 85 en Mac y
+62 en el iPhone, así que estará repleto de 169 laboratorios prácticos.
+Ingenieros en el sitio esta semana y tenemos sesiones tanto sobre ifund como sobre Intel I
+Creo que es viernes por la mañana, así que tenemos una amplia variedad de cosas para ti esta semana y creo que será una de ellas.
+Los mejores wwc de todos los tiempos, así que comencemos ahora como tú
+Sé que Apple tiene tres partes. Ahora bien, la primera parte, por supuesto, es Mac.
+La segunda parte es nuestro negocio de música, el iPod y
+iTunes y la tercera parte ahora es el iPhone ahora voy a tomar esto
+mañana y hablar sobre el iPhone y cosas relacionadas con el iPhone y uh a
+Ayúdenme, voy a preguntarle a Scott Forest, nuestro vicepresidente senior de software para iPhone y, por supuesto, a Phil Schiller, nuestro...
+vicepresidente senior de marketing de productos para ayudarme con partes de esto y luego, después del almuerzo, berron suray nuestro
+El vicepresidente senior de software del sistema operativo 10 le brindará un adelanto del próximo
+Versión del sistema operativo 10 llamada Snow Leopard, por lo que estamos muy entusiasmados.
+Así que vamos a empezar, hablemos de iPhone. Bueno, el lugar para comenzar es nuestro
+El nuevo software de la plataforma iPhone 2.0 supone un gran paso adelante respecto de donde estaba.
+Hemos estado y, por supuesto, tiene el kit de desarrollo de software, comenzamos un desarrollador
+programa uh en uh en marzo el 6 de marzo, que es hace justo 95 días, me complace
+Informe: en esos 95 días hemos tenido más de un cuarto de millón de personas descargando la aplicación gratuita.
+SDK donde puedes crear aplicaciones directamente en tu Mac y ejecutarlas directamente en tu Mac
+Hemos tenido más de 25.000 personas que se han postulado al programa de desarrolladores PID, donde puedes
+En realidad, descargue las aplicaciones a su teléfono, pruébelas en su teléfono, depúrelas en un iPhone y, lamentablemente,
+No pudimos llevar a todos, así que admitimos a 4.000 personas al programa y hemos estado recibiendo comentarios tremendos.
+Y nos gustaría agradecer a todos los que nos han brindado comentarios tan positivos sobre el software del iPhone 2.0.
+Hay tres partes que lo respaldan: el soporte empresarial.
+SDK y algunas nuevas funciones para el usuario final, así que permítanme comenzar con el
+Empresa como usted sabe, esto es lo que hemos escuchado de todos los clientes que hemos...
+Nos gustaría poder conectar nuestros iPhones de forma inalámbrica a Microsoft Exchange y
+Lo hemos hecho y lo hemos incorporado de fábrica en el iPhone 2.0 con software push.
+contactos push de correo electrónico calendarios push
+Descubrimiento automático de sus servidores de Exchange UH Búsquedas de direcciones globales UH
+Puede buscar direcciones de cualquier persona en la empresa y, si pierde su teléfono, se pueden borrar todos sus datos de forma remota.
+Este material está integrado en el software del iPhone 2.0 y además hemos trabajado con Cisco para incorporar su VPN segura.
+Servicios directamente en el iPhone 2.0 y todo tipo de otras medidas de seguridad de red que existían
+Exigido por la Enterprise, de hecho todo lo que nos han dicho es cierto.
+Queríamos haberlo incorporado directamente en el software del iPhone 2.0.
+caja ahora te dije que hemos tenido un programa beta en marcha la Enterprise tiene
+Participó en ese programa beta de hecho
+El 35% de las empresas de Fortune 500 ha participado en ese programa beta El 35% de las empresas de Fortune
+500 los cinco principales bancos comerciales las cinco principales firmas de valores seis de los
+Siete aerolíneas principales, ocho de las 10 principales compañías farmacéuticas y ocho de
+Las 10 mejores empresas de entretenimiento no están tan mal y hemos recibido excelentes comentarios de ellas.
+Además de estas empresas Fortune 500, hemos tenido una participación fenomenal de la educación superior y
+Hemos tenido a casi todos los que están en la educación superior en el programa beta y hemos recibido comentarios fantásticos, así que...
+Hice un video de algunos de estos clientes empresariales y me encantaría mostrárselo ahora, así que sigamos adelante.
+Vídeo para intentar poner en perspectiva el tamaño del entorno de TI de Disney: tenemos aproximadamente 55.000 computadoras de escritorio y
+Portátiles en todo el mundo uh 1500 aplicaciones comerciales Sunshine na
+Rosenthal es un despacho de abogados con 101 años de antigüedad y 14 oficinas a nivel nacional y en Europa contamos con
+Más de 5 millones de archivos que se pueden buscar, 30.000 páginas en Internet y más de un
+petabyte en nuestro centro de datos, no somos muy diferentes en el Ejército de cualquier otra gran corporación, pero somos una de
+Los pocos que son extremadamente móviles se despliegan por todo el mundo y tienen gente disparándonos.
+[Música] Cuando se anunció la versión beta 2.0, fue sorprendente la cantidad de gente de The Firm
+Me contactaron inmediatamente en el comunicado de prensa y me dijeron cuándo podría tener uno. Hemos estado probando la versión Beta.
+Los últimos meses y el software está ahí, lo integramos muy rápido y fácilmente en nuestra red.
+Implementamos siete aplicaciones en la primera semana y hoy tenemos más de 2000.
+empleados que están en el iPhone Apple ha pensado en el hecho de que cuando entras en grandes empresas no puedes
+Cuente siempre con el entorno Legacy de la versión 2.0 del software del iPhone
+Está muy bien integrado con Microsoft Exchange mediante sincronización activa, por lo que podemos
+Podemos hacer push email, podemos hacer push calendaring, la tecnología push es realmente buena porque es
+transparente quiero decir que no tengo que preocuparme por eso nunca he tenido un dispositivo que me permitiera ver un archivo de Word Excel
+archivo o presentación de PowerPoint tan fácilmente como pueda en un iPhone. Tengo más de 2 millones de usuarios en mi comunidad, probablemente
+El más grande del mundo. Tengo que poder encontrar personas sin importar dónde estén y la capacidad de hacer eso con
+El iPhone es genial, con Safari podemos acceder a todo nuestro entorno de SharePoint.
+Podemos acceder a más de 6 millones de documentos. Podemos ver información de desarrollo comercial. Podemos ver contactos.
+Dentro de la empresa todo disponible de forma remota mientras estás de viaje también tenemos la capacidad a través de algunos de
+El software VPN que se ha incorporado en la versión 2.0 para acceder de forma segura
+Nuestra red utiliza elementos como la autenticación de dos factores, que nuevamente son muy importantes desde una perspectiva de seguridad.
+Janch necesita proteger su información y con la nueva versión tenemos WPA.
+Tenemos una VPN y tenemos todas las herramientas que necesitamos para mantenerlo realmente seguro. Nuestro equipo de seguridad aquí en Sun and Shine trabaja en estrecha colaboración.
+con el Servicio Secreto, así como el Grupo de Seguridad Nacional, INF, para la guardia y el FBI, así que seguridad y y
+Mantener esos secretos para nuestros clientes es extremadamente importante para nosotros, por lo que iniciar el borrado remoto nosotros mismos es un
+Gran característica. Tengo que asegurarme de que puedo proteger ese dispositivo. Puedo bloquearlo o deshacerme de él, destruirlo, eliminarlo.
+la información que contiene si la pierdo estoy hablando de vidas de soldados además del software 2.0
+Creo que realmente va a cambiar el juego, las cosas que dijimos que eran las más importantes para mejorar el iPhone en
+El entorno corporativo se ha entregado en 2 Creemos que el iPhone es una informática móvil de clase empresarial
+La plataforma realmente tiene la capacidad de concentrar la potencia de una computadora portátil en el tamaño de una
+teléfono inteligente que te da una sensación
+De lo que estamos haciendo en la empresa, todo el material está integrado en el software del iPhone 2.0.
+Entonces, el siguiente paso es el SDK y nos llevará hasta dónde estamos con el SDK y
+Muéstranos algunas cosas realmente interesantes. Me gustaría mencionar a Scott Forestal.
+Escocés
+Todo bien con el SDK y el iPhone 20, estamos abriendo el mismo nativo.
+API y herramientas que utilizamos internamente para crear todas las aplicaciones que
+Se envía como parte del iPhone, lo que significa que usted, como desarrollador, puede construir
+aplicaciones para el iPhone de la misma manera que lo hacemos vamos a empezar hablando de la
+Las API y los Frameworks en el iPhone comparten ampliamente con aquellos en
+Mac OS 10 comenzando con la capa arquitectónica coros en realidad usamos el
+exactamente el mismo kernel del sistema operativo 10 en el iPhone que forma la base de Mac OS 10 en
+De hecho, si miras las API y los Frameworks en esta capa, casi todos comparten línea por línea la misma fuente.
+Código que usamos para Mac OS 10, también tenemos un núcleo completo.
+La capa de servicios tiene todo, desde una API de base de datos completa con sqlite
+Y tiene una característica muy popular que es la ubicación central, esto le permite...
+para incorporar fácilmente servicios basados ​​en la ubicación en su
+aplicación tenemos una rica capa de medios tenemos todo desde
+Audio posicional tridimensional con Al abierto hasta un hardware
+Aceleración de la implementación rápida de gritos abiertos de verdad
+Gráficos 3D de tiempo y lo rematamos todo con Coco
+Touch Coco Touch es nuestra interfaz de usuario
+marco orientado a objetos y esto hace que construir un
+Aplicación para nuestra interfaz táctil de pantalla completa y muy fácil de usar, por lo que tenemos
+Un gran conjunto de API. Además de esto, tenemos una gran
+Potente conjunto de herramientas. Comenzamos con Xcode. Xcode es la herramienta que usarás para
+Escribe tu código para editarlo y depurarlo también tenemos la interfaz Builder
+Interface Builder le permite construir fácilmente su interfaz de usuario y luego
+Para conectarlo directamente a tu código tenemos un simulador de iPhone este
+Le permite ejecutar y depurar sus aplicaciones directamente en su Mac
+Y vamos más allá y hacemos que sea fácil para usted depurar su
+Aplicaciones directamente en tu iPhone y también conectadas a tu Mac ejecutándose en
+Xcode y nuestra última herramienta son los instrumentos, esta es una suite completa de herramientas de rendimiento.
+Herramientas que te permiten medir y optimizar tu aplicación para obtener los mejores resultados.
+Ahora mismo tengo el mejor rendimiento absoluto. Me gustaría hacer una demostración de estas herramientas para usted.
+No tengo tiempo suficiente para demostrarlos todos, así que lo que realmente quiero hacer es concentrarme en cómo construir su
+Interfaz de usuario en Interface Builder. Comenzaremos aquí lanzando
+xcode y voy a crear un nuevo proyecto, este será solo un Coco básico.
+aplicación táctil que voy a llamar cercana
+Muy bien amigos, Xcode acaba de crear este nuevo proyecto que mi aplicación va a utilizar.
+Las API de la libreta de direcciones incorporada para que pueda acceder a los contactos
+La base de datos del teléfono también utilizará las API de ubicación central integradas para que pueda agregar
+un servicio basado en la ubicación en mi caso voy a filtrar entre mostrar todos
+los contactos y solo aquellos contactos dentro de 10 millas de mi actual
+Ubicación ahora ya que lo que realmente quiero mostrarles es cómo construir la interfaz de usuario, voy a arrastrar el
+pegamento del controlador que ya está escrito, son alrededor de 300 líneas de código que se comunican con esas API de libreta de direcciones y el
+API de ubicación central. Bien, sigamos adelante y construyamos.
+La interfaz de usuario es el generador de interfaz. En el centro verás un
+ventana que es el lienzo sobre el que construiremos nuestra interfaz de usuario en el
+En el lado izquierdo, esta es una biblioteca de todos esos controles táctiles de Coco. Permítanme continuar y arrastrar un campo de búsqueda ahora.
+Puedes ver que la barra de búsqueda cambia de tamaño automáticamente para ajustarse perfectamente al iPhone. Arrastraré una barra de herramientas.
+Para que la parte inferior encaje perfectamente en su lugar, viene precargado con un elemento que...
+No quiero usar ese elemento, en realidad quiero usar un control segmentado y este es el control que usaré para cambiar.
+entre ver todos mis contactos y solo mis contactos cercanos ahora esto es interesante tiene un par de diferentes
+parece depender de si está en la región de contenido o en la interfaz de la barra de herramientas. Builder lo sabe y
+automáticamente le da la apariencia correcta, diré que esto fue para todos mis
+contactos esto es para mis contactos cercanos ahora quiero centrar eso uh en el
+Barra de herramientas: esta es increíblemente fácil y la interfaz Builder tiene excelentes controles de diseño, así que ahora la he centrado de hecho.
+Lo he centrado de tal manera que incluso si la barra de herramientas cambia de tamaño, permanecerá centrada en el medio.
+barra de herramientas ahora te preguntarás cuándo cambiaría el tamaño de una barra de herramientas en un iPhone y la respuesta es bueno, si
+gira de vertical a horizontal, cambia de tamaño y te das cuenta de que
+Manténgalo centrado automáticamente y podrá probar todo eso directamente desde la interfaz.
+Constructor, ahora hay un control más que necesito y es mostrar todos mis
+contactos, así que arrastraré una vista de tabla estándar para controlar su posición en la derecha.
+Aquí estamos bien, así que ahora puedo simular esta interfaz.
+lo carga en el simulador de iPhone, puede ver aquí la vista de tabla, todos los comportamientos estándar en los que puedo hacer clic
+entre los botones y si hago clic en el campo de búsqueda automáticamente aparece el teclado el siguiente paso es cablear
+Esto está bien con mi código, así que saldré del simulador y volveré a la interfaz Builder.
+Lo bueno de Interface Builder es que sabe todo sobre el código que estás escribiendo, un código X, así que realmente puedo saberlo.
+Si este es el controlador de amigos cercanos que arrastré antes y ahora puedo decir si ese es el tuyo
+Barra de búsqueda. Esta es la vista de tabla donde deberías mostrarla.
+contactos y si alguien toca este control, continúe y alterne su ubicación cercana.
+Amigos, eso es todo, hemos terminado, hemos construido la interfaz, la hemos conectado a nuestra
+a nuestro código y ahora con un clic en xcode se ejecuta el código completo
+aplicación estos son ahora mis contactos reales si hago clic aquí aparece
+el teclado y si escribo algo, digamos Bill, se filtra directamente a Bill
+Campbell, así de fácil es escribir una aplicación y probarla en el simulador.
+Ahora mismo, en tu Mac, déjame dar un paso más.
+Además, tengo un iPhone conectado a la computadora aquí y quiero probarlo en mi
+iPhone que implica solo cambiar una ventana emergente. Cambiaré eso para que diga compilación para
+Para el iPhone, compila y listo con un solo clic. Ahora se está compilando de la misma manera.
+La aplicación la empaqueta y la firma correctamente desde mi desarrollo.
+El entorno de mi dispositivo de desarrollo lo muestra aquí y lo inicia.
+conectando el depurador para que ahora pueda usar mi dedo para avanzar y deslizarme a través de
+Podría tocar en el campo de búsqueda, digamos que escribiré "uh bill" nuevamente y se filtrarán los filtros.
+Puedo borrar eso y simplemente tocaré Cercanía y usaré servicios basados ​​en la ubicación.
+Encontró mi ubicación actual y la filtró solo para los contactos dentro de 10 millas de mi ubicación actual.
+Ubicación y, por supuesto, utilizando el acelerómetro, puedo convertir esto en
+paisaje, gira la raíz de la aplicación y notas que el control en la parte inferior permanece
+centrado, así de fácil es crear aplicaciones para el
+En el iPhone tenemos un gran conjunto de API y un conjunto de herramientas realmente potente.
+Ahora, esto ha estado disponible durante aproximadamente tres meses y hay...
+Hay miles de desarrolladores que lo utilizan y les preguntamos qué piensan sobre el SDK hasta ahora y el
+Las respuestas fueron increíblemente positivas, así que permítanme leerles algunas de sus citas. Esta viene de Jonathan.
+patrocinador de Walt Disney dijo que después de trabajar con cientos de
+Otros dispositivos móviles que se están desarrollando para el iPhone son un soplo de aire fresco.
+El hardware es estable y completo, mientras que las herramientas de desarrollo de software son intuitivas y representan un nivel de
+El polaco rara vez se ve en la arena móvil
+A continuación tengo Cod bastante extendido con Symbian Windows Mobile y
+El Blackberry iPhone simplemente los supera, lo que me hace preguntarme quién decidió que el móvil...
+El desarrollo tuvo que ser difícil por parte de Tomy Jager y el mundo de la información. Lo siguiente que nos gusta mucho es Xcode.
+Entorno de desarrollo que supera todo lo que hemos trabajado hasta ahora en Rim.
+Elias más tarde fue director de desarrollo de productos móviles en Fox Interactive Media y
+David POG del New York Times tiene una forma muy agradable de resumirlo todo: escribe: estamos presenciando el nacimiento de un...
+La tercera plataforma informática más importante: Windows, Mac OS 10 y iPhone.
+Teléfono, así que no podríamos estar más de acuerdo, creemos que tenemos una plataforma fantástica aquí.
+para que la gente cree aplicaciones increíbles y ha habido miles de personas en los últimos años.
+meses incluso en nuestra versión beta ya estamos creando aplicaciones y hemos empezado a ver
+Algunos de estos y quedamos realmente sorprendidos con la calidad de estas aplicaciones y por eso decidimos invitarlos.
+Varios de estos desarrolladores están aquí hoy para mostrarles lo que han hecho.
+El primer desarrollador que me gustaría invitar es uno que estuvo con nosotros en el pasado.
+Cuando lanzamos la versión beta en marzo, Sega nos sorprendió con...
+Lo que habían logrado en sólo dos semanas al presentar el primer corte de Super
+Monkey Ball lo que han hecho en los pocos meses desde entonces para pulirlo y conseguirlo
+Está listo para el mercado, es absolutamente asombroso y te guiará a través de su
+Experiencias con el SDK Me gustaría invitar a Ethan Einhorn
+Ethan gracias
+Scot se une a nosotros en el escenario hoy y se siente atraído por el productor de Sega, Josh Morton, para conducir
+Entonces, cuando les mostramos Super Monkey Ball en el iPhone por primera vez en marzo pasado, nuestro equipo de desarrollo...
+Ocean pudo crear cuatro etapas desde cero en solo dos semanas de tiempo de desarrollo8 semanas después de ese evento
+Pudieron darnos 110 etapas para el juego terminado, lo cual es una cantidad tremenda de
+contenido para un juego portátil también pudieron darnos los cuatro monos clásicos, así que tenemos a II Mimi baby
+Y gan gan hoy vamos a jugar como bebé hay cinco mundos distintos para
+Juega y la última vez te mostramos el primer mundo Monkey Island, esta vez te mostramos el último World Space.
+Caso y la razón por la que quiero mostrarles esto es porque es una oportunidad increíble para demostrar cuán bien...
+El control de inclinación puede seguir el ritmo de los desafíos más intrincados del juego, como puedes ver, esta es una etapa bastante complicada.
+Josh está intentando pasar y para poder hacerlo tiene que poder acelerar, desacelerar y girar con
+La precisión de los acelerómetros del iPhone le da la capacidad de hacer
+que como productor la mejor parte de trabajar en este juego ha sido poner el
+El juego está por primera vez en manos de personas que nunca lo han jugado porque es simplemente divertido al instante con el control de inclinación.
+Funciona de maravilla, es una experiencia de juego fantástica para Sega, la App Store representa una
+Una oportunidad increíble porque ahora podemos estar en el mismo lugar donde la gente compra su música y sus películas.
+Pueden llevar todo ese contenido con ellos a donde quiera que vayan. Nos encanta lo que hemos podido hacer con Super Monkey Ball.
+No puedo esperar a ver qué es posible con nuestros otros personajes de Marquee y este juego estará disponible en el
+Lanzamiento de la tienda de aplicaciones por $9,99
+impresionante
+Gracias, la productividad se deteriora. Sé que a todos mis empleados de control de calidad les encanta.
+El próximo juego es eBay. eBay es el mayor sitio en línea.
+Marketplace en el mundo con aproximadamente 84 millones de usuarios activos
+Y para explicarles su experiencia en la creación de una aplicación nativa para iPhone, me gustaría invitar a Ken Sun.
+Ken agradece a Scott. También tenemos a mi colega Alan suelto, que conducirá hoy y estamos aquí para mostrártelo.
+subastas en el iPhone, por lo que el iPhone se ha convertido rápidamente en el dispositivo móvil número uno para acceder a eBay y, si bien esto
+La experiencia de fuego es excelente, queremos brindarles a nuestros clientes la mejor experiencia móvil posible, por lo que 5 semanas
+Hace tiempo decidimos crear esta aplicación y la facilidad de desarrollo que ofrece el SDK de iPhone nos permite integrarla rápidamente.
+con los servicios web de eBay para que puedas ver aquí que estamos en la pantalla de inicio tienes fácil acceso a la búsqueda mostramos al usuario
+Avatar personal y un resumen de su actividad, ya sea que sea un comprador o un vendedor, puede ver fácilmente si está
+Ganando o perdiendo y cuánto has estado vendiendo, así que busquemos lo nuevo que se adapta a uno de los artículos más vendidos.
+en eBay y agréguelo a nuestra lista de seguimiento. Todos estos son listados en vivo que verá ejecutándose en la producción de eBay.
+servidores, simplemente toca un elemento para que aparezcan los detalles, puedes ver la imagen completa
+cantidades de bits y todo eso si el comprador quiere ver más información también hemos integrado webkit en el
+aplicación para que puedan ver la descripción HTML de la venta volviendo atrás es solo
+Un toque fácil para agregarlo a nuestra lista de seguimiento y si volvemos a la página de inicio
+pantalla deja que se actualice ahora vemos que estamos viendo un elemento adicional pero también hemos superado la oferta en algo
+Toque allí y nos llevará a mi eBay, donde podemos obtener más detalles. Aquí están los montos de oferta en rojo y verde.
+Veamos qué estamos ganando o perdiendo. Intentemos ganar ese artículo que estamos perdiendo actualmente haciendo una oferta más alta.
+Hacer una oferta es realmente fácil, solo ingrese el monto de su oferta, confírmelo y la oferta se colocará instantáneamente en nuestra base de datos.
+Sistema, la pantalla de confirmación se desliza hacia adentro y, bueno, parece que finalmente volvemos a estar a la cabeza. Me gustaría echar un vistazo.
+Un último elemento en mi lista de vigilancia es una casa de 12,5 millones en un campo de golf en México.
+Echemos un vistazo a las fotos para ver si realmente vale la pena. Aquí el visor de tiras de película nos permite ver todas las
+Fotos podemos desplazarnos a través de ellas podemos acercar y alejar usando los controles táctiles estándar para ver más detalles se ve
+Muy bonito, pero no creo que vaya a ofertar por él. Eso es todo por nuestra demostración. Ha sido una gran experiencia.
+La aplicación de eBay desarrollada para iPhone estará disponible de forma gratuita cuando se lance la App Store. Gracias y feliz cumpleaños.
+ofertas
+Gracias Ken, el siguiente paso es repetir cuando agregamos la ubicación del núcleo a
+el SDK de iPhone, no podíamos esperar a ver qué tipos de aplicaciones basadas en la ubicación permitiría, bueno, si
+Toma una ubicación y agrégale una red social, tienes algo realmente
+Es interesante que te hayas involucrado y para hablar de eso me gustaría invitar a Sam Alman.
+Sam, gracias SC, estamos increíblemente emocionados por estar en bucle.
+El iPhone looped trata sobre conectarse con personas en movimiento, que es después de todo la razón principal por la que tienes un teléfono que mostramos
+Tú, dónde está la gente, qué están haciendo y qué lugares interesantes hay a tu alrededor. El pin naranja que está ahí arriba es donde estoy.
+Ahora, los pines azules representan a mis amigos. Hacemos que Serendipity suceda. Es sorprendente la frecuencia con la que estás en un restaurante.
+a un par de cuadras de un amigo o atrapado en un aeropuerto con un antiguo compañero de clase y no lo sabemos, lo haremos.
+Te mostramos que esta es la mejor versión de loop que hemos hecho jamás y, por lejos, el mejor dispositivo que hemos tenido.
+Oportunidad de trabajar con nosotros, hemos desarrollado para casi todas las plataformas móviles que existen, esta es la mejor y la más
+tan poderoso que James navega por el mapa tal como se esperaría, pellizcando, arrastrando y tocando, y podemos ver que
+Hay algunos amigos en el sur, un amigo mío está cruzando el puente Golden Gate, eh, y aquí hay algunos amigos que están muy cerca de nosotros.
+Ahora podemos tocar el mapa unas cuantas veces para hacer zoom y, a medida que hacemos zoom, vemos que hay un amigo muy cerca, así que podemos tocarlo.
+En ese uh Dot y es Aaron Easter y ella está a solo unas cuadras de distancia y entonces podemos ver lo que ha estado haciendo hoy.
+Se llama su diario, las fotos que ha tomado, el texto que ha ingresado, todo esto vinculado a lugares y compartible con cualquier otro servicio que desee y la cosa en azul.
+Es un comentario que su amiga dejó hoy temprano, así que podemos hacer clic en esa entrada superior que dice "De regreso al pequeño y lindo café", y podemos hacer clic en ella.
+De nuevo y esa foto se ampliará, por lo que en realidad se ve bastante bien y no tengo planes de almorzar hoy, así que...
+A ver si está libre para poder volver. Podría llamarla o enviarle un mensaje de texto. Nos integramos con las API nativas de iPhone.
+pero dejaré un comentario y diré que está libre para almorzar, si ella está libre entonces puedo conseguirla.
+instrucciones para llegar a ella con un solo clic y una línea de código, otro ejemplo del poder del SDK y esto es realmente todo
+Un ejemplo del poder de la ubicación: la ubicación más una lista de contactos e información sobre lugares interesantes significa que
+Nunca más tendrás que almorzar solo o en un mal lugar y creemos que eso es realmente genial, de verdad que puedes usarlo.
+Conéctate con tus amigos en la mayoría de los otros operadores o dispositivos en los EE. UU. Somos el servicio de mapas sociales más grande del mundo.
+mundo y muy feliz de anunciar que Loop será gratuito en el iPhone y en la App Store en el lanzamiento, de todos modos, creemos
+Esta es una nueva era de la telefonía móvil y estamos encantados de ser parte de ella. Muchas gracias.
+Mucho más adelante, Tyad Tyad es un gran blog móvil.
+La aplicación es nativa para el iPhone y te contará sus experiencias con ella.
+SDK Me gustaría invitar a Michael Sippy Michael gracias
+Scott está conmigo hoy. Es Ray Marshall, Ray, nuestro gerente de ingeniería para todas nuestras aplicaciones móviles.
+desarrollo tpad es el servicio de blogs profesionales más grande del mundo cada mes más de 100
+Millones de personas visitan un blog desarrollado por tyad y los blogs de fotos son una de nuestras funciones más populares. Déjame...
+Te muestro Tyad en el iPhone, así que esta es la pantalla de inicio de la aplicación y desde aquí es increíblemente
+Es fácil para mí publicar en mi blog. Puedo crear una publicación de texto simple tocando crear una publicación y eso muestra nuestra
+editor de publicaciones o podría optar por bloguear el momento tomando una foto y enviándola directamente a mi blog.
+Aprovecho la API de la cámara en el iPhone STK, pero lo que quiero hacer hoy es, en realidad, publicar en el blog una foto que tomé.
+Ayer un grupo de personas estaba visitando San Francisco desde nuestra oficina de París y los llevé a Fisherman's Wharf.
+Tocaré en agregar una foto, esto me permitirá explorar mis álbumes de fotos e iré al viaje a San Francisco.
+álbum y elegiré esa F esa primera foto allí puedo moverla y escalarla para que encaje perfectamente en mi blog y
+Tocaré elegir para seleccionarlo, esto me llevará a mi editor de publicaciones y tocaré para
+cambiar el blog en el que quiero publicarlo a mi predeterminado es el blog de Michael pero quiero poner esto en viajando a California
+Aquí es donde escribo sobre todas mis aventuras en el Estado Dorado. Tocaré para agregar un título y simplemente lo llamaremos ¡guau!
+Puedo tocar para elegir categorías para colocarlas en el lugar correcto en los archivos de mi blog. Elegiremos Bara y comida y
+Beber y ahora finalmente voy a tocar para agregar un poco de texto y algún comentario para la publicación y simplemente diremos
+Mmm, así que hago clic en publicar y listo para iPhone al instante.
+comienza a enviar la publicación y la foto a mi blog y me regresa a la pantalla de inicio de la aplicación. Tocaré en
+La vista de elementos pendientes para ver nuestro progreso y, mientras tanto, de hecho, voy y creo una nueva publicación si quiero.
+pero ahí nos acaba de llegar una alerta para avisarnos que la publicación ha sido publicada, tocaremos en La Vista
+Botón que iniciará Safari y nos llevará directamente a la publicación que acabamos de crear y está disponible para todo el mundo.
+para ver y así de fácil es bloguear con tpad en el iPhone. Estamos muy entusiasmados con el SDK para iPhone.
+Para nosotros fue increíblemente fácil desarrollar esta aplicación móvil y también estamos emocionados de anunciar que la aplicación será...
+Disponible de forma gratuita en el lanzamiento de la tienda de aplicaciones de iPhone, lo que creemos que será la mejor manera para que los usuarios obtengan
+aplicaciones en su dispositivo móvil muchas gracias por invitarnos
+Gracias a continuación, Associated Press. Associated Press es una
+Cooperativa de más de 5.000 organizaciones de noticias y proporcionan las noticias
+a más de la mitad de la población mundial cada día ya tienen uno de
+Las mejores aplicaciones web para el iPhone, pero las están llevando al siguiente nivel al crear una aplicación nativa.
+les permite aprovechar algunas características que son exclusivas del SDK nativo para contarle sobre sus experiencias
+Con el SDK me gustaría invitar a Benjamin Moss
+Benjamin agradece a Scot por el iPhone que nos ha servido.
+Catalizador importante en la creación de una nueva red que combinará fuentes de miles de organizaciones de noticias que hemos
+He estado usando el SDK por un tiempo y estoy emocionado de mostrarles lo que construimos. Lo llamamos Noticias móviles.
+Las noticias locales en red provenientes de fuentes confiables son realmente importantes. Aquí puedes agregarlas todas.
+las ubicaciones que quieras, pero lo bueno del iPhone es que siempre sabe dónde estás, así que lo he usado
+API de ubicación para recuperar automáticamente noticias locales de siete fuentes aquí en el Área de la Bahía, todo el contenido se almacena
+y se almacena en caché y se actualiza sin problemas en segundo plano para que pueda mantenerse actualizado incluso si está fuera de la red, como en un
+En el avión o en el metro además de noticias locales también puedes leer las principales noticias deportivas.
+Noticias de negocios, tecnología y entretenimiento. Nos encanta cómo podemos mostrar nuestra fotografía premiada en el
+La pantalla de alta resolución del iPhone, quiero decir, mira eso, ¿no es así?
+Increíble, también puedes ver un gran video de nuestra red de noticias.
+Estoy muy contento de que no solo puedas ser el primero en compartir historias con tus amigos por mensaje de texto o correo electrónico, sino que también te animamos a que...
+Involúcrate en informar las noticias que ves, así que si tienes una fotografía o un relato de primera mano de una noticia de último momento
+historia nos la puedes enviar inmediatamente desde tu iPhone nos ha encantado trabajar para el
+El iPhone SDK, dado que está basado en el número 10, se siente como un entorno de desarrollo de escritorio que nos ha ayudado
+Transición y aceleración muy rápido, sin lugar a dudas, es la plataforma móvil con más funciones que existe, pero ¿qué es?
+Realmente me impresionó lo rápido que mi equipo pudo construir todo esto en unas pocas semanas, así que gracias Apple por el...
+oportunidad de estar aquí busque la red de noticias móviles en la App Store cuando se lance será gratis
+Descárgalo y mantente atento, ya estamos trabajando en más ideas emocionantes, gracias.
+Te lo agradezco
+Señor, el siguiente es Pangia Software. Pangia es un desarrollador de juegos para Mac desde hace mucho tiempo y...
+puerto administrado en el SDK beta no solo uno sino dos juegos que son absolutamente
+Es fantástico poder guiarte a través de él. Me gustaría invitar a Brian Greenstone.
+Brian, gracias Scott, buenos días a todos. Estoy muy emocionado hoy.
+poder mostrarles dos juegos que hemos portado desde Mac OS 10 al iPhone y en el proceso
+Hemos hecho que ambos juegos sean incluso mejores de lo que eran originalmente. El primero es Enigmo. Ahora Enigmo se basa en la física.
+Juego de rompecabezas. El concepto básico aquí es que estás tratando de colocar las gotas de agua que caen dentro del contenedor. Ahora el juego...
+es completamente táctil, por lo que usamos el tacto para arrastrar nuestra pieza de rompecabezas hacia abajo. Aquí usamos el tacto para hacer zoom y
+Usamos el tacto para desplazarnos y, lo más importante de todo, usamos el tacto para rotar, así que en este caso lo hacemos.
+Una pequeña rotación hace que las gotas de agua entren allí y, obviamente, este es un nivel muy simple, es el nivel uno una vez que lo logramos.
+40 gotas allí nos permiten pasar al siguiente nivel U el juego tiene 50 niveles que se vuelven bastante complicados.
+Los rompecabezas son muy grandes, hay campos de fuerza e interruptores y todo tipo de cosas que tienes que hacer, pero quiero
+Les mostraré algo interesante en el nivel dos si tomo esta parte.
+Muévelo hacia aquí y haz que un montón de cosas se activen por todos lados. Esto consume muchísimo CPU.
+Cosas que hacer, estamos haciendo cientos, si no miles, especialmente en los niveles más altos de colisión de polígonos precisos.
+prueba cada cuadro individual, eh, y se necesita una buena CPU para hacer eso y nosotros
+Tengo una gran CPU aquí en el iPhone. Esta versión de Enigmo es fantástica.
+Realmente es mejor que el original, estamos muy contentos con él. Ahora el segundo juego que quiero mostrarles es Chromag Rally.
+Chromag Rally es una carrera de ceman en 3D.
+Juego y hay nueve pistas diferentes para elegir, uh, todo tipo de buenas aquí, uh, esta es una de mis favoritas.
+Pero en realidad hoy vamos a hacer glaciares y también tenemos 10 diferentes.
+Coches para elegir, en realidad tenemos 11 coches si incluyes el submarino en el nivel Atlantis, eh, el coche que es bueno.
+para el nivel del glaciar es este y podemos elegir nuestro personaje ahora portando los juegos a través de
+Instalar tanto Enigo como Chromag Rally en el iPhone fue realmente muy fácil, solo tomó alrededor de 3 días instalar cada juego.
+y corriendo y por en funcionamiento me refiero a que se podían jugar todos los niveles eran jugables
+Vaya, lo mejor de Chromag Rally, lo que realmente lo convierte en un excelente juego para iPhone, es el hecho de que el iPhone...
+en sí es el volante, así que si giro el iPhone a la derecha, el auto va a la derecha, si giro el auto a la izquierda, el auto va a la izquierda
+Uh, eso es lo que realmente hace que este juego sea lo que es y cada vez que alguien lo juega por primera vez...
+Es hora de que empiecen a reírse porque es un tipo de experiencia de conducción completamente nuevo jugar un juego donde el
+El dispositivo es el controlador, el SDK para hacer todo esto fue fantástico, ya sabes.
+Como digo, no me llevó mucho tiempo hacerlo y eso es realmente gracias a las API, la documentación y especialmente las herramientas.
+Incluso agregar la dirección basada en acelerómetro tomó alrededor de 5 a 10 minutos, fue realmente muy simple de hacer.
+No es ninguna tontería, así que estamos muy emocionados de poder decir que vamos a tener a Nigo y Chromag reunidos en la aplicación.
+Tienda en el lanzamiento por $9,99 cada una, muchas gracias
+Este próximo desarrollador me convenció mucho de que incluso un desarrollador individual puede crear un
+Una aplicación increíblemente convincente para el iPhone que, con mucha rapidez, es realmente una
+Desarrollador en la industria de seguros de ins en Inglaterra y la aplicación que está a punto de aplicar.
+Ver no es nada que esperarías de alguien en la industria de seguros.
+Te cuento cuál es su aplicación. Me gustaría invitar a Mark Terry.
+Hola Mark, solo he estado desarrollando en el iPhone en mi tiempo libre, pero el SDK es tan fácil de usar que he podido...
+Se me ocurrió algo muy interesante que me gustaría compartir con ustedes hoy. La aplicación se llama Band y es una colección de instrumentos virtuales que...
+permite a cualquier persona, independientemente de su capacidad musical, ir más allá de simplemente escuchar música en su iPhone.
+creando música ellos mismos desde cero, así que echemos un vistazo a algunos de los instrumentos que la banda tiene para ofrecer y
+En primer lugar tenemos un piano de dos octavas [Música]
+También tenemos un instrumento llamado funky drummer que te permite mezclar la batería.
+[Música] Toca el instrumento de blues de 12 compases
+Contiene todos los elementos que necesitas para tocar blues en una sola canción [Música]
+Interfaz w [Música] [Aplausos]
+[Música]
+Y por último para tus pistas de acompañamiento tenemos un bajo [Música]
+Sólo hemos tenido tiempo de mostrarte una fracción de lo que una banda puede hacer hoy. Todos estos instrumentos y más se pueden grabar, sobregrabar y mezclar en
+una canción o, por supuesto, siempre puedes juntarte con tus amigos para tocar una canción y quizás algún día comenzar tu propia canción.
+Banda, estén atentos a Band en la App Store en unas semanas, gracias.
+Creo que Mark debe haber visto la película Office Space y simplemente llorar. Creo que está en el negocio equivocado.
+uh el siguiente es m es mlb.com Estoy seguro de que para todos ustedes Baseball
+Fanáticos, les encantará esta aplicación mlb.com es la aplicación oficial
+Sitio web de las Grandes Ligas de Béisbol y han creado una aplicación realmente agradable.
+para que el iPhone te lo explique, me gustaría invitar a Jeremy a compartirlo.
+Jeremy agradece a Scott, hola, hoy me acompaña un compañero.
+Somos el desarrollador Robert Spcala y estamos encantados de mostrarles una nueva aplicación que hemos desarrollado exclusivamente para el iPhone, se llama
+mlb.com bate y tiene algunas características que no ofrecemos en ningún otro lugar, así que vamos a empezar de inmediato.
+tenga todos los juegos de hoy en vivo en la parte superior si desea obtener más información, simplemente toque uno, echemos un vistazo a los
+El juego de los Yankees es genial. Ahora, lo que tienes en la parte inferior te da un poco más de detalle sobre el juego, ves quién está en base y quién está bateando.
+El lanzamiento y la línea de puntuación. Estos datos se actualizan todo el tiempo para que nunca estés detrás de lo que sucede ahora y lo siguiente.
+Lo que quiero hablar es de lo que realmente estamos entusiasmados, esto es lo que no puedes encontrar en ningún otro lugar, decidimos...
+Aproveche el reproductor multimedia del iPhone y agregue videos destacados en tiempo real en mlb.com. Editamos videos en
+en tiempo real para cada juego para asegurarnos de que nuestros fanáticos no se pierdan nada y cuando ves la calidad en
+El iPhone te hace entender por qué fue una decisión fácil para nosotros hacer del iPhone el primer dispositivo móvil en el que
+Hemos ofrecido una aplicación para mostrar los momentos destacados del video. Estos clips llegan a usted minutos después de la reproducción, no después.
+El juego es justo después de lo que sucede en el campo, también creamos películas de referencia sobre
+la mosca para asegurarse de que obtenga la mejor experiencia de video posible, ya sea que esté en Wi-Fi o en el borde con el SDK de iPhone.
+Se nos dieron excelentes herramientas y una plataforma maravillosa para crear algo que creemos que a los fanáticos del béisbol les encantará.
+Pronto no encontrarás esta aplicación en ningún otro lugar y no podrás encontrar un mejor dispositivo para experimentarla.
+Estará en la App Store cuando se lance y muchas gracias, estamos muy emocionados de ser parte de este evento, gracias.
+tú
+que la próxima modalidad que conoce la comunidad médica
+Realmente ha estado acudiendo en masa al iPhone. En marzo, cuando lanzamos la versión beta del iPhone 20, demostramos un Epocrates.
+que fue increíblemente bien recibido, de hecho, después de eso, Epocrates fue y encuestó a sus médicos clave y encontró
+que de aquellos que planean comprar un teléfono en los próximos 12 meses, un tercer plan
+Para comprar un iPhone, es su opción número uno. Hoy tenemos dos más.
+Las aplicaciones médicas muestran que la primera modalidad consiste en crear más
+Médicos y para hablarles sobre eso me gustaría invitar al Dr. Mark Williams.
+El Dr. Williams agradece a Scot y agradece a nuestro desarrollador principal, James.
+Crouch de la aplicación y yo estamos encantados de estar aquí hoy para compartir con ustedes una de nuestras aplicaciones de aprendizaje tan médicas.
+Los estudiantes generalmente dependen de voluminosas fichas de papel y atlas para aprender los complejos nombres y ubicaciones de los objetos.
+estructuras del cuerpo humano pero esto está a punto de cambiar comenzamos con el estándar de oro y las ilustraciones médicas
+Hermosa colección Neta y, utilizando el SDK de iPhone, hemos creado una aplicación que es
+No solo son más portátiles sino también mucho más potentes que las tarjetas didácticas de papel, así que echemos un vistazo.
+Mire, un estudiante puede encontrar fácilmente una región del cuerpo y ver cientos de
+imágenes anatómicas una vez que seleccionan una de esas imágenes, pueden hacer zoom y desplazarse fácilmente por estas hermosas y
+Imágenes muy detalladas. Imagínese hacer esto en cualquier otro dispositivo móvil.
+[Risas] Gracias SEL
+Con solo seleccionar un bolígrafo se muestra la estructura anatómica y es muy fácil para un estudiante saltar a ella.
+la web y encontrar información adicional sobre esa parte particular del cuerpo, la aplicación tiene un modo de prueba simple que solicita
+El usuario puede encontrar una estructura dentro de una imagen y proporciona comentarios sobre si son correctos o no.
+equivocado y realmente creemos que aplicaciones como esta brindarán oportunidades únicas y nuevas para
+Aprendizaje eficaz fuera del aula y lo presencié de primera mano en mi enseñanza de anatomía cerebral cuando un
+El estudiante, después de usar un prototipo de esta aplicación, dijo el Dr. Williams: "Aprendí cinco términos cerebrales nuevos esta mañana mientras
+Estaba esperando en la fila para tomar mi café con leche, así que el SDK del iPhone se habilitó
+Modalidad para brindar a los estudiantes acceso instantáneo al contenido en el que confían en el dispositivo que realmente desean.
+Es muy fácil de llevar y de usar, y combinado con nuestro modelo de negocio y desarrollo, hemos podido...
+producir numerosas aplicaciones muy rápidamente, no sólo las aplicaciones médicas de las que estamos hablando aquí hoy, sino
+También incorporamos algunas de las marcas más importantes en educación K12 y contenido de referencia para el consumidor y estamos entusiasmados por...
+anunciamos que en cuestión de semanas desde el lanzamiento de la App Store tendremos una docena de aplicaciones disponibles y muchas más por
+el fin de año gracias muchas gracias
+mucho
+Gracias, nuestra próxima aplicación médica es de MIM Vista. MIM Vista es un desarrollador líder.
+de software de imágenes médicas innovador y la aplicación que van a darle
+El programa realmente demuestra lo absolutamente increíble que es la medicina.
+Las aplicaciones estarán en el iPhone para guiarte a través de ellas. Me gustaría invitar a Mark Kae.
+Mark, gracias Scott Las imágenes médicas implican mucho
+Los datos y una gran cantidad de interacción e interfaz son clave para que todo esto sea posible antes de que se desarrolle el iPhone.
+La solución móvil habría sido prácticamente imposible y los resultados
+Plugi, como sabemos por nuestra base de clientes existente de radiólogos y oncólogos radioterapeutas, es fácil ser
+atrapado sin acceso a una estación de trabajo ya sea al otro lado del hospital, en la gasolinera o en el campo de golf
+En este momento, nos estamos moviendo a través de los cortes de un estudio de fusión con una diapositiva de un dedo donde tenemos una tomografía computarizada.
+mostrando datos anatómicos y una tomografía por emisión de positrones que muestra la actividad metabólica, los dos dedos se deslizan hacia atrás.
+La combinación de pensar en cómo funciona un mapa meteorológico donde tienes datos geográficos superpuestos con la temperatura fusionamos los
+dos juntos y presentarlo como una reconstrucción multiplicadora toque la vista para cambiar el
+plano de visualización para que puedas ver los datos desde abajo, desde el costado y desde el
+Desde el principio reconocimos el potencial del iPhone y nos propusimos ver si esto era posible después.
+Una semana teníamos un prototipo, una definición del producto y el entusiasmo nos impulsó a pasar tres semanas más en las que
+Jeremy Brockway dijo aquí que el SDK dejó que su idea surgiera sin más.
+Obstáculo, vamos a acercarnos, podemos usar el pellizco, el doble toque y luego desplazarnos con
+Con un dedo, observe el indicador de desplazamiento a lo largo del lado derecho. Esta área está dedicada a desplazarse por las secciones para que pueda
+Puedes hacer eso en cualquier momento. Deslizar es la forma rápida de cambiar de volumen.
+y cuando estás viendo un solo volumen, deslizar dos dedos cambia el contraste o la ventana y el nivel.
+Herramienta importante para visualizar una gama tan amplia de datos. Veamos la herramienta de medición: toque y arrastre para
+Coloque el inicio de una línea de medición y haga lo mismo para completar la línea y esa línea permanecerá en esa porción
+hasta que se elimine lo cual puedes hacer con un
+Agite finalmente veamos la película MIP esta es una reconstrucción 3D ideal
+Para visualizar imágenes de mascotas, cambiemos el color de esto.
+Elige el arcoíris imagina a un médico sentado con
+Su paciente comparte las imágenes con él de iPhone a iPhone o con un oncólogo.
+Al revisar de forma interactiva un plan de tratamiento de radiación, el iPhone ha creado un
+nueva dirección para nuestra empresa hemos tomado una aplicación de escritorio compleja
+Lo sacó del ámbito del arte negro y lo puso en manos de los médicos.
+y los pacientes y apenas hemos arañado la superficie, búsquenme en el lanzamiento de la tienda de aplicaciones, gracias
+Eres un gran St. y nuestra última aplicación esta mañana.
+Viene de Digital Legends Entertainment, ahora solo nos enteramos de
+Este último desarrollador la semana pasada tiene su sede en Barcelona, ​​España, y solo...
+Comenzaron con el SDK hace dos semanas, pero lo que pudieron lograr en dos semanas construyendo esto
+El juego te hace olvidar que lo estás viendo en un dispositivo móvil y piensas que estás
+viéndolo en una consola de juegos para guiarlo a través de él me gustaría invitar a Javier Coro Costa
+Aier somos un desarrollador de juegos móviles galardonado. Somos nuevos en esta plataforma.
+Estamos muy emocionados de desarrollar para el iPhone, ya que creemos que es un dispositivo de juego muy capaz y tiene un diseño intuitivo.
+SDK y herramientas que permiten un desarrollo muy sencillo, estamos contentos.
+Para presentar un juego de aventuras de acción y fantasía, nuestro primer contacto es Crawl.
+Con el iPhone SDK hace 2 semanas, solo nos tomó 4 días portar el juego y lo usamos
+El resto del tiempo para implementar funciones específicas del iPhone podemos ver cómo Unai
+usa el acelerómetro para el salto como usa una pantalla táctil para mover el personaje golpea
+El murciélago o el contexto de lanzamiento se basan en la animación para cruzar el
+puente o tecnología sobre openg GL permite personajes 3d completos un entorno con un
+La calidad suele ser mejor que la de los dispositivos de juego portátiles. Skinning avanzado. Dinámico.
+La sombra y la oclusión ambiental contribuyen a la calidad general de la imagen.
+juego la aplicación St es hasta ahora el único mercado donde puedes traer directamente
+Su contenido para el rastreo del mercado global se encuentra actualmente en producción y está
+Se espera que esté listo para septiembre de este año gracias [Música]
+[Aplausos]
+Déjame recordarte que todo esto se estaba ejecutando en un iPhone.
+Y tuvieron dos semanas, así que claramente tenemos un SDK increíble y uno de los más
+La parte divertida de construir una plataforma como el iPhone 20 es poder verla.
+Innovación que viene de nuestros desarrolladores y por eso me gustaría dar una ronda más de aplausos agradeciendo a todos nuestros desarrolladores por su increíble
+trabajar
+Así que a los desarrolladores realmente les ha encantado el SDK, ahora hay una característica
+solicitud que actualmente no existe en el SDK que algunos desarrolladores han solicitado que provenga principalmente de
+Desarrolladores de clientes como los clientes de mensajería instantánea, que por su propia naturaleza quieren obtener una
+Notificación incluso cuando el usuario no esté ejecutando la aplicación actualmente
+Otro ejemplo sería, por ejemplo, eBay, que quiere avisarte cuando has sido superado en una oferta, incluso si el usuario no lo está en ese momento.
+ejecutando la aplicación, por lo que absolutamente queremos resolver este problema, la pregunta
+Así es como la solución equivocada a la que recurren algunas plataformas es habilitar
+procesos en segundo plano, es decir, permitir que una aplicación continúe ejecutándose
+Incluso después de que el usuario piensa que lo ha dejado ahora esto es malo por varias razones, en primer lugar la duración de la batería que
+La aplicación que crees que has abandonado seguirá agotando tu batería.
+El segundo es el fondo, el rendimiento, cuando estás ejecutando una aplicación, quieres que esté en primer plano.
+La aplicación debe ser lo más receptiva posible, pero ese fondo
+La aplicación está consumiendo ciclos de CPU, lo que hace que toda tu experiencia se sienta
+lento ahora otras plataformas han reconocido que esto es un problema y en una plataforma se ha presentado esto
+Solución un administrador de tareas porque sabes como un juego.
+Desafía al usuario final a dejar de lado sus conocimientos de informática.
+habilidades para averiguar cuál de esos procesos en segundo plano está consumiendo su
+CPU y luego mátalo manualmente, pero no mates el incorrecto porque ahora estás en problemas, esto es una locura.
+Hemos encontrado una solución mucho mejor y es que vamos a...
+Proporcionar un servicio de notificaciones push para todos
+Desarrolladores, así es como funciona. Digamos que estás ejecutando una aplicación como una aplicación de mensajería. A medida que la ejecutas, es...
+conectado a su servidor para que pueda enviar cualquier mensaje que desee, pero cuando el usuario abandona la aplicación
+Ya no existe esta conexión con el servidor, que es donde entra en juego el servicio de notificaciones push.
+mantener una conexión IP persistente directamente al teléfono para que luego
+El servidor de terceros puede enviar las notificaciones que desee a través de nuestro servicio a sus usuarios. Puede enviar tres
+Tipos de notificaciones: puedes enviar insignias para alertar al usuario sobre cuántos mensajes están esperando.
+En tu aplicación puedes enviar alertas personalizadas
+Sonidos: estos se pueden personalizar para su aplicación, puede tener tantos como desee, puede enviar diferentes para diferentes alertas y puede enviar sonidos personalizados.
+Las alertas textuales aparecen de forma similar a como aparecen nuestros SMS en la pantalla.
+Así que, sin importar en qué aplicación estés, no los perderás y podrás proporcionarles botones donde, si están...
+seleccionado por el usuario iniciará automáticamente su aplicación lo mejor
+Lo que hace que este diseño sea más escalable es que se puede adaptar a muchos servicios de terceros, pero
+Aún así, solo se necesita una conexión persistente al teléfono.
+servicio de notificaciones push es un servicio de notificaciones push unificado para
+Todos los desarrolladores preservan la vida útil de la batería, no hay procesos en segundo plano que agoten la batería, la mantiene
+Rendimiento: no hay procesos en segundo plano que consuman ciclos de CPU y
+Todo funciona por aire a través de la red Wi-Fi y la red celular.
+Esta red estará disponible en septiembre, pero a partir del próximo mes vamos a estar sentando a los desarrolladores para que puedan...
+Puedes tenerlo en tus manos pronto y esta ha sido una actualización del SDK, gracias.
+¿No es fantástico? Esto va a ser genial.
+Además del soporte empresarial y el SDK, tenemos algunas características nuevas en el
+El software del iPhone 2.0 que me gustaría destacar también es el primero.
+¿Es la búsqueda de contactos? Entonces, en los contactos ahora puedes simplemente tocar en buscar en la parte superior.
+Escriba unos pocos caracteres y encuentre instantáneamente a quién está buscando. Busque el contacto en segundo lugar. Hemos agregado una búsqueda completa.
+El documento Eyework le permite ver documentos de Eyework y
+Páginas de iPhone, números y, por supuesto, Keynote
+Una excelente manera de ver sus documentos de trabajo visual mientras está en movimiento y lo hemos completado.
+El soporte de documentos de Microsoft Office también está disponible en el iPhone. Hemos tenido Word y CCEL y ahora tenemos...
+tener PowerPoint para
+Por eso es muy fácil descargar estos documentos como archivos adjuntos y consultarlos.
+directamente en tu iPhone. También hemos agregado eliminación masiva y
+Muévete para que ahora puedas elegir un montón de mensajes para eliminarlos, eliminarlos todos a la vez o moverlos todos a una carpeta.
+Una vez que lo hace, es bastante útil y la capacidad de guardar imágenes que puede obtener en
+un correo electrónico directamente a su biblioteca de fotos, simplemente tóquelas y guárdelas en su biblioteca la calculadora tenemos algunas
+solicitudes de una calculadora científica, por lo que simplemente gira la calculadora al modo horizontal y se convierte en una
+científico
+Calculadora Hemos agregado controles parentales. A algunos adolescentes puede que no les guste esto.
+Pero así es como tendrá que ser y, eh, puedes desactivar el uso explícito.
+contenido que puedes decir no más YouTube este mes uh no más comprar cosas de la
+tienda iTunes o la App Store y, lo que es realmente importante, hemos agregado una gran cantidad de
+Cantidad de idiomas admitidos. Además del inglés, hemos agregado muchos otros idiomas en todo el mundo.
+Algunos de los idiomas asiáticos que más nos entusiasman son los que hemos agregado dos formas de entrada uh uh para japonés.
+y dos formas de entrada para chino, tanto simplificada como tradicional.
+Incluyendo uno en el que realmente dibujas el personaje con tu dedo, tenemos un diseño de personajes muy sofisticado.
+reconocimiento así que vamos a ser
+Admite todos estos idiomas en el iPhone y puede cambiar entre ellos.
+sobre la marcha, así que es genial, es una de las grandes ventajas de no tener un montón
+de teclas de plástico para tu teclado
+Así que estas son algunas de las nuevas características.
+que tenemos en el iPhone SDK y junto con Enterprise
+Creemos que el soporte y el SDK del software del iPhone 2.0 serán...
+fenomenal y nos eleva de nuevo a un nivel completamente nuevo de software para iPhone 2.0.
+Lanzarlo a principios de julio será una actualización de software gratuita.
+Para todos los propietarios de iPhone y hemos reducido el precio a 9,95 para iPod Touch.
+propietarios, así que estamos muy, muy emocionados por
+Este es uno de los otros aspectos de los que me gustaría hablar y que está íntimamente relacionado con...
+Vinculado a esto, por supuesto, vamos a tener todas estas excelentes aplicaciones y cómo...
+Los distribuimos, presentamos la App Store en marzo, es fenomenal.
+Estará en todos los iPhone, es una forma para que los desarrolladores lleguen a todos.
+Los usuarios pueden elegir sus aplicaciones y descargarlas de forma inalámbrica directamente en
+Su teléfono los instala automáticamente, funciona sin problemas y para aquellas aplicaciones que
+Has comprado cuando haya una actualización te avisará automáticamente cuando haya una actualización y podrás descargarla
+Actualice de forma inalámbrica también para los desarrolladores, ellos establecen el precio de sus
+Las aplicaciones se quedan con el 70% de los ingresos y no les cobramos ninguna tarifa por el crédito.
+tarjetas o hosting o cualquier otra cosa, usamos sus aplicaciones de manera justa para que sean seguras y si quieren darlas
+Los podemos descargar gratis, no les cuesta nada, así que creemos que la App Store va a ser fenomenal.
+Desarrolladores, ahora hemos ampliado el alcance de la aplicación.
+De los 22 países en los que iba a estar ahora estará en 62
+países donde podrás acceder a la tienda de aplicaciones directamente en tu iPhone, por lo que prácticamente en cualquier parte del mundo
+Donde hay un iPhone, podrás llegar a los clientes directamente en su teléfono.
+Teléfonos si su aplicación tiene 10 megabytes o menos, el usuario puede descargarla a través de
+red celular wifi o iTunes si tu aplicación tiene más de 10 megabytes pueden
+Descárgalo en wifi o iTunes para que sea la aplicación.
+Tienda Creemos que nunca ha habido nada parecido para que los desarrolladores puedan obtener aplicaciones.
+usuarios, pero obtuvimos otros comentarios que a las empresas les gustaría
+Otra forma de distribuir aplicaciones es que les gustaría distribuirlas ellos mismos. M eles solo para sus teléfonos para que puedan
+No se podía ejecutar en los teléfonos de otras personas, por lo que en realidad estamos mejorando la forma en que...
+Puede distribuir aplicaciones para agregar una forma para que las empresas distribuyan aplicaciones y aquí se explica cómo.
+Las obras de una empresa pueden autorizar iPhones en su empresa un conjunto de
+iPhones que están en su Enterprise y luego pueden crear aplicaciones que
+Sólo se ejecutan en esos teléfonos y pueden distribuir esas aplicaciones en su propio Internet.
+de la forma que quieran usando cualquier seguridad que quieran y luego sus usuarios descargan
+Esas aplicaciones se instalan en la computadora y se sincronizan con el teléfono a través de iTunes, por lo que creemos que tenemos una excelente manera.
+para que las empresas entreguen sus aplicaciones personalizadas solo a sus empleados.
+corriendo de forma segura en sus teléfonos
+Pero estamos agregando una tercera forma de distribuir aplicaciones, la llamamos ad hoc.
+Imagina que eres profesor universitario y estás enseñando a escribir aplicaciones para iPhone y tienes 50 estudiantes.
+y quieres que puedan enviar sus aplicaciones por correo de ida y vuelta y enviarlas por correo a ti. ¿No sería fantástico si...?
+Podrías hacerlo bien, ahora puedes hacerlo con una distribución ad hoc. Lo que vamos a hacer es ampliar la certificación de desarrolladores.
+programa para hasta 100 iPhones y así podrás certificarte y registrar hasta
+100 iPhones y luego esas aplicaciones se pueden enviar por correo, publicar en cualquier lugar y ejecutarse en
+Esos hasta 100 iPhones nuevamente los usuarios los descargan y los sincronizan en sus
+teléfonos a través de iTunes, por lo que al unirnos a la App Store ahora tenemos dos formas adicionales
+para que grupos de usuarios distribuyan aplicaciones en su iPhone y creemos que tenemos una
+Gran historia ahora, así que esa es la
+Ahora tenemos algo completamente nuevo y estamos muy entusiasmados con esto.
+Se llama Mobile Me y le pediré a Phil Schiller que venga y nos cuente todo al respecto y nos dé una demostración.
+Veo
+Bueno, buenos días a todos. Estoy muy emocionado de ser el primero en contarles sobre esta nueva marca.
+Servicio de Apple llamado Mobile Me. Entonces, ¿qué es Mobile Me en una idea simple?
+Como tener intercambio para el resto de nosotros, no todos trabajamos en grande.
+Empresas, no todas tenemos servidores Exchange, pero nos encantaría tenerlos.
+Capacidades Bueno, ahora puedes con Mobile Me, todos podemos recibir correos electrónicos push.
+contactos y calendarios directamente a nuestro
+dispositivos para que todo esté actualizado donde quiera que estés. Entonces, ¿cómo funciona?
+Bueno, Mobile Me almacena tu información en la nube para que puedas acceder a ella desde cualquier lugar usando cualquiera de tus dispositivos.
+para usar una Mac, resulta que usas una PC y lo más importante, usas uno de nuestros excelentes
+Los nuevos dispositivos, como el iPhone, enviarán la información hacia arriba y hacia abajo sobre la marcha para mantener todo
+actualizado todo el tiempo, así que aquí hay un ejemplo simple. Estoy viajando y me envían un correo electrónico.
+Yo en mi cuenta móvil me llega inmediatamente a todos mis dispositivos, mi teléfono, mis computadoras, todas tienen
+el último correo electrónico o tal vez estoy viajando y cambio el contacto de la libreta de direcciones en mi
+El teléfono se envía a mi móvil y también a todos mis productos.
+Bueno, tal vez estoy trabajando en una computadora y muevo una reunión, la reunión se envía a Mobile Meet y luego a todos los demás.
+Mis dispositivos, así que donde quiera que esté, todo está actualizado y la mejor parte de esto es que...
+Funciona de forma inalámbrica por aire. Todo se mantiene actualizado.
+fecha, así que estoy fuera y recibo un mensaje de correo electrónico. Toco en mis mensajes, correo electrónico push.
+Trabajando en mi iPhone directamente desde mi móvil y funciona integrado con mi aplicación de contactos en el iPhone, así que
+algo cambia, se introduce directamente en mi iPhone y lo veo inmediatamente, funciona directamente con el
+Calendario integrado en mi iPhone, por lo que los cambios de reuniones del calendario los hago llegar a mi iPhone.
+directamente por aire a mi iPhone, por lo que es perfecto para mi iPhone y, por supuesto,
+Funciona con las aplicaciones nativas que tengo en mi Mac o PC en la memoria móvil Mac. Funciona directamente.
+con la aplicación de correo funciona con IAL funciona con la libreta de direcciones así que todos se integran con mobile me también tenemos
+Lo hice funcionar para usuarios de PC, de modo que si usan Outlook para mantener todos sus contactos y encuentros de correo, funciona y
+Se integra con Mobile Me y es de esperar que, por supuesto, se esperaría que Mobile Me funcione con estos.
+Aplicaciones nativas: lo que creo que realmente va a sorprender a la gente es que hemos creado...
+Un conjunto de increíbles aplicaciones basadas en la Web 2.0 que utilizan las últimas tecnologías AX y son simplemente asombrosas.
+Dando una experiencia EXP como la de una computadora de escritorio en la web, entonces, ¿cómo funciona eso?
+Muy simple, vaya a cualquier computadora, ya sea PC o Mac, abra un navegador y simplemente escriba esto.
+nueva direccion me.com sencilla y fácil de recordar me.com
+y llegas a este nuevo sitio web lleno de estas increíbles aplicaciones, inicias sesión y lo que vas a encontrar es...
+¿Esta increíble experiencia de correo electrónico enriquecida no es a lo que estás acostumbrado en un producto de correo electrónico basado en la web? Se siente como una computadora de escritorio.
+La aplicación ahora está en la parte superior, aquí puedes ver las herramientas de navegación, así es como cambias.
+entre todas las diferentes aplicaciones solo haga clic en ellas para que esté en correo y yo
+Hago clic en él y luego voy a los contactos. Todos mis contactos están en la nube y tengo acceso directo a ellos.
+A través de esta aplicación basada en la web, toco el calendario para acceder directamente a todos los elementos de mi calendario.
+almacenada en la nube hemos tomado la tecnología de galería que teníamos en mac.com esa galería ahora está integrada en una
+galería basada en la web a la que cualquier usuario de móvil puede acceder, usar y administrar aquí mismo a través de su navegador y esto es
+Es genial, al igual que el correo, los contactos y los calendarios, las fotos también funcionan por aire.
+con tu iPhone así que tengo esta Galería donde guardo mis fotos favoritas en la web si estoy caminando con mi iPhone
+y tomo una gran foto y quiero compartirla con toda mi familia y amigos directamente desde el iPhone con el 2.0
+Software con el que puedo enviar esa foto a mi móvil y se guarda directamente en mi dispositivo.
+álbumes para que ahora yo, mi familia y mis amigos podamos verlos en este gran
+Interfaz web y nunca he vuelto a una computadora, todo lo hago directamente desde el teléfono y hemos tomado el Idis.
+Tecnología que ha sido muy popular y que ahora se ha incorporado con una interfaz web completa para que cualquiera pueda almacenar sus
+documentos favoritos y contenido importante en la web y acceder a ellos y compartirlos con todos directamente a través de un
+Interfaz web, por lo que es una interfaz de aplicación Web 2.0 innovadora que me gusta
+Lo que quiero hacer es mostrártelo ahora mismo, así que vengo aquí a un iMac.
+Podría ejecutarlo en una Mac o PC y podría adivinar cuál es mi favorito y voy a iniciar mi navegador favorito.
+Safari y simplemente inicie sesión, así que esto es Mobile Me nuevamente.
+Es increíble creer que esto es una aplicación Web 2.0. Tengo todo mi buzón de correo configurado, todos mis directorios que...
+He configurado un entorno completamente fluido para que puedan leer mis correos electrónicos.
+para seleccionar algunos correos electrónicos para archivar, mire esto nuevamente, no espera esto de una aplicación web, arrastre y suelte en un
+La carpeta se siente como una aplicación de escritorio.
+A veces los correos electrónicos me invitan a buenos amigos a grandes eventos, así que recibo esta invitación.
+Aquí puedo responder simplemente presionando "responder" como lo haces con un correo electrónico normalmente, tenemos esta pequeña y genial
+Destaco aquí una respuesta rápida justo en línea. Voy a decir que sí, me encanta ir y presionar enviar.
+La respuesta se envía de forma muy rápida, fluida y sencilla, por lo que ahora es el correo electrónico y el móvil.
+Contactos Aquí están mis contactos, puedes desplazarte por ellos, sabe todo sobre ellos.
+He configurado diferentes listas dentro de contactos si quiero buscar esto es
+Genial, de nuevo, lo que esperarías de una aplicación de escritorio. Voy a empezar a escribir algunas letras, Lars, mientras estoy...
+Al escribir, me concentro en tiempo real en las cosas que quiero, no en lo que esperaría de una aplicación web en la que puedo hacer clic.
+En cosas como esta dirección, obtengo un mapa de Google integrado aquí en la libreta de direcciones. Es realmente una
+Potente y sencillo junto al calendario un calendario rico
+medio ambiente obtener todas las vistas populares uh puedo verlo día a día
+Me gusta más la vista de semana y puedo tener todos mis datos personales.
+calendarios y elementos configurados con códigos de colores Puedo activarlos o desactivarlos según lo que quiera hacer, ¿qué hace?
+Se necesita mover reuniones en esta interfaz web, tal como se esperaría. Tomo una reunión, la voy a mover a mañana y la voy a publicar.
+De la manera que aclaro mi tarde
+Aquí está esa Galería, esta increíble galería ahora incorporada en una interfaz web. Puedo hojear las fotos como si fuera una
+ioto Puedo hacer clic para entrar en un álbum. Mira qué suave es esto. Voy a...
+cambiar los tamaños de las fotos que quiero ver en la web quiero mover cosas y reorganizar mi biblioteca solo
+Arrastre y suelte aquí hay una foto que debe rotarse, simplemente haga clic y gírela y
+Cuando quiero compartir esto con mis amigos y familiares, aquí está el enlace. Puedo configurarlo para protegerlo con contraseña o
+No, y aquí está idisk. idisk ahora tiene una interfaz en línea completa. Esto es realmente...
+Genial porque si tengo un archivo grande y quiero enviarlo a alguien, no tengo que enviarle un correo electrónico. Simplemente hago clic aquí en Compartir y obtendré un enlace para obtenerlo.
+Cuando quieras, sin tener que manejar grandes archivos de correo electrónico. Ahora imagina que me acerco a cualquier computadora vieja.
+Inicié sesión, revisé mi correo, revisé mi calendario. Quiero retirarme. Hemos creado este pequeño y agradable cierre de sesión.
+La herramienta es un botón de encendido y apagado aquí en la parte superior derecha. Simplemente sabes dónde ir, cierras sesión y yo he iniciado sesión.
+fuera del móvil yo en esta computadora así que para lo siguiente que quiero hacer es mostrarles un poco de la
+interacción por aire entre el iPhone y el móvil así que voy a
+Ven aquí a un iPhone, tengo uno convenientemente configurado para que lo veas. Ahora lo voy a despertar, puedes imaginarlo.
+Estoy fuera y alguien me envía un correo electrónico. Los correos electrónicos se enviarán inmediatamente a su teléfono mediante push.
+Tecnología Hago clic en ese correo electrónico, hay un nuevo correo electrónico, lo hago clic para leerlo y así lo tengo.
+Envié este correo electrónico, me está invitando a almorzar. Ya sabes lo bien que funciona el correo electrónico en el iPhone. Si tienes uno, puedes...
+Toca ese enlace, ese enlace me llevará a Google Maps para mostrarme dónde está ese restaurante. Puedes tocar el azul.
+Botón para obtener más información Podría llamar al restaurante directamente desde aquí para hacer una reserva Podría ir a su sitio web con el navegador sa Safari para
+revisa el menú lo que voy a hacer ahora es guardar esto para más tarde cuando necesite ir así que voy a crear uno nuevo
+contacto, entonces toco crear un nuevo contacto y guardarlo en mis contactos en mi teléfono
+Así que acabamos de revisar un correo electrónico enviado y guardamos un contacto en el teléfono. Vamos.
+Vuelvo a la computadora y voy a iniciar sesión nuevamente en Mobile.
+Yo y está ese correo electrónico, el correo electrónico que se envió al teléfono también se envió a todos los lugares a los que accedo, yo y
+esta aqui arriba incluso tiene el estado correcto ya lo lei porque lo lei en el telefono mas interesante si
+Hago clic en mis contactos y aparece el contacto del restaurante que creé en el teléfono y la hora.
+Me costó cambiar entre estos móviles ya me empujó la información de contacto que creé en el teléfono
+hasta la nube en el cielo y llego a ella ahora en Safari y todo está perfectamente
+uh, sincronizado donde sea que lo necesite, hagamos una cosa más con esto.
+Aquí estamos de nuevo en el calendario en la nube y acabo de recibir esa invitación.
+para almorzar entonces, ¿qué tan difícil es crear una reunión? Simplemente voy a hacer clic y arrastrar
+Voy a hacer un almuerzo, hagamos un almuerzo muy largo, pasemos el rato juntos.
+John, acabo de programar una reunión para almorzar con John en mi calendario en la nube.
+Volvamos a la
+iPhone, ahí estamos y toco mi calendario C y ves el elemento del calendario.
+Ya fue empujado desde la nube hasta el teléfono, puedes aplaudir.
+Bien, ahora voy a dejar el teléfono en la pantalla. Ves que dice almuerzo con John. Lo voy a dejar ahí.
+Voy a caminar de regreso aquí hasta el mac y había un juego de softbol programado para el miércoles. Voy a moverlo de regreso a
+Hoy porque acabo de escuchar que el juego de softbol se adelantó y en un segundo lo verás pasar.
+A través de la nube hasta mi
+iPhone ahí está, así que lo has visto pasar, aquí están todos.
+Mis testigos realmente funcionan, pasamos el elemento del calendario a través de la nube hasta el teléfono y para mi último truco
+Lo que me gustaría hacer es pasar a las fotos. Te mostré la diapositiva de esto, pero es tan increíble cuando piensas...
+Sobre lo poderoso que es esto. Puedo viajar con la familia, de vacaciones, tal vez en la playa y tomar
+Una foto genial de alguien y solo quiero asegurarme de que mis padres en casa puedan verla aquí dentro del iPhone.
+en la aplicacion de fotos voy a seleccionar enviar al movil yo ahora el iphone
+No solo sabe que tengo mi dirección móvil para mis fotos, sino que también conoce todos los álbumes que ya he creado, así que voy a...
+para hacer clic en la playa y se creará un tipo especial de correo electrónico con una foto incrustada dirigida directamente a usted.
+Directamente en mi álbum en mi galería en Mobile Me puedes ver el indicador de progreso, ahora lo está enviando y es
+Hecho esto, mi teléfono acaba de enviar la foto a la nube, así que volveremos una vez.
+más tiempo para mi iMac voy a pasar a mi galería de fotos y entrar
+Mis álbumes y esa foto acaba de ser enviada desde el teléfono a la nube.
+Así es Mobile Me. Mobile Me es una increíble nueva experiencia para todos.
+Su información se mantiene, todo se mantiene actualizado, es como tener un intercambio para el resto de nosotros, todos podemos
+Ahora tiene contactos y calendarios de correo electrónico Push y funcionará con cualquier aplicación nativa que desee utilizar.
+la Mac o una PC y lo que más me emociona son estas increíbles nuevas aplicaciones web
+A diferencia de cualquier aplicación que haya usado antes en la web, es el compañero perfecto para cualquiera que tenga un iPhone.
+o iPod Touch móvil me es un servicio ser
+Disponible por $99 al año que viene con 20 Gigabytes de almacenamiento en línea para todos
+Ese contenido nos parece tan asombroso que vamos a crear una versión de prueba gratuita.
+Prueba gratuita de 60 días para que la gente lo pruebe porque les encantará tanto como a nosotros y estará disponible junto con el
+El software del iPhone 2.0 se lanzará a principios de julio y quizás te preguntes qué pasa con...
+MAAC Mobile Me reemplaza a MAAC. Bueno, sí, así es. Es su manera.
+Los mejores usuarios de dotmac pueden seguir usando su servicio dotmac, pueden seguir usando las direcciones dotmac, pero no podrán...
+Se actualizará automáticamente a Mobile Me y podrá comenzar a usar ese servicio y cambiar ese espacio de nombre cuando lo desee.
+Así que eso es móvil, muchas gracias.
+¿No es genial? Hemos estado trabajando en eso durante un tiempo. Creo que finalmente lo logramos.
+En este momento me gustaría hablar con algunos sobre algo que es cercano y querido para mi corazón y eso es...
+iPhone, ya sabes que en unas semanas será el primer cumpleaños del iPhone.
+Enviamos nuestros primeros iPhones el 29 de junio y fue una introducción increíble.
+Sin duda el más increíble que hemos tenido jamás.
+Y el iPhone ha tenido un tremendo reconocimiento de la crítica como el mejor invento del mundo.
+Año uh y creo que se cree ampliamente que este es el teléfono que ha cambiado
+teléfonos para siempre
+Todo eso es genial, todo eso es genial, pero lo que nos hace más felices es...
+que los usuarios aman sus iPhones los aman
+ellos y ya sabes 90% de satisfacción del cliente eso está fuera de serie.
+¿Qué significa que hoy en día los productos tienen un 90% de satisfacción del cliente? Esto es así.
+El maravilloso 98% de los usuarios de dispositivos móviles han desaparecido.
+De nada a 98% con el iPhone increible 94% estan usando email
+El 90% utiliza mensajes de texto y el 80% utiliza 10 o más funciones que ni siquiera puedes...
+Empecemos a descubrir cómo usar 10 funciones en un teléfono normal, así que esto es
+fenomenal
+Y en este primer año hemos vendido seis millones de iPhones hasta que se nos acabaron algunos.
+Hace unas semanas se vendieron seis millones de iPhones, así que ahora estamos muy emocionados con esto.
+Descubrimos cuáles son nuestros próximos desafíos, la próxima montaña que tenemos que escalar.
+para pasar al siguiente nivel entonces ¿cuáles son estos próximos desafíos primero de los tres?
+La red G es más rápida
+La red ocupa el segundo lugar en cuanto a soporte empresarial, como hemos escuchado, en tercer lugar.
+Soporte de aplicaciones en cuarto lugar, necesitamos vender iPhone en
+más países ¿cómo sabemos esto? Bueno, hemos vendido iPhone en seis países hasta ahora, pero
+Créeme que se utilizan en muchos más
+países, se utilizan en todo el mundo y, por lo tanto, está claro que hay una
+demanda de iPhones en muchos más países y por último pero no menos importante
+Al menos todo el mundo quiere un iPhone, pero necesitamos hacerlo más [Música]
+asequible y lo sabemos porque salimos y hablamos con personas que no compraron
+Los iPhones y la razón principal por la que todos quieren uno es que simplemente no pueden permitírselo. Algunos de ellos no pueden permitírselo.
+Así que necesitamos hacer que el iPhone sea más asequible.
+Así que, cuando llegamos al primer aniversario del iPhone, lo vamos a llevar al siguiente nivel.
+El siguiente nivel y hoy presentamos el iPhone 3G
+Hemos aprendido tanto con el primer iPhone que hemos aprovechado todo lo que teníamos.
+Aprendí mucho y hemos creado el iPhone 3G y es hermoso, esto es
+Lo que parece es que es aún más delgado en los bordes.
+Realmente hermoso, tiene una parte trasera completamente de plástico, es realmente
+Bonitos botones de metal macizo de los mismos preciosos de 3,5 pulgadas.
+conector para auriculares empotrado en la cámara para que puedas
+Usa los auriculares que quieras, el audio mejorará drásticamente.
+El audio mejorado es realmente genial y se siente aún mejor en tu mano si
+No puedo creerlo, es realmente maravilloso el iPhone 3G.
+Ahora bien, ¿cómo aborda el iPhone 3G estas cuestiones? Veamos un ejemplo.
+Mira, primero que todo, echemos un vistazo a 3G. ¿Por qué quieres 3G? Bueno, lo quieres.
+Para descargas de datos más rápidas, no hay ningún lugar donde quieras más rápido.
+Descarga más que el navegador y descarga archivos adjuntos de correo electrónico, así que vamos a...
+Echa un vistazo a estos primeros primero el navegador hemos cogido un iPhone 3G y en el mismo teléfono y la misma ubicación
+descargué un sitio web en Edge y descargué el mismo sitio web usando 3G y
+Hemos capturado los videos, así que veamos cómo lo hacemos.
+¡Nos vamos a las carreras aquí!
+Es un sitio web con muchas imágenes y un diseño complejo. 21 segundos en 3G.
+Está bien, 59 segundos al límite, así que...
+mismo teléfono misma ubicación 3G 2,8 veces
+Más rápido, pero es aún más notable cuando miras esto al lado.
+WiFi se puede ver que las velocidades 3G en realidad se están acercando a WiFi esto ha sido
+Mi experiencia al usar el teléfono también es increíble.
+Zippy, esto también es bastante sorprendente. Llevamos otros dos 3G de última generación.
+Los teléfonos descargaron las mismas páginas web y el iPhone 3G es un 36% más rápido que el
+Nokia n95 o el tro 750, eso es bastante bueno y míralo
+El resultado por cierto mira lo que obtienes una pagina web completa en el iPhone y algo bastante
+Menos en algunos de estos otros productos 36% más rápido
+Ahora veamos un escenario muy típico: tienes un archivo adjunto en un correo electrónico.
+Si quieres mirar, tócalo. Hagamos lo mismo aquí. Mismo teléfono.
+Coloque las descargas de la versión 3G en 5 segundos
+y la versión edge en 18 segundos que es 3,6 veces más rápida que la versión 3G.
+Ahora podemos ver una diferencia real en las velocidades de descarga y nuevamente si comparamos
+esto al wifi veras que el 3G se acerca al wifi
+velocidades para que claramente podamos obtener datos más rápidos
+Una de las cosas de las que también estamos muy orgullosos es que estamos haciendo esto con una gran duración de batería en el iPhone 3G.
+Duración de la batería, la duración en espera o el tiempo de espera que hemos aumentado a 300 horas.
+En cuanto al tiempo de espera y el tiempo de conversación 2G, hemos podido pasar de 8 horas a 10 horas en 2G.
+tiempo de conversación estos otros o tiempo de conversación 3G disculpe estos otros teléfonos tienen 3G
+El tiempo de conversación está en el rango de tres a tres horas y media, hemos logrado obtener cinco horas de 3G.
+tiempo de conversación, que es realmente una cantidad de tiempo líder en la industria, estamos muy satisfechos con esta navegación de cinco a
+Seis horas de navegación a alta velocidad por vídeo 7
+Horas y audio que hemos logrado obtener 24 horas de
+Audio muy bueno, rendimiento excelente, ahora gran duración de batería
+Otra cosa que se beneficia de Fast Data, por supuesto, es el GPS, y lo hemos desarrollado.
+Esto también se aplica al nuevo iPhone 3G
+Como sabéis, los servicios de localización van a ser un asunto muy importante.
+iPhone con el software iPhone 2.0, viste un poco de eso aquí hoy, va a...
+Explotar y, por supuesto, obtenemos datos de las torres de telefonía celular, datos de ubicación que obtenemos
+datos de ubicación de WiFi y ahora también los obtenemos de
+GPS y utilizando los datos del GPS podemos realmente
+hacer un seguimiento, así que, como ejemplo, aquí vamos a conducir hacia abajo, grabamos esto en
+Lumbard Street Lumbard Street es una calle divertida en San Francisco que zigzaguea y
+Zags y aquí estamos conduciendo por Lumbard Street y, de hecho, podemos seguir nuestro movimiento usando GPS, así que es algo así como
+Es divertido, ya entiendes la idea.
+GPS incorporado y datos mucho más rápidos, por lo que creemos que
+Puede marcar 3G y agregar GPS incorporado.
+bota
+Bien, ahora vamos con el soporte empresarial, como explicamos antes, Microsoft completo.
+Compatibilidad con Exchange mediante sincronización activa integrada en el software del iPhone 2.0, todo de forma segura
+VPN y otros estándares de seguridad, todo lo que todos pidieron.
+y hemos recibido comentarios tremendos de los usuarios de Enterprise que estamos en
+exactamente en el camino correcto y sabemos que ahora podemos marcar la casilla Enterprise
+Admite aplicaciones de terceros, el SDK, las excelentes herramientas que necesita
+Vimos las excelentes aplicaciones y tenemos la mejor manera de distribuirlas en el mundo.
+Creemos que podemos controlar mejor el soporte de aplicaciones de terceros.
+países en los que distribuimos iPhone en seis países hoy nos fijamos el
+Objetivo de 12 países para el iPhone
+3G y un objetivo ambicioso de llegar a 25 países en los próximos años.
+Meses bueno, ¿cómo lo hacemos? Déjame mostrarte
+Así que aquí vamos, estos son los países que hemos...
+agregado
+es
+Así que 70 países [Música]
+Vamos a lanzar el iPhone 3G en 70 países durante los próximos años.
+Estamos muy emocionados con esto la próxima vez que estés en Malta y necesites un iPhone 3G, estará allí para ti.
+Nuevamente América del Norte, tres países principales, América del Sur y América Central 15
+países Europa 29 países y Asia y
+Australia y ocho países, así que estamos muy, muy entusiasmados con esto y
+Hemos estado trabajando con estos grandes transportistas para poder entrar en estos países. Todos estos acuerdos están firmados, sellados y...
+entregados y comenzaremos a ejecutarlos muy pronto, por lo que nuestra meta era de 25
+países vamos a estar en 70 países este año creemos que podemos
+Marcar más
+países que nos llevan a más asequibles ya sabes el iPhone empezó
+El iPhone de 8 GB estaba rebajado a 5,99 USD y ahora cuesta 3,99 USD.
+iPhone de lujo y queremos hacerlo aún más asequible y estoy muy feliz de poder
+Te digo que el iPhone 3G se venderá por 199 dólares.
+en un un un un solo
+Creemos que el iPhone 3G costará 199 dólares y será asequible para casi todo el mundo, y eso es para el modelo de 8 GB.
+El modelo de 16 gigas cuesta solo $ 299 y para el modelo de 16 gigas también
+tenemos algo especial tenemos uno blanco tambien es muy
+Hermoso muy muy lindo pero por supuesto la gran noticia es $
+399 a 1 199 y creemos que podemos marcar más
+Asequible para 70 países.
+año vamos a empezar con el 22 con el
+más grande y vamos a lanzar el iPhone 3G al mismo tiempo en todos estos
+países y lo implementaremos en julio
+11 de julio 11 y en casi todos estos
+países el precio es de un máximo de 199 en todo el mundo por lo que estamos realmente
+Realmente entusiasmado con el nuevo iPhone 3G y como era de esperar, tenemos un nuevo
+anuncio así que si quieres verlo me encantaría mostrártelo
+Sí, sigamos adelante y ejecutemos el [Aplausos]
+[Música]
+anuncio finalmente está aquí el primer teléfono que supera al iPhone navega por la web y
+Descarga datos dos veces más rápido durante la mitad del tiempo.
+Precio de presentación del nuevo iPhone
+3G ¿no es genial? ¿Quieres volver a verlo? Vamos a verlo otra vez. Me encanta esto.
+[Música]
+anuncio finalmente está aquí el primer teléfono que supera al iPhone navega por la web y
+Descarga datos dos veces más rápido por la mitad del precio
+Presentando un nuevo iPhone
+3G está bien
+Así como el primer iPhone, este nuevo iPhone 3G es uno de los más sorprendentes.
+productos con los que he tenido el privilegio de estar asociado y que me gustaría tener.
+Tony y su equipo que están aquí hoy, todos los que están en Fort y Scott.
+Y su equipo que está aquí hoy, por favor, pónganse de pie y démosle un gran aplauso. Es un gran aplauso.
+Trabajo chicos aquí mismo
+¡Guau, todos estos tipos de aquí!
+Sabes que tenemos gente increíblemente talentosa en Apple y ponen su corazón y alma en esto.
+productos y espero que puedas sentirlo así el iPhone
+3G 11 de julio 22 países y eso es solo el
+Empecemos así WWDC 2008 Creo que va a ser nuestro mejor así
+Hasta ahora 147 sesiones con más de mil ingenieros de Apple
+en el sitio, adéntrese en él, aproveche todo lo que puede aprender aquí y vaya
+Hacen unos productos geniales, así que muchas gracias. Nos vemos pronto.
+Semana de mayo ¿por qué no puedes ser sincero?
+Mayine ¿por qué no puedes?

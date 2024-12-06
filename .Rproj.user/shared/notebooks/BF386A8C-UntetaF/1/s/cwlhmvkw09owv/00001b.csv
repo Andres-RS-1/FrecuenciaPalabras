@@ -1,0 +1,5 @@
+"0","##### texto con numeros?"
+"0",""
+"0","text_1997 %>%"
+"0","  filter(grepl(pattern = '[0-9]', x = word)) %>% "
+"0","  count(word, sort = TRUE)"

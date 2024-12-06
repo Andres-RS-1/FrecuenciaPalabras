@@ -1,0 +1,6 @@
+"0","##### componente conexa mas grande de la red"
+"0","g <- text_2001_bi_counts %>%"
+"0","  filter(weight > 1) %>%"
+"0","  graph_from_data_frame(directed = FALSE)"
+"0","# grafo inducido por la componente conexa"
+"0","V(g)$cluster <- clusters(graph = g)$membership"

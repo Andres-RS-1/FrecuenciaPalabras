@@ -1,0 +1,5 @@
+"0","# ---------- duque ----------"
+"0","set.seed(123)"
+"0","text_2010 %>%"
+"0","  count(word, sort = TRUE) %>%"
+"0","  with(wordcloud(words = word, freq = n, max.words = 20, colors = 'blue4'))"

@@ -1,0 +1,508 @@
+Bienvenidos a nuestra Conferencia Mundial de Desarrolladores 2005. Hoy es un día importante.
+Hoy tenemos cosas geniales para ti, pero quiero comenzar con algo más.
+Algunas estadísticas sobre la conferencia: hoy hubo más de 3.800 asistentes y esta puede ser la conferencia para desarrolladores más grande.
+Conferencia en la historia de Apple No estoy seguro, pero sé que es la más grande de la última década, así que bienvenidos sean.
+Aquí hay desarrolladores de más de 45 países, incluidos China e India, y tenemos
+Algunas cosas geniales para ti durante ciento diez sesiones de laboratorio y de esas 39 son
+Prácticamente desde donde estás sentado frente a las máquinas durante los laboratorios 95 sesiones de presentación y más de 500 ingenieros de Apple
+Estaremos en el sitio esta semana para ayudarlo, así que tenemos nuestro Apple
+Premios de diseño y este año tenemos más inscripciones que nunca: más de 400
+entradas y simplemente muestra la vitalidad de la comunidad de desarrolladores, es fantástico, pero el número que sobresale
+Mi mente para los miembros de la conexión de desarrolladores de Apple ahora hemos cruzado la mitad
+Millones de miembros y luego increíble, así que
+La comunidad de desarrolladores de Apple está prosperando. Me gustaría darle una actualización rápida sobre
+Venta minorista próximamente Venta minorista de Apple Tenemos ciento nueve tiendas ahora en todo el mundo
+En todo el mundo estamos viendo más de un millón de visitantes por semana, un millón de visitantes por semana.
+semana y durante los últimos 12 meses las tiendas minoristas en la tienda en línea han
+Vendieron más de 500 millones de dólares en productos, así que realmente lo están haciendo.
+Bueno, para nosotros los necesitamos, hemos abierto muchos.
+En tiendas como esta, en los centros comerciales también hemos abierto algunas de las llamadas tiendas insignia.
+tiendas esta está en Londres, no sé si has estado en la tienda de Londres, pero está buenísima, es una tienda fenomenal
+Estuve allí hace unas dos semanas, un martes por la tarde, había más de 250 clientes en la tienda.
+A las 2 en punto, así que fue increíble. Ahora nuestro grupo minorista está constantemente tratando de encontrar las mejores propiedades inmobiliarias para
+Ubicaron tiendas e hicieron un video para mostrar en una convención de bienes raíces y lo vi y lo tomé porque quería
+Para mostrártelo, ¿podríamos reproducir ese video ahora?
+tú
+Así que esa es una pequeña actualización sobre Apple Retail. Creemos que es la mejor experiencia de compra del mundo para uso personal.
+Computadoras Ahora me gustaría darles una actualización sobre el iPod y nuestros esfuerzos musicales.
+Ya sabes que el iPod ha entrado realmente en la cultura popular en Estados Unidos.
+Cuando tienes la suerte de aparecer en la portada del New York Times, estábamos muy emocionados.
+Con eso y eso se refleja en las ventas de iPod, este es el iPod acumulado.
+vendidos y al final del último trimestre a finales de marzo habíamos vendido alrededor de 16 millones de iPods y eso también se refleja
+En el mercado de iPods, la cuota de mercado de todos los tipos de reproductores de mp3, incluidos los flash y los discos duros.
+Conduce todo el 76 por ciento de la cuota de mercado, así que estamos encantados con eso ahora que tú
+Sepa que iTunes va con el iPod y recientemente superamos los 430 millones de canciones.
+vendido y descargado en iTunes, estamos encantados con esto y eso se refleja nuevamente en la participación de mercado de iTunes que hemos logrado.
+Hemos tenido mucha competencia en los últimos nueve meses y lo que ha sucedido es que nuestra participación de mercado está aumentando, ahora es del 82%.
+por ciento en el mes de mayo
+Y recientemente anunciamos algo nuevo para iTunes y iPod y se llama
+podcasting como sabéis el fenómeno del podcasting está explotando ahora mismo y
+El podcasting, por supuesto, es una concatenación de iPod y transmisión, y ¿qué es el podcasting? Ya lo hemos descrito.
+de muchas maneras diferentes una de ellas ha sido Tebow para la radio puedes descargar radio
+programas y escúchalos en tu computadora o ponlos en tu iPod cuando quieras, es como los programas de televisión en TiVo y eso es todo.
+Es cierto que otra forma de describirlo es Wayne's World para radio, lo que significa que
+Cualquiera sin mucha inversión de capital puede hacer un podcast y ponerlo en un servidor.
+y conseguir una audiencia mundial para su programa de radio y eso también es cierto, lo vemos como lo más popular en el mundo.
+La radio es más popular que cualquier otra cosa en la radio y, como sabes, lo que es el podcasting es...
+que no solo puedes descargar programas de radio y escucharlos sino que también puedes suscribirte a ellos para que cada vez que
+Hay un nuevo episodio y se descarga automáticamente a tu computadora. Puedes escucharlo allí o se descarga automáticamente.
+Se sincroniza con tu iPod la próxima vez que lo conectas, por lo que es muy emocionante y hay más de 8000
+Los podcasts ahora están creciendo muy rápido, así que es bastante emocionante.
+Ahora bien, no son sólo aficionados los que hacen estas cosas, aunque estos 8.000 no son todos...
+Los aficionados, pero los profesionales se han dado cuenta de que esto es enorme y aquí hay solo una lista de algunas de las empresas que hacen podcasts ahora.
+Todas las principales emisoras de radio Las emisoras de la red Las principales revistas
+los principales periódicos, incluso las principales empresas como Disney, Procter & Gamble, Ford y General Motors, por lo que es bastante...
+Es emocionante y lo que vamos a hacer es que esto sea aún más fácil porque no tendrás que ir.
+Descargue otras aplicaciones y reúna todo tipo de cosas para que esto suceda. Lo vamos a incorporar directamente.
+iTunes y iPod para que puedas suscribirte a cualquier podcast y vamos a hacer
+Es muy fácil y directo a iTunes, muy simple, pero uno de los más
+Lo importante es cómo encontrar esos podcasts en los que quieres que la gente escriba las URL. Bueno, podrían hacerlo, pero también estamos...
+Vamos a incorporar en la tienda de música iTunes un iPod o un directorio de podcasts, de modo que vamos a enumerar
+miles de podcasts y podrás hacer clic en ellos, descargarlos gratis y suscribirte a ellos directamente en iTunes.
+Solo me gustaría darles un adelanto rápido de cómo se verá esto, déjenme...
+Abre iTunes aquí y voy a ir a la página de inicio del podcast y esta es la
+Directorio de podcasts y vamos a enumerar nuevamente miles de podcasts. Sigamos adelante y escuchemos uno al que podamos acceder.
+Uno aquí, este es Adam Curry, es uno de los inventores del podcasting y puedes escuchar su Sewed 187, así que...
+Podrías escuchar un episodio aquí, pero es mucho más interesante suscribirte al podcast y ahora nos hemos suscrito a
+El podcast de Adam Curry nos ha llevado a esta cuestión del podcast. En la lista de fuentes, es el más descargado.
+uno reciente si quiero descargar otro puedo simplemente presionar un botón y descargar uno de los episodios más antiguos y yo
+puedo escuchar un episodio cualquier codigo fuente episodio 187 algo notable es
+Lo que está sucediendo aquí es que la radio se está liberando de los guardianes regulados que han manejado lo que se puede escuchar desde la radio.
+Se inventó y está saltando a las manos de cualquiera que tenga algo o nada que decir.
+Bueno, déjame darte otra.
+uh-huh Adams genial esto es um esto es
+KCRW, este es un programa llamado The Treatment, es una estación de radio pública en Los Ángeles, así que déjame suscribirme.
+tratamiento y de nuevo aquí hay otro puedo cerrar este si quiero y vamos a escuchar el tratamiento
+El tratamiento es una producción de KCRW Santa Monica en 89.9 FM y transmisión web en KCRW
+Tranquilo de KCRW en Santa Mónica este es el tratamiento
+Así que ya tienes la idea de que estos son realmente geniales modelos de verano para aficionados y modelos de verano para profesionales.
+Más quiero destacar que vamos a hacer uno nosotros mismos porque tenemos nueva música el martes cuando ponemos
+Nueva música en iTunes Music Store, así que decidimos hacer un podcast. Esto es solo una prueba, pero puedes suscribirte y
+ya sabes conseguir
+tú
+En los capítulos es como el dios que nos sigue reinventando muy muy muy
+Sencillo y creemos que básicamente va a...
+Llevar el podcasting a un nivel general donde cualquiera pueda hacerlo y sea realmente fácil de encontrar.
+Estos podcasts son muy fáciles de escuchar, por lo que estamos muy emocionados por esto y pueden ser una forma más en la que
+El iPod y la comunidad de música digital iTunes están realmente a la vanguardia de esta cuestión, llevando la innovación a...
+el mercado ahora me gustaría darles una pequeña actualización sobre Mac Mac está haciendo
+Muy bien en este momento y déjame comenzar con algunas cifras si miramos las tasas de crecimiento.
+Estas son las tasas de crecimiento unitario interanual de los últimos cinco trimestres que terminaron
+en marzo y si nos fijamos en el mercado de PC el crecimiento se ha ralentizado un poco desde poco menos del 20% hace cinco trimestres a
+Un poco más del 10% hoy, esto es nuevamente tasas de crecimiento año tras año en términos de unidades enviadas, pero veamos cómo
+El Mac se ha recuperado en el mismo período. Mire esto hace nueve meses. El Mac despegó en términos de tasas de crecimiento y...
+creció más del 40 por ciento
+Así que el último trimestre el Mack creció a un ritmo tres veces mayor que el resto del mundo.
+Industria y estamos muy entusiasmados con eso. Lo más importante, por supuesto, que está sucediendo en Mac es Mac OS 10 Tiger I.
+Espero que todos lo estén usando. Lo enviamos recientemente. Estoy seguro de que todos están usando el panel de Spotlight. Hemos enviado h.264.
+Basado en QuickTime 7, de hecho, hoy estamos previsualizando QuickTime 7 en
+Windows, por lo que podrás descargarlo más tarde hoy para que los usuarios de Windows también puedan obtener el mejor video digital en el
+Mundo, ya sabes, hemos enviado más de mil millones de copias de QuickTime durante su vida útil, más de mil millones de copias y ahora
+QuickTime 7 con h.264 está disponible para Mac y hoy se lanzó una versión preliminar en
+Windows, has visto el nuevo sistema masculino con búsqueda instantánea, hemos visto Safari con acceso RSS instantáneo incorporado.
+directamente en él y has visto un chat AV, estamos hasta cuatro personas pueden hacer video
+conferencias directamente en el escritorio con gran calidad nuevamente gracias a h.264
+Creemos que Tiger es el mejor lanzamiento que hemos enviado jamás y ya sabes lo que...
+Los críticos han estado de acuerdo, ya sabes que deberías ver las citas. Estoy seguro de que has visto algunas de ellas. Esto es de Computerworld.
+Vea cómo se ve el futuro de la informática personal. No espere a que Microsoft se lo muestre. Salga y consiga...
+Consíguete una copia del sistema operativo 10 Tiger de Apple, así de bueno es. Aquí está el New York Times.
+Spotlight no es solo un comando fino y superrápido, es una mejora tan profunda, conveniente y poderosa que...
+Amenaza con reducir a la irrelevancia el sistema de carpetas anidadas, que tiene 20 años de antigüedad.
+cbsnews.com Recuerdo haber escrito un artículo sobre Lotus 1-2-3 cuando el
+El producto se lanzó durante los años 80. Puede que hayan pasado casi 2 décadas desde que escribí esa columna, pero se convirtió en el centro de atención.
+Menos de 2 segundos para encontrarlo
+Businessweek Tiger refuerza el sistema operativo Tens Edge como el mejor sistema operativo para computadoras personales
+Sistema similar al del Detroit Free Press, es el sistema operativo más elegante, útil y potente.
+Lo he usado en tres décadas como propietario de una computadora y supera a Windows y, finalmente, a Walt Mossberg.
+Deja a Windows XP en el polvo
+Y sé que todos ustedes están aprovechando las últimas y mejores funciones de Tiger en sus aplicaciones y es muy...
+Es emocionante y me complace mucho informarles que esta semana vamos a...
+Entregar copias vendidas a través de comercio minorista entregadas a través de mantenimiento y
+enviado al máximo desde que cortamos la copia número 2 millones de Mac OS 10 Tiger este
+Es el más rápido. Recuerda que han pasado aproximadamente seis semanas desde que comenzamos a enviarlo.
+Y estamos encantados con esto, este es el lanzamiento de sistema operativo más exitoso de la historia y no somos los únicos que hemos estado ocupados con
+Tiger echa un vistazo al material de terceros que se ha publicado. Más de 400 complementos de Spotlight. Aproximadamente 40. Lo siento.
+Ya se han creado más de 400 widgets del Dashboard y más de 550 acciones de Automator.
+publicado y en particular quiero centrarme en estos widgets del tablero de instrumentos
+Es una de las características más emocionantes de Tiger y la gente ha hecho algunas cosas hermosas y me gustaría mostrarles algunas de ellas ahora, así que déjenme ir.
+Adelante, en el tablero, todos ustedes conocen el tablero y déjenme sacar algunos aquí.
+Luego regresa aquí. Aquí hay uno excelente para Amazon. Este no solo te lleva a...
+Amazon cuando buscas algo pero puedo buscar digamos tigre y eso
+Entro y busco en Amazon y me da todo lo que podría querer, ¿no? iPod boom y ahí está todo.
+Este artículo de Amazon lo podría querer para un iPod. Déjame mostrarte otro que es realmente genial. Business Week lo lanzará hoy, creo, pero este...
+Me brinda historias semanales de negocios actualizadas aquí mismo y así puedo mirar y, ya sabes, echar un vistazo a Apple si...
+Quiero y están todas las historias sobre Apple hoy y puedo voltear
+Lo pongo en la parte de atrás y miro las noticias más importantes o la tecnología o lo que sea que quiera hacer, es bastante genial.
+Así que ahí vamos y vayamos a CNN.
+Tiene algo similar, no es tan bonito como el de BusinessWeek, pero cumple su función y tiene todas las novedades.
+Historias de CNN. Si no la has visto, aquí tienes una interesante llamada Calendario de cuenta regresiva. Así que mencionas esta cuenta regresiva.
+En el calendario, vas a la parte de atrás y completas las fechas hasta las que quieres hacer la cuenta regresiva, así que voy a decir 31 de diciembre de 2006 y
+Voy a poner el cuerno largo que es
+Los días hasta que uno se hace largo simplemente los cuenta regresivamente [Música]
+Aquí tienes un buen rastreador de paquetes para UPS, DHL o FedEx. Estaba rastreando un paquete antes, así que puedo...
+Ve a rastrear un paquete aquí y allí está mi
+Paquete de FedEx, ya sabes, aquí hay una radio divertida de conejo, esto encuentra tu NPR local
+estación y eso es genial y simplemente lo escuchas e incluso puedes escucharlo cuando los paneles están apagados, es un botón.
+Genial, pero lo dio si Hamilton lo reconociera, nada es genial como lo escucha NPR.
+Déjame ir a buscar otro aquí, veamos. Aquí hay uno divertido para los entusiastas de los deportes, que es el puntaje de béisbol.
+simplemente sentado allí desplazándose por la pista de TV o estoy seguro de que has visto al docente encuentra todos los programas de TV que te pueden interesar.
+Una de mis favoritas es Wikipedia, para aquellos que no lo saben, es de código abierto.
+Enciclopedia en la que todos contribuyen y que ahora se ha convertido en una de las más importantes.
+Enciclopedias robustas y ciertamente precisas en el mundo porque tienes expertos de todo el mundo.
+El mundo contribuye a ello y simplemente buscamos a Tiger aquí y puedes obtener información sobre todo tipo de Tigers, así que eso es todo.
+wicked pedia es genial y por último solo quería mostrarles que Yahoo acaba de lanzar una versión actualizada en
+Su tráfico y puedo poner el San Francisco California aquí y allá es
+Las actualizaciones de tráfico para San Francisco, así que estas son solo algunas de las más de 400
+Widgets del panel de control que están disponibles ahora en Tiger y que puedes obtener y nosotros solo...
+lanzó un nuevo sitio en la pestaña OS 10 de Apple Comm que hace que sea mucho más fácil
+Encuentra estas cosas, ve a verlas, son bastante sorprendentes, así que OS 10 Tiger
+Ahora bien, ¿qué porcentaje representa esto de todos los usuarios de Mac OS, estos dos millones?
+Los ejemplares que hemos entregado hasta ahora representan ya el 16 por ciento de la
+La base de usuarios de Mac OS 10 es aproximadamente la mitad de Panther y aproximadamente una cuarta parte es Jaguar.
+Alrededor del 10% son los rezagados en las primeras versiones de 10 y posteriores a 6.
+Semanas, esto es fenomenal. ¿Dónde esperamos estar cuando nos volvamos a encontrar aquí?
+El año que viene, a esta misma altura, esperamos que Tiger sea la mitad del sistema operativo.
+Tenemos una base de 10 usuarios, así que estamos muy emocionados por eso y si echamos un vistazo a lo que...
+Lo hemos hecho en los últimos cinco años, hemos lanzado cinco versiones principales del sistema operativo.
+10 En los últimos cinco años, en ese período de tiempo, por supuesto, Microsoft lanzó XP.
+y mirando hacia adelante mirando hacia adelante que
+¿Vemos bien el próximo realmente? Estoy muy contento de anunciar que la próxima versión de OS 10 se llamará
+Leopard y no nos centraremos en ello en esta conferencia de hoy.
+Pero seguramente lo haremos en el futuro y tenemos la intención de lanzar Leopard al final.
+de 2006 o principios de 2007, justo en el momento en que se espera que Microsoft
+Lanzamos Longhorns, así es como se ve el futuro y esperamos poder contarles sobre Leopard, así que eso es.
+¿Qué pasa con Mac OS 10 Tiger? Ahora veamos
+vamos a un gran tema transiciones vamos a hablar de las transiciones la Mac en su historia
+Ha tenido dos transiciones importantes hasta ahora, la primera de 68k a PowerPC y
+Esa transición ocurrió hace unos diez años, a mediados de los 90. Yo no estaba aquí en ese momento.
+Pero el equipo hizo un gran trabajo por todo lo que escuché y el PowerPC.
+El PowerPC preparó a Apple para la próxima década. Fue una buena decisión.
+La segunda gran transición, sin embargo, ha sido aún mayor y es la
+transición de OS 9 a OS 10 que acabamos de terminar hace unos años a principios
+Parte de esta década fue un trasplante de cerebro y aunque estos sistemas operativos varían solo en nombre
+Uno es que son mundos aparte en su tecnología OS 10 es el más avanzado
+sistema operativo del planeta y se dice que Apple lo hará durante los próximos 20 años
+Hoy es el momento de iniciar una tercera transición que queremos mantener constantemente.
+Haciendo las mejores computadoras para usted y el resto de nuestros usuarios y por eso es el momento
+Para una tercera transición y sí es cierto
+Vamos a comenzar la transición de los procesadores PowerPC a Intel y
+Vamos a empezarlo para usted ahora y para nuestros clientes el próximo año. ¿Por qué?
+Vamos a hacer esto bien, ¿no acabamos de pasar del sistema operativo?
+9 - Oh, s 10 ¿no es genial el negocio en este momento? ¿Por qué queremos otra transición porque queremos estar haciendo...
+Las mejores computadoras para nuestros clientes esperando ahora me paré aquí dos
+Hace años delante de ti y te prometí esto y no hemos podido
+Te lo entrego, pero creo que a muchos de ustedes les gustaría tener un G5 en su Power Book.
+y aún no hemos podido entregártelo, pero estas ni siquiera son las razones más importantes.
+Las razones importantes son que, a medida que miramos hacia el futuro, tenemos excelentes productos.
+En este momento, tenemos algunos excelentes productos PowerPC que aún están por llegar.
+Mire hacia el futuro, podemos visualizar algunos productos increíbles que queremos construir para usted y nosotros
+No sabemos cómo construirlos con la hoja de ruta futura de PowerPC y es por eso que estamos
+Vamos a hacer esto cuando miramos a Intel, tienen un gran rendimiento, sí, pero
+Tienen algo más que es muy importante para nosotros, tan importante como el rendimiento es el consumo de energía y el
+La forma en que lo vemos es el rendimiento por vatio por un vatio de potencia, ¿cuánto rendimiento obtienes? Y cuando miramos...
+En las futuras hojas de ruta proyectadas para mediados de 2006 y más allá, lo que vemos es
+PowerPC nos da unas 15 unidades de rendimiento por vatio, pero la hoja de ruta de Intel en el futuro nos da 70 y así sucesivamente.
+Esto nos dice lo que tenemos que hacer ahora, esto no va a ser una transición.
+Eso sucede de la noche a la mañana, sucederá en un período de unos pocos años. Nuevamente tenemos excelentes productos en este momento.
+y tenemos algunos excelentes productos PowerPC en proceso que aún no se han presentado, pero a partir del próximo año...
+Comenzarán a introducirse máximo con procesadores Intel en ellos y con el tiempo esto
+La transición ocurrirá, así que cuando nos volvamos a reunir aquí el año que viene, nuestro plan...
+Se espera que para entonces se envíen Mac con procesadores Intel y cuando nos reunamos aquí
+De nuevo, dentro de dos años nuestro plan es que la transición estará casi completa y creemos que será
+Se completará a finales de 2007, por lo que se trata de una transición de dos años, por lo que la primera transición cuesta 68 000 dólares.
+powerpc segunda transicion OS 9 - oh s 10 vamos a comenzar una tercera transicion
+Desde los procesadores PowerPC hasta los procesadores Intel, hay dos grandes desafíos en este
+transición la primera es hacer mac
+OS 10 singh en procesadores Intel correctos
+Ahora tengo algo que contarles hoy Mac OS 10 ha estado liderando un secreto
+Doble vida durante los últimos cinco años
+Ha habido rumores en ese sentido, pero este es el campus de Apple en Cupertino.
+Vamos a ampliarlo. En ese edificio, allí mismo, hemos tenido equipos haciendo el...
+Solo en este caso, nuestras reglas han sido que nuestros diseños para OS 10 deben ser
+independiente del procesador y que cada proyecto debe construirse tanto para el
+Procesadores PowerPC e Intel y por eso hoy por primera vez puedo confirmar
+Los rumores de que cada versión de Mac OS 10 ha sido compilada tanto para PowerPC
+Y esto ha estado sucediendo durante los últimos cinco años.
+[Música]
+Por si acaso, Mac OS 10 es multiplataforma por diseño desde el principio.
+Muy al principio, Mac OS 10 está funcionando.
+hasta procesadores y me gustaría mostrarles ahora mismo, de hecho, como un
+De hecho, este sistema lo he estado usando aquí. Vamos a echar un vistazo. Vamos.
+Echa un vistazo aquí
+Muy bien, ahí vamos, así que hemos estado
+corriendo en un sistema Intel toda la mañana y déjame ir, ya sabes, hacer algunas cosas simples, béisbol, ya sabes, boom, todo
+Las cosas normales simplemente funcionan. Volvamos a estos widgets del Tablero que tenemos.
+Recién los trajeron ahí y tú
+sabemos que incluso podemos dejarnos ver aquí ya sabes ir a buscar un evento del calendario aquí muy
+Sencillo, déjame mostrarte el correo. Hay un correo aquí mismo. Safari, aquí está. Aquí está.
+La nueva forma de encontrar widgets es la del boom de los widgets en Apple Comp
+Déjame mostrarte cómo se carga iPhoto en cuatro
+Mil fotos aquí estamos y déjame
+Adelante, reproduce una película. Aquí está... Déjame deshacerme de esto. Aquí hay un avance de la película. Doug Liman, hazlo.
+La puerta y la identidad de Brad llegaron a Daddy Angel inicialmente.
+Bueno, ya basta de eso. Así es Mac.
+OS10 funcionando en procesadores Intel
+[Música] Hemos avanzado mucho en esto, pero estamos...
+No está terminado, por eso lo pondremos en tus manos muy pronto para que puedas ayudarnos a terminarlo ahora.
+El segundo gran desafío son tus aplicaciones, así que echemos un vistazo a cómo...
+Vas a crear versiones Intel de tus aplicaciones. Allí puedes separar el código en cuatro grupos diferentes de widgets.
+scripts Java aplicaciones de cacao que, por supuesto, están hechas con Xcode Aplicaciones de Carbono que
+Se pueden realizar con aplicaciones Xcode y Carbon que se pueden realizar con Metro Works, cada una de ellas tiene diferentes propiedades de widget.
+Los scripts en Java simplemente funcionan bien, simplemente se ejecutan, no hay nada que hacer, aplicaciones de cacao, algunos ajustes menores y un
+Recompilan y simplemente trabajan con Carbon.
+Xcode hace más ajustes y vuelve a compilar y funcionarán, e Inmetro funciona.
+Lo primero que tienes que hacer es pasar a Xcode, así que echemos un vistazo a esto nuevamente.
+Los scripts de widgets en Java simplemente funcionan con las aplicaciones de Cocoa, literalmente, en unos pocos días y tu Cocoa
+Las aplicaciones se ejecutarán con una versión Intel. Las aplicaciones Carbon tardarán unas semanas en realizarse algunos ajustes más, aunque hay
+Excepciones a eso, podemos estar exagerando aquí, lo veremos en un minuto, y en Metro funciona de nuevo, no lo sabemos.
+Tienes que llegar a Xcode, así que la clave aquí es llegar a Xcode ahora que comenzamos.
+evangelizando Xcode hace 18 meses ¿cómo les va a todos en Xcode?
+Bueno, más de la mitad de nuestros cien mejores desarrolladores usan Xcode hoy en día, más de la mitad de nuestros cien mejores desarrolladores y otro
+El 25% de ellos están en proceso de cambiar a Xcode, por lo que más del 80% de nuestros 100 mejores desarrolladores están usando o en proceso de cambiar a Xcode.
+El proceso de uso de Xcode y menos del 20% aún no se han sumado es una buena noticia.
+Es hora de subir a bordo, por lo que Xcode es la clave y hoy tenemos un nuevo Xcode para brindarles Xcode 2.1.
+Tiene algunas características nuevas y divertidas, como sabes, Xcode es un entorno de desarrollo muy sólido, pero la novedad más importante...
+La característica nueva y gigante es que cuando vas a crear tu aplicación, aparecen pequeñas ovejas que dicen "Voy a explotar".
+Te contamos qué quieres construir para PowerPC e Intel y qué quieres hacer.
+Marque esta casilla y creará lo que se llama un binario universal, que es un binario que va a...
+Contiene todos los bits que se ejecutan en ambas arquitecturas y, por lo tanto, el cargador para cada una.
+uno carga el conjunto correcto de bits y se convierte en un binario que funciona tanto en PowerPC como en
+Arquitecturas Intel para que pueda enviar un CD que admita ambos procesadores y
+de nuevo
+Vamos a dar soporte a ambos procesadores durante mucho tiempo porque tenemos una instalación muy grande basada en el
+PowerPC a quien querrá vender su software y habrá una creciente instalación basada en Intel
+a quienes querrá vender su software, por lo que queremos respaldar ambos procesadores en el futuro y
+Los binarios universales son la forma de hacerlo, así que acceda a Xcode 2.1 y obtenga su copia.
+Hoy habrá una copia para todos en el mostrador de registro inmediatamente después de esta conferencia principal, así que volvamos.
+Estoy haciendo una versión Intel nuevamente, esto no se parece en nada a la carbonización, esto es una
+Es mucho más fácil y quiero centrarme en una sola aplicación aquí, una aplicación de Carbon escrita en Xcode. Este es un desarrollador que conozco desde hace mucho tiempo.
+Hace tiempo que lo llamé el miércoles por la noche, este último miércoles por la noche y yo
+Dije que tenemos algo muy secreto en lo que estamos trabajando y no puedo decirte qué es, pero quiero que lo pongas todo.
+Tu código fuente en un disco duro y vuela aquí y veamos qué podemos hacer.
+Y todo estuvo bien por unos minutos, pero confiaron en nosotros lo suficiente como para hacerlo.
+Y esa empresa era Wolfram Research y esa aplicación no era pequeña.
+Esa aplicación era Mathematica y es un placer para mí ahora presentarles a Tayo.
+Gray, el cofundador de Wolfram Research, nos cuenta lo que pasó en los últimos cinco días. Bienvenidos.
+A veces recibo las llamadas telefónicas más ridículas de Apple. Quiero decir, esto fue...
+Como las nueve de la noche y él me llamó y me dijo: "Tengo esta cosa genial, es genial, ¿podrías portar Mathematica?". Y yo no puedo decirlo.
+Ya sabes lo que es, pero ¿podrías venir y mostrárselo a la gente el lunes? Me refiero a ti.
+Hay que entender que Mathematica tiene en su interior probablemente la colección de algoritmos más grande del mundo y que admite todo tipo de estilos de programación.
+Formatos de datos de todo tipo. Está construido con millones de líneas de C.
+Código que tenemos Código Java que tenemos Ya sabes, la plantilla C++ más moderna y abarrotada
+Y ya sabes, tenemos un código antiguo que no ha cambiado desde la era Reagan.
+administración por lo que podría haber escrito esto es que esto no es un pequeño juguete
+Esta aplicación es una bestia, hay mucho que portar, pero ya sabes que no te preocupes porque dijo que hay una pequeña casilla de verificación y
+Pones la pequeña casilla de verificación y estarás bien, sabes que será genial, así que...
+Dije que estaba bien, enviaré a nuestro equipo de emergencia de Macintosh.
+Los desarrolladores se mantendrán en espera, ese será Rob.
+[Aplausos]
+Entonces, vaya, verás lo que puede hacer, así que lo pondremos a jugar, ya sabes, llegará el jueves por la tarde, por supuesto.
+En realidad no puedo decirle por qué va, pero apareció y le mostraron el...
+casilla de verificación y él hizo clic en la pequeña casilla de verificación y dos horas más tarde tenía una copia de Mathematica ejecutando un Intel para
+Nuestro también [Aplausos]
+Para aquellos de ustedes que han pasado por un puerto de carbono tipo os10, esto no es nada parecido y estamos hablando
+Unas 20 líneas de código fuente de millones de un inicio en frío en el que ni siquiera sabe por qué aparece.
+En dos horas Apple tendrá una versión funcional, en realidad es cuestión de echarle un vistazo, así que...
+Quiero decir, para ser justos, que hay una gran cantidad de ingeniería de software incorporada en Mathematica para hacer este tipo de cosas.
+De todas las cosas posibles, está Rob, hay ayuda de Apple, sabes que tu experiencia puede variar, pero desde mi punto de vista, sabes que es...
+bastante bueno cuando tu mayor problema con un puerto es descubrir qué hacer con el resto del fin de semana.
+Echemos un vistazo y, por supuesto, lo más sorprendente es que aparece, ya sabes, en el lanzamiento.
+Ahora Mathematica y Macintosh son utilizados por personas que están a la vanguardia de sus campos, ¿sabes?
+La gente quiere superar los límites y hacer cosas que ya se han hecho antes, como por ejemplo volver a esos dos.
+Líneas que no has visto antes y con el espíritu de superar los límites.
+Pensamos que en lugar de hacer algo aburrido, ya sabes, la versión de trabajo de Corte que sabíamos que era estable,
+Pensamos que deberíamos seguir adelante y portar la versión de desarrollo interno actual de Mathematica, que está llena de todo tipo de
+¿Conoces alguna tecnología nueva y emocionante que en realidad no puedo mostrarte, pero?
+Pero puedo mostrarte un par de cosas interactivas en las que hemos estado trabajando, así que es bueno, ya sabes, y ahora sabemos.
+OpenGL funciona, pero déjame mostrarte algo que probablemente no hayas visto.
+Ahora bien, en el pasado, normalmente hacías un cálculo, una manipulación algebraica a la vez o
+expansión aquí, por lo que lo que estamos haciendo aquí en cambio es explorar un espacio computacional, tenemos una herramienta donde
+Podemos manipular y navegar a través de un mundo de computación. Esta es una forma rápida de hacerlo.
+Un pequeño ejemplo: es simple, es divertido, pero en realidad se basa en mucha tecnología muy profunda en la que hemos estado trabajando durante muchos años para hacer...
+Es posible que nos guste hacer algo de tecnología profunda en Wolfram Research, también nos gusta hacer ciencia interesante, de ahí el
+Investigación, por lo que el siguiente ejemplo se basa en algo de Steven Wolfram.
+Nuevo tipo de noción científica de explorar un universo de posibles programas simples.
+Y como puedes ver, este es un programa muy simple, ese código fuente está ahí arriba, ese es el código fuente completo.
+Lenguaje simbólico de Mathematica para implementar ese ejemplo, así como especificar la interfaz de usuario que utilizaríamos.
+Me gustaría tener que explorar este universo computacional particular, que resulta ser una especie de experimento.
+Una idea de tipo arquitectónico, algo que quizás puedas ver construido en Las Vegas, tal vez, pero
+También podría estar mirando una estructura nanotecnológica candidata o
+Algo así, por lo que esperamos ver muchos avances tecnológicos.
+aplicaciones que surgen del uso de Mathematica para explorar espacios computacionales interesantes ok gracias gracias
+Para la demo de Rob me gusta [Aplausos]
+Pero, para agradecerle a Steve por invitarnos a superar los límites junto con Apple, ciertamente esperamos poder hacerlo.
+tener una universidad de envío binario universal una vez que haya máquinas a las que enviarlo y me gustaría particularmente
+Para agradecer al equipo de ingeniería de Apple por liberarme el fin de semana, muchas gracias.
+Así que la clave se encontró Gracias Te'o la clave
+El mensaje aquí es llegar a Xcode, llegar a Xcode 2.1 y crear un binario universal.
+Y esto es lo que nos permitirá traer todas nuestras aplicaciones y creo que descubrirás que las herramientas son realmente...
+Realmente bueno hacer esto, creo que te sorprenderás gratamente, pero incluso con todo este esfuerzo, no todos...
+La aplicación será universal desde el primer día, así que, ¿qué vamos a hacer?
+Tenemos una tecnología increíble llamada Rosetta que vamos a enviar con estas nuevas máquinas y Rosetta nos permite
+Traducir PowerPC a Intel nos permite ejecutar binarios PowerPC existentes en Intel
+Entonces, las aplicaciones existentes lo ejecutan como un traductor binario dinámico.
+ejecuta aplicaciones PowerPC existentes, es transparente para los usuarios, no se parece en nada a
+Clásico, donde estás cargando un sistema operativo completo, esto es totalmente transparente, simplemente haces clic en un binario de PowerPC y comienza a traducir y eso es todo.
+Los usuarios ni siquiera saben que es liviano, no ocupa mucha memoria y es bastante rápido, por lo que la mayoría de los usuarios no lo sabrán.
+Incluso sé que lo están ejecutando, lo cual es fantástico, así que me gustaría mostrárselo ahora mismo si pudiera.
+Simplemente ve aquí y tengo algunas aplicaciones aquí, así que simplemente abriré un Word.
+documento y este es un documento de Word
+Justo aquí y sabes que puedo subir y simplemente piensa que se está ejecutando en PowerPC.
+boom-boom-boom lo que sea que esté haciendo déjame abrir otro aquí
+Muy simple, déjame abrir una hoja de cálculo de Excel.
+No, déjame abrir Quicken.
+¡Boom! Ya sabes, déjame abrir Photoshop ahora.
+Notarás que cuando se abre Photoshop también se cargan todos los complementos. Todos los complementos están traducidos, por lo que funcionan bien.
+Hmm, está Photoshop, déjame abrir otro.
+Foto para que puedas ver lo rápido que explota otra vez, sabes que puedes atravesar cosas
+y hacer lo que quieras hacer para que sea rosetta, estas aplicaciones PowerPC simplemente se ejecuten
+Y eso es lo que vamos a tener para nuestros usuarios porque no todas las aplicaciones serán universales.
+Desde el primer día, OS 10 canta en Intel
+procesadores xcode 2.1 para generar
+binarios universales y Rosetta para ejecutar aplicaciones PowerPC antes de que sean universales
+¿Cómo puedes conseguir todo esto? Queremos que tengas todo esto en tus manos ahora para que puedas ayudarnos.
+Termínelo y así podrá comenzar a crear sus binarios universales y hemos creado un kit de transición para desarrolladores.
+Para ti, este kit de transición para desarrolladores tiene un Pentium 4 de 3,6 gigahercios.
+Dentro de la potencia de Mac OS 10 punto 4.1 nuestro
+prelanzamiento de la versión Intel xcode 2.1 para generar binarios universales
+Guía de portabilidad binaria universal. Es bastante buena, es solo una plataforma de desarrollo, no es un producto.
+Nunca se enviará como un producto que es solo para que ustedes comiencen a desarrollarlo y, de hecho, deben devolverlo antes del
+finales de 2006 porque no queremos que estén flotando por ahí, estos no son productos, pero se los vamos a hacer llegar ahora, así que seleccione y
+Solo para miembros Premier de ADC y lo pondremos a un precio de $9,99 y puedes solicitarlos
+Hoy los enviaremos dentro de dos semanas para que no tenga que llevarlos a casa y se los enviaremos muy rápido, así es el entorno de desarrollo.
+y deberías poder tomar todo esto y crear versiones universales de
+[Música] Ahora la mayoría de ustedes están escuchando sobre esto.
+Por primera vez hoy, a menos que leas The Wall Street Journal, supongo, pero nosotros...
+He hablado con algunos desarrolladores la semana pasada. Escuchaste a Te'o de Wolfram Research y me gustaría invitar a otro.
+Uno en el escenario al que hemos informado sobre esto y, por supuesto, ese es Microsoft.
+Debido a que Microsoft Office es muy importante para todos nosotros, tenemos una excelente relación con Microsoft y me gustaría...
+Para invitar a Roz Howe, el gerente general de la unidad de negocios Macintosh de Microsoft, a subir al escenario ahora mismo.
+[Aplausos]
+[Música] Gracias, Steve se está volviendo bastante...
+Es un hábito estar aquí, es un placer estar aquí.
+Aquí en el escenario hoy y para participar en los emocionantes cambios de Apple.
+Estos son tiempos emocionantes para los clientes de Mac: tendrán más opciones que nunca y estamos...
+Estoy muy emocionado de ser parte de las oportunidades que tenemos por delante, como saben.
+Porque dije esto antes muchas veces, Microsoft ha estado creando software para
+la plataforma Mac durante más de 20 años la dedicación y el apoyo de este
+La plataforma es realmente la esencia de los productos que fabricamos en Macintosh.
+La unidad de negocio Macintosh de Microsoft se centra en la creación de
+productos que nuestros clientes ganaron y necesitan nuestros productos incluyen continuamente Mac
+Las funciones exclusivas de firs y Mac permiten una compatibilidad perfecta entre plataformas.
+beneficiar directamente a nuestros clientes el lanzamiento de office 2004 fue el mejor
+El lanzamiento de cualquier producto en Mac pierde historia, pero no nos detendremos allí.
+Estamos dando los toques finales a las actualizaciones para que los usuarios de Exchange agreguen nuevas
+Funcionalidad de Tiger y estamos lanzando una nueva versión de un mensajero para Mac en el
+Los próximos meses nos dedicaremos a la mejora continua del software.
+Experiencia para nuestros millones de clientes en todo el mundo, por eso estoy
+Nos complace informarles hoy que nuestro equipo ha estado trabajando en estrecha colaboración con los ingenieros de Apple en Xcode para que podamos hacer que
+Transición: planeamos crear binarios universales para futuras versiones de Office.
+para que pueda ejecutarse de forma nativa en los nuevos y modernos Macs de Apple.
+Y Apple tiene una relación sólida y esperamos seguir trabajando.
+Juntos en nuestra larga tradición de crear excelentes aplicaciones para una gran
+plataforma muchas gracias
+[Música]
+Gracias Roz, uno de nuestros otros socios, como sabes, es Adobe, están cerca de nosotros.
+Y trabajamos muy de cerca con ellos y también hemos estado trabajando con Adobe durante más de 20 años y es un placer para mí.
+Invita a Bruce Chisholm, el director ejecutivo de Adobe
+Gracias a Dave por sus artículos desde hace más de 20 años.
+Adobe se ha asociado con Apple, de hecho, no estarían en Adobe si...
+No era por Apple hasta el punto en que nos asociamos. Mi madre piensa que en realidad soy el director ejecutivo de Apple, no de Adobe. Tengo que recordarle
+Ella es la que Steve Jobs busca en nuestros clientes.
+Clientes de alto rendimiento que utilizan aplicaciones de Creative Suite como Illustrator
+Photoshop y Acrobat de diseño quieren rendimiento y quieren rendimiento en
+un sistema operativo que realmente aprecian que es OS 10 puedes ser
+Estoy absolutamente seguro de que Adobe se ha comprometido a llevar nuestras aplicaciones para que puedan
+Se ejecuta de forma nativa en la arquitectura de Intel en las nuevas cajas de Apple
+Me quedé aquí hace unos cuatro años, creo, cuando Steve se lanzó.
+OS 10 y dije que Adobe sería el primero con una línea completa de aplicaciones y nosotros
+Fuimos los primeros con una línea completa de aplicaciones y haremos lo mismo con esta importante transición, esta es una gran noticia.
+Para ver la única pregunta que tengo es ¿por qué tardaste tanto?
+[Música]
+Gracias Bruce y ahora ya sabes que hemos
+Obviamente hemos estado trabajando con Intel estos últimos meses evaluando
+Lo que íbamos a hacer antes de tomar esta decisión y encontramos a Z, de alguna manera.
+Hemos profundizado más que nunca en las conversaciones con ellos y hemos descubierto algo bastante sorprendente que es
+Son como nosotros, les apasionan los productos que son un...
+una cultura impulsada por la ingeniería que se apasiona por sus productos y no siempre los vimos de esa manera, pero
+Eso es lo que encontramos y nuestros ingenieros se han llevado muy bien con sus
+Ingenieros y hemos tenido una relación de trabajo extremadamente productiva a medida que aprendimos sobre sus hojas de ruta.
+Podríamos aprovechar su tecnología, ha sido genial y es un placer presentarles a Paul.
+Otellini, el presidente y director ejecutivo de Intel, lo invité aquí porque quería que lo escucharan directamente de él.
+¿Qué piensa de todo esto? [Aplausos]
+Bueno, sospecho que hay un montón.
+De ustedes que nunca pensaron que verían ese logo en este escenario, yo fui uno de ellos.
+Un tiempo y ya no, obviamente estamos muy emocionados en Intel de que se nos dé
+La oportunidad de trabajar con Apple para ofrecerles algunos productos realmente geniales.
+Pensé que intentaría explicar cómo llegamos aquí hoy y lo haría en el
+contexto de contarte una historia y la historia es realmente sobre Apple e Intel
+Y lo llamo una historia de Silicon Valley y se remonta a mucho tiempo atrás, de hecho, se remonta a mucho tiempo atrás.
+Casi cuatro décadas Intel fue fundada en 1968 por Gordon Moore y Bob Noyce bob
+Fue co-inventor del circuito integrado, comenzamos construyendo memorias, el primer producto fue una SRAM que inventamos.
+la DRAM y unos años más tarde inventamos el primer microprocesador del mundo, el 4004, y estábamos en
+Mountain View, bueno, hace unos ocho años.
+Más tarde, a cinco millas de distancia, en Cupertino, se fundó Apple y se puede ver la imagen.
+de Steve y woz allí también puedes ver en el lado derecho una foto de Steve
+y Bob Noyce en el lado derecho cenando. Le pregunté a Steve anoche.
+Por cierto, la última vez que usé un bigote, él dijo que no, que era la última vez que usé un bigote, pero ¿qué?
+Quizás no sepas que nuestra conexión entre Intel y Apple comenzó casi al mismo tiempo que Bob y Andy Grove.
+En realidad, fuimos los primeros inversores en Apple Computer y, de hecho, Anne Bowers era la esposa de Bob Noise y era la directora ejecutiva de Apple.
+primer vicepresidente de recursos humanos, por lo que hubo algunos signos tempranos de conexión genética, no fue así.
+Todo salió como esperábamos y, de hecho, Apple comenzó en 1976 con un chip de tecnología MOS.
+El negocio de los microprocesadores en las PC llegó bastante después de que en 1981 IBM eligiera
+8088 para ir en su primera PC y las cosas salieron bien.
+durante bastante tiempo y, como Steve señaló en 1993, dos eventos
+Ocurrió bien, Apple pasó del 68k al PowerPC e Intel lanzó
+El procesador Pentium comenzó a aumentar en serio y durante los siguientes dos años
+La competencia de los años realmente se calentó bastante, se volvió bastante intensa.
+Se puso tan intenso que en 1996 Apple
+[Aplausos]
+Le prendieron fuego a nuestro conejito y sé que algunos de ustedes pueden no ser tan viejos.
+Como este comercial, pero pensé que lo dejaría pasar para ti.
+tú
+[Aplausos]
+Ahora ya sabes que no teníamos rencor por eso, solo pensamos que era un
+Un mensaje no tan sutil de que pensaban que Apple pensaba que nuestros procesadores eran demasiado calientes y que querían que funcionaran mucho más fríos para cuando llegara el año 2005.
+De hecho, los procesadores funcionan mucho más fríos y estamos muy contentos de que...
+La empresa de computadoras más innovadora del mundo y la empresa de chips más innovadora del mundo finalmente se han unido.
+Pensé que les daría mi perspectiva sobre la asociación. Creo que esto reúne las habilidades y
+Las oportunidades y la excelencia en ingeniería de dos grandes empresas y
+Combinan nuestras fortalezas y juegan con nuestras respectivas fortalezas. Apple tiene una capacidad y un hardware legendarios y
+Ingeniería y diseño de software y una innovación que todos ustedes saben que es lo que ustedes
+Puede que no esté familiarizado con nosotros, pero nuestras fortalezas son un poco diferentes, pero son completamente complementarias.
+Todo sobre arquitecturas informáticas. Nos interesa la escala y el alcance y poder ofrecer en gran volumen lo mejor del mundo.
+Tecnología los mejores procesadores del mundo y lo que más nos importa es la
+El avance incesante de la ley de Moore nos permite ofrecer máquinas cada vez mejores año tras año y así después de casi 30 años.
+Apple e Intel están juntos por fin y no creo que esto sea un cuento de hadas.
+cuento con final feliz Pienso en esto mucho más como algo emocionante e importante
+historia con un comienzo muy muy feliz muchas gracias
+Entonces, ¿dónde nos deja eso, Apple?
+es fuerte Apple es bastante fuerte en este momento y Mac es fuerte, vimos esto
+Esto es genial, es un gran momento para empezar a construir el futuro y hacernos...
+Aún más fuertes conocemos las transiciones por las que hemos pasado.
+Dos de ellos y han mantenido nuestra plataforma a la vanguardia y estamos
+Seguiremos siendo audaces y comenzaremos una tercera transición hoy en lo que respecta a los desarrolladores para hacer que
+Las mejores máquinas que sabemos fabricar en el futuro no van a permitir esta transición.
+Vuelve a suceder de la noche a la mañana. Estamos fabricando máquinas increíbles. Ahora mismo tenemos muchas.
+Tenemos en desarrollo excelentes productos PowerPC, pero también estamos trabajando para
+Diseñaremos algunas Mac basadas en Intel y cuando estemos aquí el año que viene...
+Planeamos tenerlos en el mercado y habrá una transición a lo largo del tiempo.
+Los próximos dos años nos estamos preparando.
+He trabajado mucho, como has visto hoy, OS 10 funciona de maravilla en Intel.
+Los procesadores Xcode 2.1 ya están en tus manos
+Rosetta para nuestros clientes para aquellas aplicaciones que no son universales desde el primer día hemos...
+Ya hemos hecho una gran inversión en esto y estamos bastante avanzados. Es hora de...
+¿Cómo prepararse ahora y qué hay que hacer para preparar algo para crearlo?
+Binarios universales de sus aplicaciones. Tenemos muchas cosas en marcha en el
+Conferencia para ayudarte hoy más de 90 de las 95 presentaciones que tenemos aquí
+Hoy en día se incluyen contenidos sobre las versiones universales de cien sistemas para desarrolladores.
+Siete laboratorios y los laboratorios están abiertos todas las noches hasta al menos las nueve en punto. Creo que mañana por la noche estarán abiertos hasta...
+Medianoche, así que ve a ver si puedes vencer a Te'o y su equipo en Mathematica 500. Ingenieros de Apple.
+en el sitio, así que si trajiste tu código fuente, hazlo y cuando nos volvamos a encontrar aquí el año que viene,
+Sospecho que habrá un montón de procesadores Intel en el mercado.
+Estaremos enviando binarios universales y estaremos muy emocionados de mantenerlos.
+Ampliando las fronteras y contándote sobre Leopard cuando nos volvamos a encontrar aquí la próxima vez.
+año porque más que incluso el
+procesador más que incluso las innovaciones de hardware que traemos al mercado
+La única diferencia de un Mac es su sistema operativo y no nos quedamos quietos.
+Los veré a todos aquí el año que viene y espero con ansias mucho.

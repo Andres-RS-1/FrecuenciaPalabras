@@ -1,0 +1,38 @@
+"0","##### importar datos"
+"0","# Carga de librerías necesarias"
+"0","suppressMessages(suppressWarnings(library(readr)))  # Lectura de archivos CSV"
+"0","suppressMessages(suppressWarnings(library(tidyverse)))  # Conjunto de paquetes para manipulación de datos"
+"0","# warnings debido a caracteres no UTF-8 o vacios ("""")"
+"0","# UTF-8 (8-bit Unicode Transformation Format) es un formato de codificación de caracteres "
+"0","# capaz de codificar todos los code points validos en Unicode"
+"0","# Importar los textos de las conferencias"
+"0","text_1997 <- read_csv(""AppleWWDC1997_es.txt"", col_names = FALSE, show_col_types = FALSE)"
+"2","Warning:"
+"2"," [38;5;252mOne or more parsing issues, call `problems()` on your data frame for details, e.g.:
+  dat <- vroom(...)
+  problems(dat)[39m
+"
+"0","text_2001 <- read_csv(""AppleWWDC2001_es.txt"", col_names = FALSE, show_col_types = FALSE)"
+"2","Warning:"
+"2"," [38;5;252mOne or more parsing issues, call `problems()` on your data frame for details, e.g.:
+  dat <- vroom(...)
+  problems(dat)[39m
+"
+"0","text_2005 <- read_csv(""AppleWWDC2005_es.txt"", col_names = FALSE, show_col_types = FALSE)"
+"2","Warning:"
+"2"," [38;5;252mOne or more parsing issues, call `problems()` on your data frame for details, e.g.:
+  dat <- vroom(...)
+  problems(dat)[39m
+"
+"0","text_2008 <- read_csv(""AppleWWDC2008_es.txt"", col_names = FALSE, show_col_types = FALSE)"
+"2","Warning:"
+"2"," [38;5;252mOne or more parsing issues, call `problems()` on your data frame for details, e.g.:
+  dat <- vroom(...)
+  problems(dat)[39m
+"
+"0","text_2010 <- read_csv(""AppleWWDC2010_es.txt"", col_names = FALSE, show_col_types = FALSE)"
+"2","Warning:"
+"2"," [38;5;252mOne or more parsing issues, call `problems()` on your data frame for details, e.g.:
+  dat <- vroom(...)
+  problems(dat)[39m
+"

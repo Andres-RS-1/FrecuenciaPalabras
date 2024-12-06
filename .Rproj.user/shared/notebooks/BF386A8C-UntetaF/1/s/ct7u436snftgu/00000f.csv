@@ -1,0 +1,1 @@
+"0","text_2008 <- tibble(line = 1:length(text_2008), text = text_2008)"

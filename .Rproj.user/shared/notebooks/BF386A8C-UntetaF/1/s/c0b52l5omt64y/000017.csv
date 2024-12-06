@@ -1,0 +1,3 @@
+"0","# viz 2"
+"0","set.seed(123)"
+"0","plot(gcc, layout = layout_with_fr, vertex.color = adjustcolor('darkolivegreen4', 0.1), vertex.frame.color = 'darkolivegreen4', vertex.size = 2*strength(gcc), vertex.label = NA)"

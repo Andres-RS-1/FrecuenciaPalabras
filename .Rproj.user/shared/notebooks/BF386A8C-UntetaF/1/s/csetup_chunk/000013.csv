@@ -1,0 +1,2 @@
+"0","# Configuración de los chunks de código"
+"0","knitr::opts_chunk$set(echo = TRUE)"

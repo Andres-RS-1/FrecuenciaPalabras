@@ -1,0 +1,5 @@
+"0","suppressMessages(suppressWarnings(library(ngram)))"
+"0","# contar palabras en cada skip-gram"
+"0","text_2008_skip$num_words3 <- text_2008_skip$skipgram %>% "
+"0","  map_int(.f = ~ wordcount(.x))"
+"0","head(text_2008_skip, n = 10)"

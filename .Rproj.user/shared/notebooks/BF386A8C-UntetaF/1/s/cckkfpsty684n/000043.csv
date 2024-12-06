@@ -1,0 +1,35 @@
+"0","# ----------  ----------"
+"0","set.seed(123)"
+"0","text_2010 %>%"
+"0","  inner_join(sentiment_words) %>%"
+"0","  count(word, sentiment, sort = TRUE) %>%"
+"0","  acast(word ~ sentiment, value.var = ""n"", fill = 0) %>%"
+"0","  comparison.cloud(colors = brewer.pal(8,'Dark2')[c(2,5)], "
+"0","                   max.words = 50, title.size = 1.5)"
+"1","[38;5;232mJoining with `by = join_by(word)`[39m
+"
+"2","Warning in comparison.cloud(., colors = brewer.pal(8, ""Dark2"")[c(2, 5)],  :"
+"2","
+ "
+"2"," gravedad could not be fit on page. It will not be plotted.
+"
+"2","Warning in comparison.cloud(., colors = brewer.pal(8, ""Dark2"")[c(2, 5)],  :"
+"2","
+ "
+"2"," resistencia could not be fit on page. It will not be plotted.
+"
+"2","Warning in comparison.cloud(., colors = brewer.pal(8, ""Dark2"")[c(2, 5)],  :"
+"2","
+ "
+"2"," opuesto could not be fit on page. It will not be plotted.
+"
+"2","Warning in comparison.cloud(., colors = brewer.pal(8, ""Dark2"")[c(2, 5)],  :"
+"2","
+ "
+"2"," papelera could not be fit on page. It will not be plotted.
+"
+"2","Warning in comparison.cloud(., colors = brewer.pal(8, ""Dark2"")[c(2, 5)],  :"
+"2","
+ "
+"2"," parecer could not be fit on page. It will not be plotted.
+"

@@ -1,0 +1,7 @@
+"0","##### red con un umbral diferente"
+"0","g <- text_1997_bi_counts %>%"
+"0","  filter(weight > 1) %>%"
+"0","  graph_from_data_frame(directed = FALSE)"
+"0","# viz"
+"0","set.seed(123)"
+"0","plot(g, layout = layout_with_kk, vertex.color = 1, vertex.frame.color = 1, vertex.size = 3, vertex.label = NA, main = ""1997 - Umbral = 1"")"

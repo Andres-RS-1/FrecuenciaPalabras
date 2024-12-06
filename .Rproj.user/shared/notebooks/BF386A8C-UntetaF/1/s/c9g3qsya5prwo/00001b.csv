@@ -1,0 +1,6 @@
+"0","###### top 10 de bigramas mas frecuentes"
+"0","# hay bigramas que no son interesantes (e.g., ""de la"")"
+"0","# esto motiva el uso de stop words nuevamente"
+"0","text_2005_bi %>%"
+"0","  count(bigram, sort = TRUE) %>%"
+"0","  head(n = 10)"

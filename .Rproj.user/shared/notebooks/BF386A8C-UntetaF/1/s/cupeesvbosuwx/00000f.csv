@@ -1,0 +1,5 @@
+"0","##### top 10 de tokens mas frecuentes"
+"0","# ---------- petro ----------"
+"0","text_1997 %>% "
+"0","  count(word, sort = TRUE) %>%"
+"0","  head(n = 10)"

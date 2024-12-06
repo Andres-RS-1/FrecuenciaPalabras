@@ -1,0 +1,661 @@
+Buenos días, ya es viernes. No sé cómo sucedió. Tenemos un nuevo disco de Mark Johnson y Eric Solden.
+Ambos llevaban corbata toda la semana, eso es, eso es.
+Noticias, ya sabes, sí, las escucho. Las escucho. Así es como me siento. Estoy con...
+Tú, eh, tengo que contarte una pequeña historia esta mañana para presentar a nuestro invitado especial y prometo que lo haré.
+corto así que lo haré en 1979 yo era un uh un sexto grado
+Mi maestra y yo vimos una manzana dos y tuve que tener la manzana dos, así que la compré.
+Uno y lo llevé a casa y comencé a programarlo, lo que resultó ser probablemente el
+Lo más interesante que se podía hacer con una computadora en 1979 y realmente cambió mi vida.
+Y unos 10 años después me encontré en Apple Computer y me mudé de Boston.
+Y tomé un trabajo aquí y estuve fuera la primera semana haciendo ese tipo de cosas.
+De la mudanza y de cenar en un restaurante, mi familia todavía estaba en Boston.
+Y vi a Steve Jobs al otro lado del restaurante cenando y yo...
+Pensé que realmente debería acercarme e interrumpir su cena y decirle "gracias".
+Tú y tú sabes que has cambiado mi vida y pensé en eso por un tiempo. Pensé que eso era realmente grosero.
+Y probablemente les pasa todo el tiempo y no quiero ser así, así que no lo hice y, en cierto modo, estoy...
+Me alegro de haber dudado, porque me da la oportunidad de agradecerle esta mañana en un lugar público.
+gente que probablemente entiende eso mejor que cualquier otra persona en el planeta.
+Es un placer especial esta mañana presentarles y agradecerles a una persona que ha cambiado tanto nuestras vidas.
+Vive Steve
+Trabajos como lo conseguí gracias de nada
+Buenos días, muchas gracias.
+Muchas gracias
+Gracias, muchas gracias, realmente lo aprecio, um, y realmente aprecio que no me interrumpas.
+de mi cena con po pero con suerte era una mujer hermosa um yo uh quería venir y solo
+Charlamos un rato esta mañana. Sé que has estado recibiendo muchas presentaciones durante toda la semana, así que no quería hacer una presentación muy elegante, pero lo que quiero decir es que...
+Lo que hacemos es simplemente charlar y así pasamos unos 45 minutos juntos.
+quiero hablar de lo que quieras hablar uh tengo opiniones sobre la mayoría de las cosas así que uh pensé que si solo quieres
+Para empezar a hacer algunas preguntas, iremos a algunos buenos lugares, solo para dar un poco el tono, estoy...
+En realidad, estoy bastante entusiasmado por cómo van las cosas. Creo que conociste a algunas personas realmente buenas.
+Esta semana, estoy dirigiendo las áreas clave de Apple y creo que están haciendo...
+Un enorme progreso hacia la ejecución de lo que es una estrategia bastante clara y que
+La estrategia gira en torno a un concepto fundamental, que es crear productos realmente excelentes y, eh, creo que muy...
+Estoy seguro de que todavía hay un mercado muy grande para algunos productos realmente excelentes.
+productos y hay algunos agujeros gigantes que podemos llenar con su ayuda, así que
+Creo que nos hemos embarcado en un camino hacia después de una pausa de varios años eh
+Dar la vuelta a esta situación para crear algunos productos realmente buenos y únicos que necesitamos.
+Hay mucho software para ellos, ahí es donde entras tú, así que estoy abierto a responder cualquiera de tus preguntas y espero que...
+tengo algunos buenos esta mañana ¿qué tal el muelle abierto? ¿qué tal?
+abre el documento sí sí ¿qué pasa?
+No lo sé, está muerto, ¿verdad? Está muerto, ¿verdad? No lo sé, pasé mucho tiempo
+tiempo trabajando en ello sí triste bueno ya sabes déjame decirte algo esto es algo genérico sé que algunos de ustedes
+Pasé mucho tiempo trabajando en cosas que nos metieron una bala en la cabeza.
+Disculpa, siento tu dolor
+Pero Apple sufrió durante varios años de falta de
+de pésima Gerencia de Ingeniería II tengo que decirlo y hubo gente
+que iban en 18 direcciones diferentes haciendo cosas posiblemente interesantes
+cosas en cada uno de ellos buenos ingenieros pésima gestión y lo que pasó fue que miras a la
+La granja que se ha creado con todos estos animales diferentes que van en diferentes direcciones y no suma nada.
+arriba el total es menor que la suma de las partes y por eso tuvimos que
+Decidir cuáles son las direcciones fundamentales en las que vamos y qué tiene sentido y qué no, y hubo una
+Un montón de cosas que no tenían sentido y que, a nivel microcósmico, podrían haber tenido sentido. A nivel macrocósmico, no lo tenían.
+Sentido y sabes que lo más difícil es que cuando piensas en enfocarte bien piensas bien enfocarte es...
+decir sí no enfocarse es decir no enfocarse es decir no y
+Tienes que decir no, no, no, y cuando dices no, enojas a la gente y van a hablar con el San Jose Mercury y ellos...
+Escribe un artículo de mierda sobre ti, ya sabes, y es realmente una mierda porque...
+Tú quieres ser amable, no quieres decirle al San Jose Mercury a la persona que te está diciendo esto, ya sabes, solo...
+Se le pidió que se fuera o esto o aquello o esto o aquello, así que acepta los golpes y Apple ha estado recibiendo su parte de golpes durante los últimos 6 meses de una manera muy injusta.
+camino y los ha estado llevando, ya sabes, como un adulto y estoy orgulloso de ello.
+que eh y hay más por venir Estoy seguro de que hay más por venir Me refiero a algunos de estos Leí estos artículos sobre algunos
+De estas personas que se han ido, conozco a algunas de estas personas que no han hecho nada en siete años y sabes que se van y es como que sabes que es
+Como si la empresa se fuera a desmoronar al día siguiente y, por eso, creo que habrá historias como esa que surgirán.
+y ve, pero el enfoque se trata de decir no y el resultado de ese enfoque será
+Algunos productos realmente geniales donde el total es mucho mayor que la suma de las partes y um, abierto, quiero decir que estaba...
+por poner una bala en la cabeza de open do a no me parecio gran tecnologia pero B no encajaba con el resto
+del mundo no va a utilizar el open do y um creo que como estrategia de contenedores
+Hay algunas cosas en el espacio Java que son mucho mejores e incluso los chicos de OpenDO estaban básicamente tratando de reescribirlas.
+Todo esto en Java de todos modos y eso fue un reinicio, así que no funcionó.
+Sí, señor Steve, ¿qué hacemos con la prensa? Me refiero al Wall Street Journal.
+Los periodistas se levantan por la mañana, venden Apple a bajo precio y luego van a escribir historias sobre nosotros y está claro que es un...
+Problema de percepción versus realidad. No saben de sistemas operativos. No saben nada de herramientas. No saben qué está pasando en el
+En el futuro no saben que estamos construyendo icebergs y los construimos desde abajo, claro, eh, ya sabes.
+Estoy seguro de que muchos de ustedes han tenido esta experiencia en la que están cambiando, están creciendo como personas y la gente todavía...
+La gente tiende a tratarte como si fueras hace 18 meses y a veces es realmente frustrante cuando estás...
+Creciendo y volviéndote más capaz y has resuelto tal vez tenías algunas peculiaridades de personalidad que has
+En cierto modo lo has superado, sea lo que sea, y la gente todavía te trata como si fueras hace un año o 18 meses. Puede ser muy difícil.
+frustrante bueno, es lo mismo con una empresa, eh, es lo mismo con la prensa, la prensa va a tener un tiempo de retraso y
+Lo mejor que podemos hacer con la prensa es, ya sabes, abrazarlos y hacer lo mejor que podamos para educarlos.
+sobre la estrategia, pero no perder de vista el objetivo, que está resultando.
+Algunos productos excelentes que se comunican directamente con nuestros clientes lo mejor que podemos.
+¿Se puede conseguir que la comunidad de personas que van a hacer que esto sea un éxito, como ustedes, se involucren para que sepan?
+todo y simplemente marchar hacia adelante Un pie delante del otro y la prensa
+se encargará de ello, es como el precio de las acciones, la prensa y el precio de las acciones se cuidarán a sí mismos, para finales de este año se verá bastante
+Diferente y yo ya sabes cuando llegas, quiero decir que soy como un anciano ahora en esta industria y he visto los altibajos y cuando ves suficiente de
+Entonces, cuando te levantas por la mañana y la prensa está vendiendo acciones de Apple en corto, sal y compra algunas acciones. Sabes que eso es lo que quiero decir.
+Haría eso es lo que tengo
+hecho señor sí um Apple ciertamente tiene una tradición de um en introducir nuevos
+Tecnologías que se convierten en estándares, pero últimamente Apple parece más disculparse por ser diferente que enorgullecerse de ello.
+siendo diferente y como desarrollador empiezas a sentirte de la misma manera y me pregunto, sabes, 13 años después
+Presentando Macintosh. Um, ¿qué puede hacer Apple? ¿Qué aplicación puede hacer para recuperar sus pelotas? Sí, tengo que decirte que tengo una
+Un punto de vista un poco diferente sobre eso. Creo que Apple tenía la cabeza metida en el asunto.
+arena durante los últimos años disculpe um ahí
+¿Han sucedido tantas cosas en términos?
+de la computación en red como un ejemplo que Apple pasó por alto por completo en Mac
+es probablemente uno de los menos
+Las comunidades de computadoras en red en el mundo en términos de hacer un uso real de redes poderosas, me refiero a cuando...
+NEX se unió a Apple justo después de tener una infraestructura de red extremadamente sofisticada para hacer redes.
+La informática en comparación con Apple y, como sabéis, incluso ahora nos cuesta conseguir la Apple.
+gente para entenderlo porque el Mac ha sido por todo esto
+propiedad en todos los sentidos debido a la actitud de arrogancia que tenemos
+No solo inventemos nuestra propia red, sino que inventemos nuestro propio esto e inventemos nuestro propio aquello, inventemos nuestro propio esto, ...
+en su propio pequeño mundo y el resto del mundo con tantas inversiones lo pasó por alto y por eso necesitamos traerlo
+Mac se ha incorporado al mundo moderno en muchas áreas, como la informática en red y otras.
+que porque no fuimos los primeros, porque no establecimos los estándares y ya están escritos en piedra, vamos a...
+tener que usarlos, así que creo que la sabiduría aquí es...
+No quiero decir que tengamos que inventarlo todo nosotros mismos, la sabiduría aquí es saber qué es probablemente el 10%, el 20% o el 30%.
+La mayor parte de las cosas que tenemos que inventar y lo que deberíamos usar ya existente no las inventamos nosotros, ¿no?
+Sacamos un escritor láser y fuimos los primeros en tener un escritor láser, así que creo que toda esta noción de...
+El hecho de ser tan propietarios en cada faceta de lo que hacemos realmente nos ha hecho daño y
+Una vez más, la gestión y la visión que teníamos alentaron a la gente a reinventar la rueda.
+Ahí está nuestra manera y sí, puede que sea un 10% mejor, pero normalmente termina siendo un 50% peor, porque hay un...
+Hay mucha gente inteligente que no trabaja muy bien en Apple. Lo único que me gustaría añadir es que creo que es importante que Apple sea percibida como tal.
+como diferente porque si Apple solo dice que somos como todos los demás, pero mejor que eso, realmente no dice nada en absoluto, sí, no creo que sea
+Bueno, creo que es importante que Apple sea percibida como mucho mejor y si eso es así,
+Si ser diferente es esencial para hacer eso, entonces tenemos que hacerlo, pero si pudiéramos ser mucho mejores sin serlo,
+diferente, eso estaría bien para mí, quiero ser mucho mejor, no me importa ser diferente, tendremos que serlo.
+diferente en algunos aspectos para ser mucho mejor pero ese es el premio ¿no estás de acuerdo? Estoy de acuerdo, pero yo...
+Creo que Apple necesita articular esas diferencias también y el objetivo es ser mejor, pero
+Um, para el público en general, tiene que ser mucho mejor antes de que se note y, ¿verdad?, tiene que serlo, tiene que serlo en algún momento.
+De muchas maneras diferentes tiene que ser un montón
+mejor si buenos dias dijiste en tu apertura reglas basicas que habia
+Muchos agujeros, eh, agujeros que Apple no podría necesariamente hacer sin esta comunidad, eh, como visionario.
+¿Crees que podrías pasar un par de minutos ya sea escribiendo o hablando de esos agujeros?
+Gran parte de la gran ventaja de usar computadoras hoy en día es usarlas no
+solo para tareas computacionalmente intensivas, sino que las utilizan como una ventana hacia tareas intensivas en comunicación como usted
+Sé que nunca he visto algo más poderoso.
+que este cálculo combinado con esta tecnología de red que tenemos ahora
+Por lo tanto, no sólo las redes en toda una organización, sino también, por supuesto, las redes de área amplia a través de Internet.
+Y solo quiero centrarme en algo que está muy cerca de mí.
+corazón que vive en un mundo de red de alta velocidad para hacer tu trabajo
+¿Cuántos de ustedes administran su propio almacenamiento todos los días?
+Computadoras, ¿cuántos de ustedes hacen copias de seguridad de sus computadoras? Por ejemplo, ¿cuántos de ustedes han tenido una falla en los últimos tiempos?
+tres años cuatro años bien, eh, déjame describir el mundo en el que vivo, eh...
+Hace ocho años teníamos una red de alta velocidad conectada a nuestro ahora obsoleto
+próximo Hardware en ejecución en ejecución uh próximo paso del en el momento y porque nosotros
+Estábamos usando NFS y pudimos tomar
+Todos nuestros datos personales, nuestros directorios de inicio, los llamamos así.
+máquinas locales y las puso en un servidor y el software hizo eso
+completamente transparente y debido a que el servidor tenía mucha RAM en algunos casos era
+En realidad, era más rápido obtener cosas del servidor que obtenerlas del disco duro local porque en algunos casos...
+Sería cobrado en la memoria RAM del servidor si fuera de uso popular, pero lo que realmente fue notable fue
+que la organización podría contratar a una persona profesional para hacer una copia de seguridad de ese servidor todas las noches y podría darse el lujo de
+gasté un poco más en ese servidor, así que tal vez tenía unidades de disco redundantes, fuentes de alimentación redundantes y ya sabes,
+En los últimos siete años, ya sabes cuántas veces he perdido algo personal.
+Datos cero ¿Sabes cuántas veces he hecho una copia de seguridad de mi computadora?
+cero tengo computadoras en Apple al lado en Pixar y en
+Inicio Me acerco a cualquiera de ellos y me conecto yo mismo, pasa por la red y encuentra
+mi directorio de inicio en el servidor y simplemente es donde tengo mis cosas donde quiera que esté
+Estoy donde quiera que esté y nada de eso está en un disco duro local.
+disco ahora lo que realmente me resulta interesante es
+Que Gigabit Ethernet viene con Gigabit Ethernet es más rápido en todos los sentidos.
+caso de hablar con el servidor que es mi disco duro local y una de las cosas que realmente estoy
+Lo que más me entusiasma es mirar esa computadora personal y quitarle todas las partes móviles excepto el teclado y el
+ratón no necesito un disco duro en mi computadora si puedo llegar al servidor más rápido mira porque miro eso
+Conexión de red como marcación NFS
+Tono Recibo tono de marcado de Internet y tono de marcado NFS a través de ese cable y no
+No me importa cómo se haga, no me importa qué caja esté en el otro extremo. Usamos un aspex en el siguiente extremo derecho. Uno grande gastó media hora.
+Valió la pena gastar un millón de dólares, hicimos mucho desarrollo de software, nadie perdió nada, nadie tuvo que preocuparse por esas cosas, pero podría haberlo hecho.
+Son más pequeñas, pero administrar una red como esta es un dolor de cabeza al configurarla.
+Conseguir que todo funcione es realmente complicado. Una de mis esperanzas es que...
+Lo que Apple puede hacer por este nuevo tipo de red no es tan nuevo, pero para el
+La persona promedio es nueva con las tecnologías Gigabit Ethernet y algunas de las nuevas cosas del servidor que están por llegar.
+lucio y algunos clientes de hardware más delgados Clientes de hardware que son
+más delgado no necesariamente software que Apple podría hacer que sea plug and play
+Para los simples mortales, ya que hizo que la experiencia del usuario durara más de una década.
+Hace tiempo que eso es una de las cosas en las que creo que hay un agujero gigante y no puedo comunicarte cómo.
+Impresionante, esto es a menos que lo uses y tú lo decidas dentro de
+Unos pocos que conoces un día o dos es que llevar estos no conectados
+computadoras o computadoras con toneladas de estado en ellas, toneladas de datos y estado en
+ellos son bizantinos en comparación, por lo que hay alrededor de tres o
+Cuatro cosas así en las que creo que hay una enorme oportunidad y donde
+Creo que, como sabes, muchas veces, tanto en las personas como en las organizaciones, tu mayor fortaleza también puede ser tu...
+mayor debilidad o tu mayor debilidad puede ser tu mayor fortaleza Apple ha sido destacada
+Como tiene una debilidad increíblemente grande de estar totalmente integrado verticalmente, no hace su propio...
+semiconductores, pero fabrica el hardware, fabrica el software, controla la experiencia del usuario y hace el marketing.
+y distribuye IT hace el marketing
+y mucha gente pide constantemente que Apple salga del negocio del hardware debido a esa debilidad que
+ellos perciben que no estoy de acuerdo con eso lo percibo como una debilidad potencial si no se gestiona correctamente también lo percibo como
+La mayor fortaleza de Apple, si se gestiona correctamente, déjame darte un ejemplo: Plug and Play, me refiero a hacer cualquier cosa en...
+La industria del PC parece llevar años Plug and Play fue una iniciativa
+Eso se lanzó hace cinco años, sabes que tomó dos años reunirlo todo entre Microsoft y Compact.
+Y luego Intel luchó con ellos, finalmente logró que Intel se uniera al grupo y aquí estamos 5 años después y todavía no funciona.
+Realmente funcionan cada pequeña cosa que puedas imaginar cuánto tiempo les tomará hacer una delgada
+Estándar de cliente y servidores que se conectan y funcionan fácilmente dentro de los clientes. Quiero decir que estamos en lo que ya sabes, el tercero.
+milenio, por lo que el hecho de que Apple controle el diseño del producto de principio a fin
+El software End Hardware le da a Apple una oportunidad increíblemente única: es la única empresa
+En la industria que hace eso, existe una oportunidad increíblemente única de abordar algunos de estos problemas realmente complicados.
+problemas complejos que podrían tener una enorme ventaja potencial en el
+mercado si pudiéramos resolverlos y creo que resolverlos literalmente media década o una década antes de lo que imaginamos.
+El monstruo de 93 cabezas que está ahí afuera en el espacio Windel ahora también tiene sus ventajas, no me malinterpreten, pero yo...
+Creo que una de nuestras grandes ventajas es que realmente podemos tener la visión de que
+Abarca todas las disciplinas que controlamos para implementar realmente una visión.
+Más rápido si podemos ponernos en marcha todos en algunas direcciones que realmente suenan geniales y
+Mientras hablabas de ello, me quedé atrapado en ello y luego se me ocurrió que es algo realmente genial.
+Visión para Apple, pero luego pregunté sobre los agujeros para los desarrolladores. Uh, bueno, te daré una simple.
+Te daré un montón de ejemplos simples. Microsoft no se ha comprometido con Port.
+Su suite de aplicaciones aún no tiene la ciudad de rap, ¿qué estás esperando?
+Para que sepas Adobe, ¿sabes cuántas copias de Photoshop envía Adobe cada año?
+Meses de millones, esa es la base de Adobe, Photoshop. Adobe no tiene nada que ver con mi
+Conocimiento comprometido con Port Photosop a Rap City, pero ¿qué estás esperando?
+porque esto es enorme esta es la oportunidad de hacer algo la próxima generación de abdominales mira hubo una
+Una empresa llamada Lighthouse que en realidad fue comprada por Sun hace unos seis meses. Eran los mejores desarrolladores de Nextstep. Tenían 18 desarrolladores.
+Tenían, de lejos, la mejor aplicación de presentación que he visto en mi vida, llamada Concurrence. Todavía la uso.
+Úselo hoy, tenían, ya sabes, tenían un conjunto de cinco aplicaciones diferentes y cada una era
+La mejor hoja de cálculo que he usado en mi vida.
+Quantrix que se basó en la improvisación ¿cuántas personas han usado la improvisación aquí?
+Improv es la mejor hoja de cálculo del planeta porque incorpora un todo
+Una nueva forma de pensar en las hojas de cálculo para personas como yo que quieren modelar cosas. Es increíblemente poderosa y...
+Lotus no pudo encontrar la manera de competir consigo mismo con uno, dos, tres, así que lo dejó y Lighthouse copió el 18.
+Los desarrolladores tienen cinco aplicaciones gracias a la potencia de este entorno de desarrollo.
+Lo que Apple va a poner en tus manos es un sistema que puedes construir.
+aplicaciones de cinco a diez veces más rápidas que cualquier otra cosa que exista en el mercado y puedes
+Elige hacer una de dos cosas o algo intermedio con estas, con este poder puedes hacer que exista.
+Las aplicaciones complejas son de 5 a 10 veces más rápidas, lo que significa que tres personas realmente pueden
+Entra en un garaje el primer día con un concepto y sale al mercado con un producto 6
+Han pasado n meses y ahora no he visto eso en nuestra industria en 10 o 12 años y
+Eso es muy, muy, muy emocionante para mí y algunas personas dicen: "Bueno, solo funcionará en un...
+Macintosh o solo funcionará en Rap City, tal vez se venda en Intel y se venda en una Macintosh. Jesús, es solo un dígito.
+Porcentaje del mercado, bueno, Jesús, son solo más de tres millones de copias al año. No me importaría vender eso.
+El mercado es enorme, especialmente si eres un 3% de 10 personas, 18 personas y un software.
+La empresa de desarrollo Lighthouse se estaba ganando bien la vida vendiéndole a The Next Step Market. Dame una
+romper ya sabes
+Así que ya sabes, creo que hay un mercado enorme ahí fuera.
+Y creo que todavía hay una tremenda lealtad hacia Apple por parte de algunos de estos.
+Clientes, quiero decir, si Adobe no quiere escribir la próxima generación de Photoshop en Rap City, algunos de ustedes deberían hacerlo.
+Tal vez lo compren, quién sabe, pero al mercado editorial le encantaría ver algo como La Nueva Generación.
+pero aún más, ya sabes a quién le encantaría incluso más que a esa manzana, ¿verdad? Entras aquí y dices: "Tengo...
+Algo que es cinco veces mejor que Photoshop para estas personas del sector editorial.
+Y si suficientes personas del mundo editorial están de acuerdo, puedes convencer a Apple de que ese es realmente el caso. Ya sabes cómo.
+Apple gasta mucho en marketing cada año, pero debería invertir parte en estas aplicaciones y en contárselo al mundo.
+Entonces, si se te ocurre algo realmente genial, creo que se va a conocer y creo que esto es un...
+oportunidad bastante única, pero quiero volver al último punto que estaba haciendo sobre una de las otras cosas que puedes hacer con estas poderosas herramientas además de
+Construir una aplicación de complejidad actual cinco o diez veces más rápido es construir una aplicación que no podrías construir en ninguna plataforma.
+Para mí lo más emocionante es crear una aplicación que no podría crear en ninguna otra plataforma porque
+Se trata de gestionar la complejidad, ¿no? Sus desarrolladores saben que se trata de gestionar la complejidad. Es como...
+Andamio bien, se montan algunos andamios y si se sigue subiendo y subiendo y subiendo, eventualmente el andamio...
+colapsa por su propio peso, ¿no?, eso es lo que es crear software.
+¿Cuántos andamios puedes erigir antes de que todo se derrumbe por sí solo? No importa cuántas personas
+Estás trabajando en ello, no importa si eres Microsoft con tres equipos de 400 o 500 personas, todo se derrumbará.
+su propio peso has leído el mes mítico del hombre ¿verdad? premisa básica de esto es que un proyecto de desarrollo de software se pone
+a un tamaño determinado donde si agregas una persona más la cantidad de energía para comunicarse con esa persona es en realidad
+mayor que su contribución neta al proyecto, por lo que se desacelera y se tiene un máximo local y luego desciende.
+Todos sabemos que el software se trata de gestionar la complejidad. Estas herramientas permiten...
+para que no tengas que preocuparte por el 90% de las cosas por las que te has preocupado, de modo que
+Puedes erigir tus cinco pisos de andamios, pero comienza en el piso número 23.
+En lugar de empezar en la historia número seis, puedes llegar mucho más alto.
+Señor, usted mencionó las acciones y cómo realmente podemos esperar eso hacia fines de año. Me pregunto.
+¿Puedes hacer algún comentario sobre Larry?
+Ellison, hay muchos comentarios que se podrían hacer sobre Larry.
+Ellison, nunca he salido con Larry, así que eso excluye a un montón de...
+ellos um no en realidad Larry es en realidad de Larry
+Mi mejor amigo y um um me puso en una situación un poco incómoda uh y
+Uh, ciertamente lo he animado, uh, ya sabes, a no intentar tomar el control.
+de Apple porque creo que Apple está en un buen camino en este momento y creo que Larry está en un camino increíble. Quiero decir, una de las cosas que le dije fue: mira, si
+Hice una encuesta en Silicon Valley sobre qué empresa le gustaría dirigir. Sabía que Oracle estaría en la cima de muchas.
+la segunda empresa de software más grande del mundo según la lista de la gente, una de las empresas más dinámicas del planeta y
+Larry lo construyó desde cero y tiene uno de los mejores trabajos del mundo, así que creo que... ya sabes, creo...
+Larry, ya sabes, ha hecho declaraciones públicas de que va a...
+Me gustaría seguir con Oracle, así que no me importaría eso y creo que lo que necesitamos hacer es...
+Lo único que me preocupa es crear excelentes productos y obtener excelentes aplicaciones para ellos y contárselo a nuestros clientes.
+clientes sobre ambas cosas sí señor oh lo siento vamos a ir a
+El señor Back, hace unas semanas, el Wall Street Journal anunció las cifras de ganancias.
+para Microsoft y también dijeron que en esta industria hay las únicas empresas
+Realmente lo están haciendo bien, ¿eh? Intel, Microsoft y quizás Compact, ¿podrías comentarlo?
+sobre la posibilidad y la competencia contra los monopolios que la justicia
+El departamento parece, por alguna extraña razón, evitar procesar a alguien.
+antimonopolio, sabes, una de las cosas que siento muy
+fuertemente sobre es que bueno voy a ir
+El día que empezamos Apple
+La computadora IBM era mucho más poderosa en la industria informática que Microsoft e Intel.
+Hoy es el día en que iniciamos Apple porque no solo controlan las tecnologías, sino que también controlan a los clientes que tienen.
+Contacto directo con el cliente y
+Así que deberíamos habernos rendido. Quiero decir, ¿sabes? ¿Lo que debería haber hecho?
+Solo me dio un codazo: oye, olvídalo, no tenemos ninguna oportunidad, pero fuimos demasiado estúpidos para saberlo.
+que no habíamos ido a la escuela de negocios, no leíamos el muro, no sabíamos qué era el Wall Street Journal.
+Nunca había visto un Wall Street Journal y eso nos sirvió.
+Bueno entonces
+¿Qué puedo decir? Creo que todos los buenos productos que he probado...
+Lo que se ve en esta industria y prácticamente en cualquier lugar es porque un grupo de personas...
+Me preocupé profundamente por hacer algo maravilloso que
+Ellos y sus amigos querían, ya sabes, querían usarlo.
+ellos mismos y así fue como surgió el Apple One así fue como surgió el Apple 2 así fue como surgió el Macintosh
+Así es como se ha producido casi todo lo bueno que conozco. No se ha producido porque la gente fuera...
+temblando en un rincón preocupado por si alguna gran empresa lo pisoteaba porque si la gran empresa fabricaba el producto que...
+Tenía razón, la mayoría de estas cosas no habrían sucedido, Ian, si hubiéramos podido ir, si hubiéramos podido ir.
+Salí y desembolsé 2.000 dólares y compré un Apple 2. ¿Por qué habríamos tenido que...?
+Construimos uno, no estábamos tratando de iniciar una empresa, estábamos tratando de conseguir una computadora, así que te lo diré ahora mismo.
+Tú eres un ejemplo: recibo alrededor de 200 mensajes de correo electrónico al día. Sin todos los que conoces.
+Enriquecimiento rápido a través de Internet y yo he estado en ese modo ahora para ti.
+Sé que hace cinco, seis y siete años que uso casi todos los correos electrónicos que me envían.
+La aplicación más importante que uso y he usado todos los sistemas de correo electrónico que conozco.
+um y puedo decirte que el de Next Step o Rap City es literalmente...
+sabes casi un orden de magnitud mejor más productivo que cualquier otra cosa
+De lo contrario, sé que me refiero a que camino por Apple y están usando udor, están usando el peor sistema de correo del mundo.
+El mundo de Apple y sé que podríamos mejorar la productividad dentro de Apple en un 30% si tan solo les consiguiéramos un
+Buen sistema de correo electrónico y es por eso que me sorprende que algo tan obvio...
+Como el correo electrónico está tan dañado, Netscape es horrible. Quiero decir, todo el mundo es igual.
+Horrible y si algo es obvio como el correo electrónico está tan roto que te lo das y el
+Otro que mencioné antes son las hojas de cálculo si usaste Improver.
+quantrix durante una semana dirías ¿cómo es que esto no ha sido reemplazado por completo?
+Excel para el 75% de las personas, sí, hay un 25% que todavía lo querrá.
+Excel tiene buenas razones, pero para el 75% de las personas, ¿por qué esto no lo ha reemplazado?
+Y ahí están, no hay respuestas a estas preguntas excepto vamos a hacerlo.
+Y esa es mi actitud sobre esta cosa, la otra cosa es que siento mucho, mucho...
+Estoy muy convencido de que es increíblemente estúpido que Apple se ponga en una posición en la que...
+Para que Apple gane, Microsoft tiene que perder, eso es realmente...
+Tonto, quiero decir, no espero que el gobierno federal desmantele Microsoft por muchas razones, aunque la menor de las cuales es...
+¿Es el monopolio del gobierno federal? Quiero decir, son amigos, así que Microsoft es un hecho de la vida.
+Son como el aire que respiramos, ¿sabes?
+Sí, o probablemente la mejor analogía sería como el agua embotellada porque tienes que comprarla.
+pero pero no obstante um Apple puede ganar sin
+Creo firmemente que tener que hacer que Microsoft pierda y espero que...
+U Microsoft se dará cuenta cada vez más con el tiempo de que ese es el caso.
+Y Apple representa una parte bastante rentable de su negocio y parece que están empezando a entenderlo.
+Desde este punto de vista, ya sabes, se han anunciado algunas alianzas entre Microsoft y Apple.
+Y sabes, creo que... eh... sabes, creo que... realmente... realmente... fuertemente...
+Que presentar a Microsoft como Satanás y tener una guerra santa contra Microsoft sería exactamente lo incorrecto.
+Lo que Apple puede hacer es que hay muchas oportunidades en las que Apple puede tener una ventaja tremenda y no solo eso.
+Tengo que competir directamente con Microsoft, pero realmente tengo que ir directo al grano.
+clientes sí atrás medio uh Esperaba que te atrevieras a dar una opinión esta mañana sobre cómo
+Ves la evolución futura de la compatibilidad con Macintosh.
+Mercado um creo que la compatibilidad con Macintosh en primer lugar, permítanme expresar mi opinión sobre esto, es solo mi opinión personal.
+Creo que Apple debería licenciar todo, con algunas excepciones que explicaré en un minuto, pero creo que Apple...
+Debería obtener un precio justo por ello y creo que la configuración del Clon es la que se ha configurado.
+Se hizo muy mal, ya sabes, hace tres o cuatro años. Por un lado, Apple...
+licencia los diseños de hardware y obliga a los creadores de clones a usarlos, eso es estúpido, dejen que los creadores de clones hagan los suyos propios.
+Los diseños de hardware les permiten hacer cualquier hardware que quieran, ¿no? No los aten.
+manos, pero de nuevo no lo regalen, quiero decir, si quieren un hardware OEM de Apple y pagan extra por eso, si
+Quieren usar el hardware de Apple, está bien, pero si no les permiten diseñar el suyo propio y el software, Apple debería obtenerlo.
+Un precio justo basado en el volumen, por ejemplo, si soy un fabricante de clones, como sabes.
+Algunas de las Macintosh de gama baja, sean compatibles o no, probablemente no lo sean.
+De hecho, mucho dinero. Incluso podrías imaginar que podrían perder dinero solo para atraer gente y compensarlo.
+Para ese tipo de productos de bajo margen, necesitas algunos productos de mayor margen en el extremo superior, así que si eres un fabricante de clones,
+Piénsalo bien. Creo que le daré a Apple 10 dólares por el software y buscaré el mercado de Mac de 5.000 dólares. Bueno, eso sería...
+Es realmente estúpido que Apple haga esto porque este fabricante de clones es solo una sanguijuela.
+viviendo del hecho de que Apple tiene este modelo de negocio para L, ya sabes, no ganar mucho dinero en algunos niveles y tratar de...
+para recuperar algo en el nivel alto y simplemente ir tras el nivel alto y pagar 10 dólares por el software que
+No sería justo que quisieras que la gente pague más dinero si están en un nivel más bajo.
+Volumen porque la única forma de llegar a un mayor volumen es fabricar también algunos de esos clones de precio medio y bajo.
+y obtienen menos margen y si lo hacen, entonces deberían obtener un precio más bajo en toda su gama de productos.
+productos, por lo que he estado abogando por eliminar las licencias del hardware y dejar que los fabricantes de clones hagan lo que quieran.
+lo que quieran y B para aumentar el precio o la regalía del software a
+un nivel razonable y convertirlo en una escala basada en el volumen y creo que esa es la
+Es lo correcto y algunos de los creadores de clones se han vuelto locos por eso, es increíblemente estúpido. Quiero decir, no creo que deban pagar más por el rap.
+ciudad como ejemplo de lo que hacen otros sistemas operativos modernos para licenciar pero eso no es 10 o 20 o 30
+dólares, así que um y creo que ahí es donde terminaremos y creo que todos estarán bien y creo que los creadores de clones
+Tendrán un tiempo mucho más fácil y no tendrán que lidiar con el hardware de Apple y tal vez fabriquen un hardware mejor, tal vez fabriquen un hardware peor y los clientes...
+Decidiré y estoy totalmente a favor. Solo creo que Apple debería obtener un poco de valor de su software y no solo
+Los fabricantes de clones eligen sus productos de alto margen y pagan 10 dólares por copia si quieren elegir los de alto margen.
+productos de margen y pagar un precio justo por el software, déjeles que lo hagan.
+Así es como me siento al respecto, pero no estoy haciendo lo que quiero.
+decisiones si aun así me alegro de que estés aquí gracias
+¿Qué es eso que no eres? Incluso si no estás tomando decisiones, gracias por estar aquí. Oh, claro. Um, mencionaste la gestión.
+complejidad hay mucha gente que usa o no usa
+Usar computadoras o pensar en las computadoras es algo que tienen que cuidar los hombres.
+que trabajen para sus computadoras ¿cómo podemos lograr que las computadoras funcionen?
+donde trabajan para la gente
+En cambio, realmente no sé... quiero decir... no estoy seguro de lo que quieres decir... no lo sé.
+Siento que trabajo para mi computadora, siento que es un poco invasivo, quiero decir, tengo un T1 en mi casa y me meto en el...
+El hábito de responder a su correo electrónico lo sabe en unos segundos después de que llega, por lo que puede ser invasivo en la vida familiar.
+Sí, eh, pero eh... creo que nos puede servir más.
+y salir y hacer cosas por nosotros sin que tengamos que estar observándolos y ya saben, tenemos todo este sistema de yo...
+hago clic una vez, la computadora hace una cosa, hago clic en otra cosa, la computadora hace una cosa y nunca se apaga y funciona para mí durante 15 o 20 minutos, quiero decir
+bien compilado pero um
+Supongo que mi punto de vista es un poco diferente, mi punto de vista es que corro rutinariamente entre 10 y 15 minutos.
+Todas las aplicaciones a la vez en mi computadora se comunican rutinariamente entre sí.
+de una manera muy maravillosa a la que no tengo que prestarle mucha atención y puedo mover cosas entre ellas muy fácilmente.
+Fácilmente um y estoy conectado a una velocidad extremadamente alta, fácil y transparente.
+La manera más productiva de trabajar con mis colegas es mucho mejor que cualquier cosa que haya visto en
+el mundo de Windows o Mac hoy en día que seré feliz si en los próximos 12 a
+24 meses después de que ustedes lancen sus aplicaciones, podemos llevarlas a todos.
+Genial, en segundo lugar, sé que hay al menos 20 aplicaciones más que me encantaría usar.
+Aún no se han escrito y si podemos hacer que esas aplicaciones sean realmente fáciles de escribir y si podemos mantener la Mac
+mercado es mucho más barato de comercializar que el mercado de vinos, por lo que puedes llevarlos al mercado y entonces todos podemos obtener un
+oportunidad de usar esas excelentes aplicaciones que ustedes van a escribir, está bien, así que mi opinión es que durante los próximos años, como
+tres cuatro años nuestro trabajo no es reinventar el mundo es tomar algo
+que sabemos que ya existe pero que casi nadie lo tiene y lo saca a la luz.
+Ya los conoces y, para ser honesto, es muy parecido a Xerox Park, quiero decir.
+Xerox Park tenía algunas de las cosas que había en una Macintosh, pero nadie más las tenía. Bueno, ya sabes...
+Hay miles de personas que lo usan ahora, pero no hay millones y, si podemos hacerlo público, creo que cambiará mucho.
+Y, afortunadamente, mucho de esto está probado y es verdadero, se ha pulido y refinado y es bastante a prueba de balas, así que no estamos...
+Voy a tener que pasar por algunos momentos iniciales embarazosos. Espero que sea genial que hayas mencionado las herramientas.
+Si me lo permite, noté la maravillosa demostración de NextStep, donde tenemos una forma visual.
+La construcción de la interfaz es genial y, de repente, volvemos al texto para hacer un poco de codificación y agregar algunas
+cosas y ya hay algo que visualmente se programa llamado programa
+Y es probable que sea una causa perdida, pero algo así tiene que llegar algún día y, ¿sabes qué?
+Mientras tanto, seguiré adelante y haré el siguiente paso. Lo haré, lo haré. Lo haré. Sí, vemos que también queremos eso. Aquí está el
+Trato aceptable
+La forma de obtener productividad del programador no es aumentando la
+líneas de código por programador por día que no funcionan de la manera que usted obtiene programador
+La productividad se logra eliminando líneas de código que debes escribir directamente en la línea de
+El código que se escribe más rápido, que nunca se rompe y que no necesita mantenimiento, es la línea que nunca tuviste que seguir.
+Escribe bien, ¿cuál es el objetivo aquí? Eliminar el 80% del código que escribes.
+Tienes que escribir para tu aplicación, ese es el objetivo, ¿de acuerdo? No lo es.
+a y y así a lo largo del camino si podemos proporcionar wizzy esto y wizzy aquello y
+Visual esto y visual aquello, bueno, eso está bien, pero el bit de orden superior es eliminar el 80% del código cuando arrastras
+una linea una interfaz Builder estas eliminando codigo de una forma pero he visto mucho visual Pro pero tu pero
+Eso sólo llega hasta cierto punto, tal vez podamos ir más allá. He visto muchas demostraciones de
+Cosas que intentan llevarlo hasta la parte algorítmica de la base del código y ninguna de ellas lo ha logrado.
+¿Alguna vez has sido bueno? Si hay algunos buenos, muéstralos a Obby y él me los mostrará. Me encantaría verlos.
+Él le agradece, señor. Sí, usted mencionó lo bueno que es que Apple controle el hardware o al menos
+Lo mínimo que Apple controla es algo como CHP, que es la especificación del hardware, y de hecho he oído que es muy bueno.
+Cosas al respecto. Escuché que Apple o Chirp tienen velocidades de bus realmente rápidas. Escuché que realmente mejoraron el iio.
+subsistema y luego llegué a la conferencia, de hecho hablé con algunas de las personas que trabajan en él y en el lado de la ropa escuché que Chirp está hecho.
+Ya terminaron el hardware, están listos para entrar en producción. Escuché a algunas personas aquí en Apple trabajando en el lado del software y dijeron bueno.
+Ese lado del software también está hecho, todo está pendiente de algunas negociaciones extrañas que se están llevando a cabo con los clonadores.
+Y luego corre el rumor de que la razón por la que se ha visto envuelta en la negociación es porque a Apple le preocupa que...
+El rendimiento del viaje es lo suficientemente bueno como para canibalizar algunos de sus propios mercados y me parece que hay una
+Aquí hay un conflicto de intereses entre el propio hardware de Apple y algunos de los equipos clonados.
+Sí, no creo que eso sea cierto en absoluto. Me refiero a la persona que dirige el hardware en Apple que conozco desde hace un tiempo.
+década su nombre es John Rubenstein confío en él con mi vida él es el mejor uh
+El líder en hardware que he visto en mi vida, es realmente muy muy bueno.
+Proviene de sistemas de muy alto rendimiento y su especialidad es poner muchos de esos sistemas de alto rendimiento en
+Silicio, por lo que pueden ser realmente baratos, ¿no? Es muy bueno en eso, es muy bueno en liderar equipos de gerentes de ingeniería muy talentosos y
+ingenieros y lo que quiere hacer es construir cosas increíbles porque...
+El hardware de Mac no está en la cima de la cadena alimentaria, digamos simplemente, y queremos...
+Consígalo allí y lo vamos a conseguir allí, así que si había algo listo para
+Vaya, eso estuvo realmente bueno, te prometo que John lo enviaría ayer.
+Bien, y en términos de los creadores de clones, sé que Jon está presionando mucho.
+Lo que apoyo al 100% es decirle a los fabricantes de clones que pueden construir su propio hardware, que es lo más fácil.
+No te limites a lo que Apple lanza o no lanza, crea tu propio software.
+Hay mil millones de personas construyendo hardware. Miren el negocio de los clones de PC. Todos construyen su propio hardware. Podrían tener gente que lo construya.
+Para ellos, podrían hacer que otras personas lo diseñen para liberarlos de la esclavitud de que solo pueden usar manzanas.
+hardware y pueden hacer lo que quieran, de hecho podrían construir Rap
+Las cajas de la ciudad con procesadores Intel en ellas, si quisieran, harían lo que quisieran y ahí es donde creo que...
+Ahí es donde espero que Apple vaya para que no veas ningún conflicto de intereses allí entre el hardware de Apple, donde un
+Apple gana mucho dinero y te puedo decir que no, no todo lo que puedo decir es que...
+Sé que esto es 100% cierto, si Apple tuviera un producto popular, lo enviaría mañana mismo, ¿de acuerdo? Y lo tienen.
+Envié algunos productos populares recientemente y si hubiera más antes, cuando salga el próximo lote, estarían listos.
+Enviándolos instantáneamente, Apple tiene productos muy populares y por eso no se retrasa nada.
+Eso es bueno, te lo garantizo, sí, está bien, Apple lo ha cambiado.
+alrededor tenemos a Gil tenemos a ti tenemos a G3 tenemos a Rap City tenemos a Newton 2000 genial ahora cuando vamos
+para ver algunos comerciales de televisión de Kick-Ass reales para cambiar el
+Mentalidad: Sí, bueno, déjame repasar tu...
+Preámbulo un poco eh... personalmente no creo que Apple haya cambiado completamente las cosas. Quiero decir...
+Creo que le está dando la vuelta y... y... eh... no lo pondría en tiempo pasado. Creo que es así ahora mismo y yo...
+Me siento muy confiado en el equipo que está manejando las piezas de Apple en este momento.
+Creo que están haciendo un muy buen trabajo y la estrategia creo que es bastante buena.
+en bueno, así que me siento muy bien por eso y creo que está cambiando y creo que vamos a ver más y más
+señales de eso um te daré mi propia opinión sobre esto
+Porque el marketing es algo subjetivo, no es una ciencia, hay mucho arte detrás y mi creencia personal es...
+que el medio realmente comunica mucho sobre el mensaje en algunos casos
+El medio prevalece sobre el mensaje
+Y yo personalmente creo que Apple no debería estar en televisión en absoluto.
+Este año no es el lugar adecuado para Apple porque lo que significa es solo un segundo.
+Lo que significa es que Apple está tratando de gastar mucho dinero para convencer a...
+Tú que todo está bien y lo que creo que Apple debería ser.
+Lo que se hace es tomar una fracción de ese dinero y ponerlo en
+Impreso y no me refiero a anuncios de ocho páginas del Wall Street Journal porque para mí, de nuevo,
+Un anuncio del Wall Street Journal dice que voy a gastar mi dinero para demostrarlo.
+Te digo que he vuelto y que lo que Apple necesita ahora no es gastar un millón de dólares para...
+Dígale a la gente que ha vuelto, es necesario que los periodistas digan que Apple ha vuelto.
+página uno porque si en la página siete en la página siete a la 14 Apple está gastando un
+Millones de dólares diciendo que estamos de vuelta, pero en la primera página un periodista escribe un artículo diciendo que están en el tanque. ¿A quién vas?
+Creer de hecho que el millón de dólares en la página 7 a la 14 va a reforzar
+El mensaje en la primera página es que me tienen que comprar mientras que son los comerciales de televisión los que influyen en el vendedor.
+Circuit City y Prize y ellos son los que hablan mal de nosotros, ya sabes que no me lo creo.
+Todo lo que digo no lo compro en absoluto no creo que sea cierto creo
+que más que nada en este momento las relaciones públicas están influyendo en la consideración de compra en
+Esta categoría no es publicidad, así que estoy en el
+minoría, pero eh, he tenido un cierto grado de
+Tengo experiencia en este tema y creo firmemente que
+um, Apple realmente necesita hablar de sus excelentes productos y sus excelentes...
+clientes y sus grandes aplicaciones y la mejor manera de hacerlo es en forma impresa en un formato muy...
+manera sencilla y también creo firmemente que
+El aspecto más importante de cualquier campaña de marketing es la rentabilidad. Gastamos un montón de dinero.
+dinero en cualquier trimestre comercializándonos y si perdemos dinero en ese trimestre cualquier
+El impulso positivo que hemos creado se ha borrado por completo, por lo que para mí la rentabilidad es el aspecto más importante del marketing.
+Apple en este momento y eh, creo que sabes que nos estamos acercando.
+Y creo que deberíamos utilizar cada gramo de recursos financieros para...
+Llegaremos allí y creo que será muy fuerte y se escuchará muy fuerte. Deberíamos centrarnos en las relaciones públicas y creo que deberíamos centrarnos en
+en publicidad impresa y me mantengo fuera de la televisión este año, pero no tomo estas decisiones, así que esa es mi
+recomendación que le he dado a Apple de usar su Cloud para asegurarse de que cuando terminen los comerciales de televisión y tenga más dinero sean buenos
+Un agradecimiento, sí, señor Jobs, usted es una persona brillante e influyente.
+Hombre, aquí viene. Es triste y claro que en varios...
+cuentas que has comentado no sabes de lo que hablas me gustaria por ejemplo para ti
+para expresar en términos claros cómo Java, en cualquiera de sus encarnaciones, aborda el problema
+Ideas plasmadas en pato abierto y cuando hayas terminado con eso quizás puedas decirnos qué tienes personalmente
+estado haciendo durante los últimos siete
+años
+Uh, sabes que puedes complacer a algunos de los
+La gente a veces
+Pero una de las cosas más difíciles cuando intentas generar un cambio es...
+que gente como este señor tiene razón en algo
+áreas estoy seguro de que hay algunas cosas abiertas hacer probablemente incluso más que no estoy familiarizado con que nada
+Hay otras personas por ahí que lo hacen y estoy seguro de que puedes hacer algo.
+Las demostraciones pueden ser una pequeña aplicación comercial que demuestra las cosas más difíciles.
+La cuestión es cómo encaja eso en una visión más amplia y coherente que va a funcionar.
+Te permite vender 8 mil millones de dólares a 10 mil millones de dólares por producto.
+un año y una de las cosas que siempre he encontrado es
+que tienes que empezar con la experiencia del cliente y trabajar hacia atrás
+En cuanto a la tecnología, no se puede empezar con la tecnología y tratar de averiguar dónde está.
+Vas a intentar venderlo y probablemente he cometido este error más que cualquier otra persona en esta sala y lo he conseguido.
+el tejido cicatricial lo demuestra y sé que es así y como hemos intentado
+para elaborar una estrategia y una visión para
+Apple um, empezó con algo increíble.
+beneficios que podemos dar al cliente a donde podemos llevar al cliente no no
+Para empezar, sentémonos con los ingenieros y averigüemos qué...
+Tenemos una tecnología increíble y luego, ¿cómo vamos a comercializarla?
+Um, y creo que ese es el camino correcto a seguir. Recuerdo lo del láser.
+Riter, construimos las primeras impresoras láser pequeñas del mundo, ya sabes, y había
+Impresionante tecnología en esa caja teníamos la primera impresora láser Canon barata del mundo.
+En Estados Unidos, aquí en Apple, teníamos un controlador de impresora maravilloso que diseñamos, teníamos PostScript de Adobe.
+El software que había allí era una charla de Apple, simplemente una tecnología increíble en la caja y yo...
+Recuerdo haber visto la primera impresión y simplemente levantarla y mirarla.
+Y pensar que podemos venderlo porque no tenemos que saber nada sobre lo que hay en esa caja. Todo lo que tenemos que hacer es...
+Lo que tienes que hacer es sostener esto y decir: ¿quieres esto? Y si puedes recordar, en 1984, antes de las impresoras láser, era bastante...
+Fue sorprendente ver que la gente dijo ¡Wow!
+Sí, y ahí es donde Apple tiene que volver y sabes que lo siento.
+Soy una víctima en el camino y admito que hay muchas cosas en la vida de las que no tengo la menor idea.
+De lo que estoy hablando, así que me disculpo por eso también, pero hay mucha gente trabajando muy, muy duro.
+Ahora en Apple ya conocen a AI John Gino Fred, quiero decir que todo el equipo está trabajando arduamente.
+el aceite de medianoche tratando de y y y la gente que conoces, cientos de personas por debajo de ellos para ejecutar uh en algunos de estos
+Las cosas están bien y están haciendo lo mejor que pueden y creo que es lo que tenemos que hacer y algunos errores serán cometidos por el
+De alguna manera se cometerán algunos errores en el camino, eso es bueno porque al menos se toman algunas decisiones a lo largo del camino.
+y encontraremos los errores, los arreglaremos y creo que lo que tenemos que hacer es
+Apoyamos a ese equipo que está pasando por esta etapa tan importante mientras trabajan muy duro y todos reciben llamadas.
+Se les ofrece tres veces más dinero para hacer esto, ya que el Valle está caliente y ninguno de ellos se va y creo que debemos apoyar.
+ellos y ayudarlos a superar esto y escribir algunas aplicaciones muy buenas para apoyar a Apple.
+El mercado, ese es mi propio punto de vista. Los errores que cometimos. Algunas personas se enojarán. Algunas personas no lo sabrán.
+De lo que están hablando, pero creo que es mucho mejor que donde
+Las cosas no fueron hace mucho tiempo y creo que vamos a llegar allí, así que creo que tenemos tiempo para...
+Unas cuantas preguntas más. ¿Por qué no respondemos tres preguntas más?
+Sigue nuestro camino hoy en la parte de atrás. Sí, eh. Trabajo para una gran corporación que es
+Estoy reconsiderando seriamente su desarrollo y su objetivo de alcanzarlo.
+Macintosh me enviaron aquí en la WWDC del año pasado y volví con mucha tecnología nueva y...
+Realmente los impresioné con Wow, tenemos a Gil a bordo, ahora tenemos un sistema operativo de próxima generación que esperamos con ansias.
+avanzando con y um uh he perdido
+Un poco de credibilidad con eso y eh, ahora el lunes por la mañana tengo que volver.
+A ellos y decirles ahora, ahora eh, realmente lo decimos en serio, esta vez tenemos una gran tecnología nueva y eh, realmente creo en
+uh en la nueva estrategia um si fueras yo si fueras un desarrollador de software como
+Desarrollador como yo, que trabaja para una corporación Fortune 500, ¿qué le diría a mi gente para convencerlos de que se queden?
+Con Macintosh MH es una buena pregunta.
+Déjame hacerte algunas preguntas: ¿Utilizas principalmente aplicaciones listas para usar?
+¿O creas algunas de tus propias aplicaciones? Depende de qué elementos.
+Estás hablando de la mayoría de los que uso Code Warrior y he usado Photoshop.
+Y algunas de las cosas de procesamiento de textos que no hago, las cosas que escribo son generalmente para mi empresa o cosas así.
+que he escrito para mí principalmente juegos, bueno, supongo que lo que estoy diciendo es que estás tratando de convencer a tu empresa de que se quede con Macintosh, ¿no?
+¿La empresa usa esos Macintosh para implementar aplicaciones personalizadas que usted escribe para su empresa o su empresa usa esas aplicaciones?
+Los Macintosh implementan principalmente aplicaciones de injerto retráctil, principalmente software de soporte para hardware que venden.
+Eso está destinado tanto para PC como para Mac. ¿Escriben ellos ese software?
+Sí, ellos mismos lo hacen bien, bueno, una de las cosas que podría decir es si ellos...
+Podría escribir ese software de 5 a 10 veces más rápido e implementarlo.
+en Max y con Rap City en Intel en PCS ¿les interesaría?
+Creo que lo haría, lo pondría en la mezcla de argumentos que usaría.
+Um, y supongo que la otra cosa que haría sería... Gino.
+Duca sin hacer el trabajo de Gino aquí porque él es mucho mejor que yo en eso. Gino Duca está aquí, él se encarga del marketing de
+Apple, ¿dónde está Gino?
+¿Dónde está? Está detrás del escenario. Asalta el escenario después de que me bajo. Ve a buscar a este tipo y en realidad está...
+Tengo un libro blanco sobre esto que deberías tener en tus manos, gracias.
+Vale, sí, sí, eh, hace un tiempo, Apple tenía una
+visión de una interfaz de usuario que significaba como este último tipo um cuando estabas encima
+Aquí por último, significó que no tendría que hacer el trabajo que mi máquina haría por mí usando el software del agente Knowledge Navigator.
+Agentes inteligentes, ¿veremos algo así pronto? Porque estoy inscrito en...
+Que tu sepas
+um, estoy tratando de pensar en una metáfora para usar y no se me ocurre ninguna, resulta que hay...
+Hasta aquí llega tanta cabeza que
+hacer que el mundo en red en el que vivimos sea mucho más productivo y mucho más fácil.
+Es mucho más divertido de lo que es ahora que sabemos cómo hacerlo. No es investigación lo que sabemos.
+¿Cómo hacer esto para apostar nuestro futuro ahora mismo?
+Los resultados de la investigación sobre el mundo de los agentes, donde puedes encontrar
+Todo tipo de revistas y gente que habla de ello, pero no puedes ir a verlo, en realidad sabes que no hay nada.
+No hay nada tangible en ello, es una investigación en este momento para apostar nuestro futuro, para apostar nuestros próximos cinco años.
+La investigación versus algo que es tan tangible que sabemos que podemos ver y tocar sería una tontería.
+Así que el núcleo de nuestra estrategia es aprovechar el dramático margen de maniobra.
+Para hacer que este mundo conectado sea mucho más productivo para el resto de nosotros en lugar de solo para un individuo.
+computadora que fue la visión original de Mac para dar ese siguiente gran salto y hacer que ese mundo conectado sea mucho más
+más productivo que eso es lo que estamos haciendo no es que no estemos trabajando en agentes hay gente trabajando en agentes
+en la parte de atrás pero el núcleo de la estrategia se centra en lo que acabo de decir y yo
+Creo que tienes razón. Creo que en algún momento van a empezar a hacer más por nosotros de maneras que no podemos imaginar.
+Pero incluso antes de llegar a eso, podemos hacer la vida cinco veces mejor.
+Sin que esa investigación tenga éxito, gracias, sí, sí. Ahora, una cosa rápida.
+Pregunta: ¿Qué crees que debería hacer Apple con Newton? Tenías que preguntar.
+Eso eh
+Soy una minoría y lo que pienso realmente no importa.
+No importa esto
+Uh, creo que la mayoría de las empresas no pueden tener éxito.
+con una pila de software de sistema um
+um rara vez pueden manejar dos y creo que vamos a...
+Conseguir gestionar dos durante los próximos años con Mac OS y rap CID
+Lo cual es un hecho de que no puedo imaginarme teniendo éxito.
+Estoy tratando de manejar tres, así que tengo una especie de ley de...
+La física se desconecta al intentar hacer eso, simplemente no veo cómo se puede hacer y no lo sé.
+Creo que eso tiene algo que ver con lo bueno o malo que es Newton o si deberíamos fabricar productos de 800 o 500 dólares, que creo que deberíamos hacer.
+Tiene que ver con que no veo cómo se gestionan tres pilas de software y eso es lo que yo...
+¿Crees que realmente tienes uno nuevo? ¿Lo has usado? Probé uno nuevo. Compré uno. Pensé que era... uh, compré uno de los...
+Los primeros que era una porquería lo tiré a la basura, compré uno de los uh Motorola Envoys, la cosa inalámbrica que...
+Pensé que era una basura después de usarlo durante tres meses y lo tiré a la basura. Escuché que los nuevos son mucho más caros.
+mejor no he probado uno he estado como que es eso probar uno si lo hare
+Pero mira, aquí está mi problema. Mi problema es que para mí el bit de orden superior es...
+Conectividad correcta El bit de orden superior es estar en contacto para conectarse a una red.
+Por eso compré el Envoy, tenía un módem celular y, eh, no...
+Creo que el mundo se trata de mantener mi vida en esta pequeña cosa y grabarla en mi computadora cuando regrese a mi base.
+estación Creo que lo que quiero es esta pequeña cosa que llevo conmigo, tiene un teclado porque si envías un correo electrónico necesitas un
+teclado hasta que perfecciones el reconocimiento de voz necesitas un teclado no puedes sentarte ahí y escribir cosas necesitas un teclado y necesitas
+estar conectado a la red así que si alguien pudiera hacer una pequeña cosa donde estuvieras conectado a la red
+en todo momento y tienes un pequeño teclado como un emate con un módem dentro. Dios, me encantaría comprarlo.
+Uno, eh, pero no veo uno de esos por ahí y no me importa qué sistema operativo tenga.
+Es así, ya sabes, no quiero un pequeño garabato, pero así soy yo, así soy yo.
+Yo, eh, una última pregunta, señor. Esto se refiere a relaciones públicas y marketing.
+Porque mencionaste eso un poco antes, um, primero que nada, ¿estarías interesado en?
+tomando un rol un poco más evangelístico dentro de la empresa porque ya sabes
+Sí, eres una persona soltera, eres una minoría, por así decirlo, pero cuando...
+Hablar de eso tiene mucho efecto porque, básicamente, ya sabes, una piedra en un estanque produce muchas ondas.
+La segunda cosa que se relaciona con eso es que, desde el punto de vista del marketing, vamos a...
+Imprima algo que tenga sentido y que los escritores puedan escribir.
+Las historias y el respaldo de las cosas tendrán un efecto muy positivo y eso es correcto, pero el lado del marketing...
+La casa parece no estar sincronizada con todo lo demás y, en particular, con ciertas agencias de marketing. ¿Qué harías?
+Se necesita que Apple trabaje con una agencia de marketing que tenga un interés personal en que las cosas tengan éxito.
+Personalmente hablando, no siento que la organización de marketing actual y esto no está hablando de hablar de
+Guero esto es más el um el marketing las otras agencias de marketing que trabajan con apple no creo que ellas
+tienen los mejores intereses de Apple en el corazón porque no tienen hambre, no tienen Drive, no tienen ninguna razón para decir "oye".
+Tenemos que hacer que esta cosa vuele porque si no, moriremos junto con ellos. Bueno, déjame responder ambas preguntas.
+En orden inverso, creo que Apple necesita trabajar con agencias realmente excelentes.
+No me importa si tienen hambre o no. No me importa si son de la costa oeste o de la costa este, solo necesitan estarlo.
+Genial porque los resultados deben ser excelentes. Nuestros clientes no nos van a medir por cuánto se esforzaron o cuán hambrientos estaban.
+Ellos nos van a medir por lo que ven, sí, así que necesitan ser geniales y, eh, estoy de acuerdo contigo, no lo creo.
+Creo que el 100% de las personas con las que trabaja Apple son geniales y creo que la persona que dirige el marketing, Greo Duca, es realmente...
+Bueno, él lo sabe y está trabajando en esas cosas, eh, en una, en una.
+lista de prioridades y comienza con las más importantes y avanza hacia abajo, así que creo que tu punto de vista es...
+Absolutamente compartido y tomará algunos meses más ver algunas de esas cosas.
+sucederá y probablemente pasarán algunos meses más después de eso para obtener resultados porque hay cosas más importantes que deben hacerse y se están haciendo en términos
+De mi papel cuando Apple compró Next Heil me pidió que fuera asesor de
+Él y yo acordamos hacer eso, eh, hasta que él me dijo que me fuera o él me iría.
+decidió que no me estaba escuchando y ninguna de esas cosas ha ocurrido y estoy muy agradecido por la oportunidad.
+Y me gusta trabajar con él en cuestiones estratégicas en el área donde estoy.
+Realmente he concentrado mi energía durante los últimos meses en ayudar.
+Gil uh rediseñó la organización de la empresa y a um y y su superior
+Tenientes y así, la compañía pasó de ser una compañía muy orientada a divisiones
+con un trillón de centros de pérdidas y ganancias y era muy complicado a muy simple
+La organización ahora está muy organizada funcionalmente. Obi-tanian llegó y ahora está a cargo de todo el software y creo que...
+Obi es realmente de primera categoría. Creo que es uno de los mejores ejecutivos de software del planeta. Creo que está haciendo un gran trabajo.
+Realmente es un buen trabajo que John Rubenstein haya venido a manejar el hardware y siento exactamente lo que necesito.
+Hablé un poco sobre John antes, él es el mejor, Gino Duca está a cargo del marketing, anteriormente dirigió Claris y yo.
+Creo que está haciendo un muy buen trabajo, eh, Fred Anderson, el director financiero, es de primera categoría y...
+El resto del equipo, así como la fabricación, etc., es muy, muy bueno, así lo creo.
+Siento que el equipo que puede ejecutar los planes de Gill es bastante bueno.
+Son fuertes y trabajan bien juntos como equipo y para mí eso es lo mejor.
+orden bit uh no va por ahí dando discursos y cosas así porque el problema de Apple no ha sido un
+La falta de volumen de aire que sale de Apple ha sido una falta de ejecución.
+Ha habido una falta de buena gestión, solo se trata de las cosas básicas y creo que...
+Se están poniendo en marcha los principios básicos y, en gran medida, ya se han puesto en práctica.
+lugar y eso se está filtrando, ya sabes, a través de la organización y creo que vas a obtener resultados.
+No suceden de la noche a la mañana, pero creo que ya están empezando a suceder algunos de los productos más nuevos que creo que son buenos.
+Y creo que, para finales de este año, ya sabrán que las cosas van a estar mucho más claras.
+Mi sugerencia es que no te asustes por Microsoft.
+No más de lo que nos asustó IBM cuando iniciamos Apple, aunque quizás no lo entiendas del todo.
+Ha habido un cambio radical en Apple en la gestión de la empresa y hay algunas personas muy fuertes
+Dirigir las organizaciones funcionales eh creo que tengo mucha confianza
+en el equipo superior de la empresa para ejecutar y creo que van a y creo que uh el movimiento a raps ciudad
+representa una oportunidad muy discontinua para que los desarrolladores de software compitan y tomen decisiones.
+Algunos productos realmente geniales, y Rap City se ejecutará en todo, desde PC hasta las nuevas Mac e incluso las antiguas Mac.
+Sistema operativo y creo que hay una tremenda oportunidad de adoptar estas nuevas cosas.
+Si yo fuera tú, lo que haría sería salir y comprar cualquier caja que ejecute Rap City y
+Empieza a echarle un vistazo y comienza a desarrollar algo de código en él y creo que quedarás impresionado.
+lejos um y creo que hay una oportunidad de hacer algunas aplicaciones realmente maravillosas y que este cliente
+La base que tenemos de unas pocas decenas de millones de personas realmente puede comenzar a avanzar rápidamente.
+El resto de toda la industria en lo que pueden hacer, las capacidades que tienen, la experiencia que tienen y la diversión.
+que tienen y mucho de esto va a depender de ti uh y realmente espero que aceptes esto tanto como el
+El equipo de Apple se debe a que tenemos la oportunidad de hacer algo realmente bueno y realmente aprecio la oportunidad.
+Ven aquí con algunas de tus preguntas y espero poder responder algunas de ellas y tener la oportunidad de estar aquí contigo hoy, gracias.
+Ok, muchas gracias a Steve por eso, fue genial.

@@ -1,0 +1,15 @@
+"0","# ---------- duque ----------"
+"0","set.seed(124)"
+"0","text_2005 %>%"
+"0","  count(word, sort = TRUE) %>%"
+"0","  with(wordcloud(words = word, freq = n, max.words = 20, colors = 'blue4'))"
+"2","Warning in wordcloud(words = word, freq = n, max.words = 20, colors = ""blue4"") :"
+"2","
+ "
+"2"," apple could not be fit on page. It will not be plotted.
+"
+"2","Warning in wordcloud(words = word, freq = n, max.words = 20, colors = ""blue4"") :"
+"2","
+ "
+"2"," aplicaciones could not be fit on page. It will not be plotted.
+"

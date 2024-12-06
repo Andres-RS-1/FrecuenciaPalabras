@@ -1,0 +1,8 @@
+"0","suppressMessages(suppressWarnings(library(wordcloud)))"
+"0","###### viz"
+"0","par(mfrow = c(1,2), mar = c(1,1,2,1), mgp = c(1,1,1))"
+"0",""
+"0","set.seed(124)"
+"0","text_1997 %>%"
+"0","  count(word, sort = TRUE) %>%"
+"0","  with(wordcloud(words = word, freq = n, max.words = 20, colors = 'darkolivegreen4'))"
